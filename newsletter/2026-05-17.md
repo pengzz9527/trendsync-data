@@ -1,15 +1,15 @@
 🔥今日最热
 
-GitHub Top8 榜单今天有点意思——**build-your-own-x** 以 50 万星继续霸榜，说明大家嘴上说“造轮子没用”，身体却很诚实。**freeCodeCamp** 和 **system-design-primer** 紧随其后，看来系统设计和全栈学习依然是刚需。不过最让我意外的是 **public-apis** 居然排到第四，43 万星，这玩意儿就是个 API 合集而已，侧面反映出开发者对“现成接口”的渴望有多强烈——能调就不自己写，能白嫖就不付费。
+GitHub 上那个教你「手撸一切」的项目 **build-your-own-x** 已经飙到 **50 万星**了，说明大家嘴上说学不动，身体却很诚实——自己动手造轮子才是真香。另一个值得注意的信号是，**freeCodeCamp** 和 **developer-roadmap** 这两个学习型项目依然稳居前八，说明技术圈还在疯狂补课，尤其是系统设计和全栈路线图这类硬核内容，需求远没饱和。
 
 📈值得关注
 
-本周新星里有个狠角色：**FULU-Foundation/OrcaSlicer-bambulab**，C++ 写的 3D 打印切片工具，一周拿下 5590 星，说明开源硬件生态正在爆发。**vercel-labs/zero** 虽然只有 1440 星，但它是 Vercel 官方的零配置框架，值得盯一下。HN 上最热的帖子是“AI 不会让你的流程更快”（214 票，144 评），评论区吵翻了——有人吐槽“AI 生成代码后 debug 时间翻倍”，也有人反驳“那是你不会用”。另外 **Apple Silicon 比 OpenRouter 还贵** 这条也炸了，132 票，大家终于开始算账了：本地跑模型省下的 API 钱，够买几块 M4 芯片？
+本周新星里冒出一个有意思的项目：**OrcaSlicer-bambulab**，专为 Bambu Lab 3D 打印机优化切片器，**5500 星**的增速说明玩硬件的技术宅正在崛起。HN 上最炸裂的是两条：一是有人爆出 **Microsoft 在 Bitlocker 里留了后门**，还公开了利用工具，这比什么 AI 订阅炸弹更吓人；另一条是 **"Native all the way, until you need text"**，直击跨平台开发的痛点——你费劲写原生，到头来渲染个文本还得靠 WebView。
 
 🏷语言趋势
 
-本周语言热度榜上，**TypeScript** 和 **Python** 并列 6 分领跑，**JavaScript** 只有 3 分，这数据挺有意思——TypeScript 正在吃掉 JS 的份额，而 Python 靠 AI 和自动化稳如老狗。**Shell** 排到 2 分，说明 DevOps 和脚本需求没减。Dev.to 上那篇“How to read any legacy codebase”拿到 11 个心，评论区全是“看哭了”的留言——看来大家都被祖传代码折磨过。掘金上 **AGENTS.md 让 AI 代码规范率从 60% 飙到 95%** 那篇火了，22 个赞，核心思路是给 AI 写个“使用说明书”，比调 prompt 管用多了。
+本周 TypeScript 和 Python 并列第一，各有 **6 个项目**霸榜，但 TypeScript 的含金量更高——**freeCodeCamp、OpenClaw、developer-roadmap** 全是它的地盘，说明全栈工具链和 AI 助手都在往 TS 生态迁移。Python 这边靠的是 **public-apis** 和 **free-programming-books** 这种资源型项目，更像老本行。Shell 只出现在 **2 个项目**里，但系统设计那本神书用 Shell 写例子，说明底层基本功还是得靠命令行。
 
 💡小编视角
 
-今天最让我共鸣的是 HN 上那条“Native all the way, until you need text”（221 票）。翻译成人话就是：你吹原生应用多牛逼，但一遇到富文本编辑就歇菜。这背后其实是 Web 技术的不可替代性——HTML/CSS 对文本渲染的掌控力，原生框架至今没追上。另外 **Bitlocker 后门事件** 也值得关注，安全研究员说微软留了后门还放出了 exploit，虽然只有 73 票但信息量很大。如果你在用 Bitlocker，建议去 HN 原帖看看详情，别等出事了再慌。
+今天最让我兴奋的是 HN 上那篇 **"Prolog Basics Explained with Pokémon"**，用皮卡丘教逻辑编程，112 个赞虽然不多，但思路绝了——把枯燥的声明式编程翻译成抓精灵，这才是技术科普该有的样子。另外 Dev.to 上那篇 **"How to read any legacy codebase"** 被 11 个心推上热门，说明每个程序员都曾被祖传代码折磨过，考古学式的代码阅读方法论，值得收藏。最后提醒一句：**AGENTS.md 那篇文章说 AI 代码规范率能从 60% 飙到 95%**，如果你还在被 AI 写的垃圾代码气到摔键盘，赶紧去掘金找找看。
