@@ -1,0 +1,9 @@
+{
+  "collected_at": "2026-05-17T10:00:00Z",
+  "date": "2026-05-17",
+  "status": "ready",
+  "message": "TrendSync 数据仓库已就绪，等待首次采集",
+  "github_trending": [],
+  "hacker_news": [],
+  "summary": "仓库初始化完成。Cron 触发后将自动采集 GitHub 趋势和 HackerNews 数据。"
+}
