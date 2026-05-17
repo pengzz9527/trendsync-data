@@ -1,52 +1,15 @@
 🔥今日最热
 
-**GitHub Top 8 星标数集体突破 34 万**
-- **codecrafters-io/build-your-own-x** ★501986 教你通过复刻技术项目学编程
-- **sindresorhus/awesome** ★467312 各种有趣主题的精选清单
-- **freeCodeCamp/freeCodeCamp** ★444998 开源代码库和课程，用 **TypeScript** 写
-- **public-apis/public-apis** ★435462 Python 写的免费 API 集合
-- **EbookFoundation/free-programming-books** ★388450 Python 整理的免费编程书籍
-- **openclaw/openclaw** ★372599 TypeScript 写的个人 AI 助手，跨平台
-- **nilbuild/developer-roadmap** ★354941 TypeScript 做的交互式学习路线图
-- **donnemartin/system-design-primer** ★348985 Python 写的系统设计入门指南
+今天GitHub上最炸裂的项目依然是codecrafters-io/build-your-own-x，**50万星**的Markdown神书教你手撸一切技术。但真正有意思的是HN上那篇《I don't think AI will make your processes go faster》，**212票、144条评论**吵翻了——大家开始反思AI吹的泡沫，觉得它反而让流程更臃肿。另外，security researcher爆出微软Bitlocker有后门还放出了exploit，**168票**直接炸了安全圈，这可比什么新框架刺激多了。
 
 📈值得关注
 
-**HN 热点：AI 与安全的争议**
-- ▲221 「原生到底，直到你需要文本」引发 **150 条**讨论
-- ▲211 「我不认为 AI 会让你的流程更快」收获 **142 条**评论
-- ▲165 安全研究员称微软为 Bitlocker 留了后门，还发布了利用代码
-- ▲162 「每个 AI 订阅都是企业的定时炸弹」获 **118 条**讨论
-- ▲159 Apple Silicon 比 OpenRouter 更贵
-
-**本周新星：工具与硬件**
-- **FULU-Foundation/OrcaSlicer-bambulab** ★5589 C++ 写的 3D 打印切片工具
-- **Nightmare-Eclipse/YellowKey** ★3036 神秘新项目
-- **nexu-io/html-anything** ★2722 纯 HTML 项目
-
-**Dev.to 开发者最爱：性能与架构**
-- ❤️14 有人受够 Docker 吃树莓派内存，自己造了容器编排器
-- ❤️11 「如何阅读遗留代码库」考古手册
-- ❤️10 桌面应用终结了「开 7 个终端再祈祷」的日常
+本周新星里，FULU-Foundation/OrcaSlicer-bambulab蹭着3D打印热度冲上**5589星**，C++写的切片工具，玩Bambu Lab打印机的必看。还有vercel-labs/zero这个C语言项目，**1437星**但名字很唬人——Vercel搞的零配置工具链，虽然现在还很早期。HN上那篇《Every AI Subscription Is a Ticking Time Bomb for Enterprise》也值得细品，**162票**说企业订阅AI服务就像定时炸弹，成本失控、供应商锁定，说得挺实在。
 
 🏷语言趋势
 
-**TypeScript 和 Python 并列第一，各占 6 席**
-- 其他语言 **8 个**项目，但以 Markdown 和文档为主
-- **JavaScript 3 个**，Shell **2 个**，C++ 和 HTML 各 **1 个**
-- 本周新星里 **C++** 项目星标最高，达 **5589**
+本周语言热度榜上，TypeScript和Python并列第一，各**6个**项目上榜，JavaScript只有**3个**。TypeScript在GitHub Top8里占了三个位置（freeCodeCamp、openclaw、developer-roadmap），说明全栈教育和AI工具都在往TS靠。Python这边public-apis和system-design-primer都是老牌项目，但free-programming-books也是Python写的——有点意思，Python成了“整理知识”的默认语言。
 
 💡小编视角
 
-**AI 工具热，但开发者更焦虑了**
-- GitHub 前 8 里，AI 相关项目只有 openclaw 一个
-- HN 上 **3 篇**帖子在质疑 AI 的效率、成本和安全性
-- 开发者开始回归基础：学系统设计、读遗留代码、自己造轮子
-
-**数据说话：免费资源仍是刚需**
-- 前 8 里有 **4 个**是免费学习资源（编程书、API、路线图、系统设计）
-- 总星标数超过 **180 万**，说明开发者永远缺好教程
-
-**TypeScript 正在吃掉世界？**
-- 前 8 里 **3 个**用 TypeScript，超过 Python 的 **2 个**
-- 但 Python 项目更偏工具型，TypeScript 偏教育型
+今天最让我感慨的是那篇《Native all the way, until you need text》，**221票**，讲的是你写原生应用很爽，但一碰到文本处理就崩——这恰恰解释了为什么Electron还没死。另外Dev.to上那个《I Got Tired of Docker Eating My Raspberry Pi's RAM — So I Built My Own Container Orchestrator》很对我胃口，**14个❤️**，作者自己撸了个轻量级编排工具来替代Docker，思路清奇。最后掘金那篇《一份AGENTS.md，让AI代码规范率从60%飙升到95%》值得所有用AI写代码的人看——**22个👍**，说白了就是给AI写一份“行为准则”，它就能按你的规矩来，比调prompt管用多了。
