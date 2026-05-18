@@ -1,15 +1,15 @@
 🔥今日最热
 
-GitHub 上最炸的还得是 **build-your-own-x**，52 万星教你手撸各种技术栈，从数据库到 Git，这玩意儿才是真·编程启蒙书。freeCodeCamp 紧随其后，44 万星稳如老狗，TypeScript 重写后更现代了。值得注意是 **openclaw** 这个个人 AI 助手涨到 37 万星，跨平台、全系统跑，感觉要取代一堆收费工具。另外 **public-apis** 43 万星，免费 API 合集，做 side project 的福音，但别指望稳定性。
+GitHub Top8 榜单今天有点"老熟人开会"的意思，**build-your-own-x** 以 **502,200** 星稳坐第一，这项目教你怎么手撸各种技术栈，从数据库到操作系统，本质上是把"从零造轮子"这件事做成了教科书。**freeCodeCamp** 以 **445,074** 星排在第三，TypeScript 重写后性能更稳了，适合想系统学全栈的新手。不过最让我意外的是 **openclaw**（**372,906** 星），一个跨平台 AI 助手项目，居然悄咪咪杀到了第六，说明大家是真的想要一个"不依赖云端的私人管家"。
 
 📈值得关注
 
-本周新星里，**OrcaSlicer-bambulab** 5857 星，3D 打印切片器，Bambu Lab 用户狂喜，C++ 写的性能肯定不差。**html-anything** 3137 星，纯 HTML 实现各种 UI 组件，轻量到离谱，适合不想碰框架的人。**zero** 2140 星，Vercel 出品，C 语言写的零配置工具，感觉要搞大事。HN 上 **Files.md** 191 票，开源 Obsidian 替代品，Markdown 笔记控可以蹲一下，但别指望马上能打。
+本周新星里，**OrcaSlicer-bambulab** 飙到 **5857** 星，C++ 写的 3D 打印切片器，专门适配 Bambu Lab 打印机，硬核玩家社区又多了个玩具。**YellowKey** 和 **html-anything** 分别以 **3316** 和 **3138** 星紧随其后，前者用途不明但热度诡异，后者用 HTML 搞"万物生成"，有点低代码那味儿。HN 上 **Files.md** 这个 Obsidian 开源替代品拿了 **191** 票，评论区吵翻了——有人说它轻量到离谱，有人嫌功能太少，但至少证明了"笔记工具"赛道永远不缺新玩家。
 
 🏷语言趋势
 
-这周 TypeScript 和 Python 各 6 次上榜，平起平坐。TypeScript 靠 freeCodeCamp、openclaw 这些大项目撑场，Python 则是 public-apis 和 free-programming-books 这种经典库。JavaScript 掉到 3 次，Shell 2 次，其他语言加起来 8 次但没一个能打。TypeScript 的静态类型和 Python 的数据生态，短期内谁也干不掉谁，但 TypeScript 在 AI 工具链里越来越猛。
+本周语言热度榜上，**TypeScript** 和 **Python** 各占 **6** 个席位，并列第一，但含金量不同：TypeScript 主导了 **openclaw**、**developer-roadmap** 这类工具型项目，而 Python 则撑起了 **public-apis**、**free-programming-books** 这类数据/教育类内容。**JavaScript** 只有 **3** 个，**Shell** 剩 **2** 个，看来前端生态正在被 TS 蚕食，而 Python 的"胶水语言"地位依然稳如老狗。另外，**C++** 凭借 OrcaSlicer 刷了一波存在感，但整体还是小众狂欢。
 
 💡小编视角
 
-Dev.to 上那篇 **DeepSeek 藏在你的 AI 工具里** 22 赞，说的就是现在很多 SaaS 偷偷用开源模型，用户根本不知道。另一个狠货是 **I gave Claude six months of our retros**，用 AI 分析团队回顾，挖出三个盲点，这比拍脑袋复盘强多了。掘金上 **一套 Rust 核心跑通 Tauri + React Native** 19 赞，跨平台方案越来越香，但 Rust 的学习曲线依然劝退。最后，**Android Studio 卡顿** 那篇 15 赞，老生常谈但真实，JetBrains 的 Fleet 要是能支棱起来就好了。
+今天 Dev.to 上两篇文章让我印象深刻：一篇说 **DeepSeek 已经偷偷跑进了你用的 AI 工具里**，没人告诉你，这背后是开源模型被滥用的老问题——你以为是独家 API，其实是套壳。另一篇是有人把团队六个月复盘喂给 Claude，发现了三个自己漏掉的关键问题，这招挺狠，AI 做"组织诊断"比写代码更值钱。Reddit 上那个 **Bidet AI** 项目名字太骚了，用 Gemma 4 把"脑残草稿"变"干净文章"，本质上就是个本地化写作助手，但名字起得好，流量就来了。最后说个八卦：Android Studio 卡顿问题在掘金又火了，**15** 个赞说明大家真被恶心到了——其实关掉索引、调大内存就能解决，但谷歌就是不改，可能是想让开发者多喝咖啡吧。
