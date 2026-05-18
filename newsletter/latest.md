@@ -1,15 +1,15 @@
-🔥今日最热
+🔥 今日最热
 
-GitHub 上那个教你「手撸一切」的项目 **build-your-own-x** 已经飙到 **50 万星**了，说明大家嘴上说学不动，身体却很诚实——自己动手造轮子才是真香。另一个值得注意的信号是，**freeCodeCamp** 和 **developer-roadmap** 这两个学习型项目依然稳居前八，说明技术圈还在疯狂补课，尤其是系统设计和全栈路线图这类硬核内容，需求远没饱和。
+GitHub 上 build-your-own-x 以 **50万+** star 持续霸榜，这个项目教你从零复刻 Redis、Git 甚至操作系统——说白了，最好的学习方式就是亲手造轮子。而 system-design-primer 也有 **34.9万** star，说明大厂面试依然是程序员最焦虑的事，系统设计成了硬通货。本周新星 OrcaSlicer-bambulab 飙到 **5708** star，3D 打印开源生态越来越热闹，Bambu Lab 用户终于有了自己的切片神器。
 
-📈值得关注
+📈 值得关注
 
-本周新星里冒出一个有意思的项目：**OrcaSlicer-bambulab**，专为 Bambu Lab 3D 打印机优化切片器，**5500 星**的增速说明玩硬件的技术宅正在崛起。HN 上最炸裂的是两条：一是有人爆出 **Microsoft 在 Bitlocker 里留了后门**，还公开了利用工具，这比什么 AI 订阅炸弹更吓人；另一条是 **"Native all the way, until you need text"**，直击跨平台开发的痛点——你费劲写原生，到头来渲染个文本还得靠 WebView。
+Hacker News 上最火的是那篇把 **80美元** RK3562 安卓平板刷成 Debian 工作站的帖子，**222** 票 **114** 条评论——说明大家受够了性能过剩的旗舰机，反而对廉价硬件的折腾更有热情。Mercurial 20周年纪念帖也炸了，**149** 票证明版本控制老将还没死，Git 一家独大未必是好事。Dev.to 上有人用 Gemma 4 做了实时手语翻译器，本地运行无需云，边缘 AI 终于从概念走向了实用。
 
-🏷语言趋势
+🏷 语言趋势
 
-本周 TypeScript 和 Python 并列第一，各有 **6 个项目**霸榜，但 TypeScript 的含金量更高——**freeCodeCamp、OpenClaw、developer-roadmap** 全是它的地盘，说明全栈工具链和 AI 助手都在往 TS 生态迁移。Python 这边靠的是 **public-apis** 和 **free-programming-books** 这种资源型项目，更像老本行。Shell 只出现在 **2 个项目**里，但系统设计那本神书用 Shell 写例子，说明底层基本功还是得靠命令行。
+本周 GitHub 语言分布很微妙：TypeScript 和 Python 各 **6** 次上榜，JavaScript 只有 **3** 次。TypeScript 在开源项目里几乎成了默认选项，freeCodeCamp、openclaw 这些大型项目全用它。Python 则靠 public-apis 和 free-programming-books 这类数据密集型项目撑着。Shell 还能刷到 **2** 次存在感，说明自动化脚本需求依然坚挺，但 JavaScript 被挤压得有点惨。
 
-💡小编视角
+💡 小编视角
 
-今天最让我兴奋的是 HN 上那篇 **"Prolog Basics Explained with Pokémon"**，用皮卡丘教逻辑编程，112 个赞虽然不多，但思路绝了——把枯燥的声明式编程翻译成抓精灵，这才是技术科普该有的样子。另外 Dev.to 上那篇 **"How to read any legacy codebase"** 被 11 个心推上热门，说明每个程序员都曾被祖传代码折磨过，考古学式的代码阅读方法论，值得收藏。最后提醒一句：**AGENTS.md 那篇文章说 AI 代码规范率能从 60% 飙到 95%**，如果你还在被 AI 写的垃圾代码气到摔键盘，赶紧去掘金找找看。
+掘金上那篇「一份 AGENTS.md 让 AI 代码规范率从 60% 飙升到 95%」戳中了痛点——不是 AI 写不好代码，是你没教会它你的规矩。同样，Reddit 上有人抱怨 Docker 吃光树莓派内存，干脆自己写了个容器编排工具，这种"被逼出来的轮子"才是技术进步的真正动力。最后想说，别被 GitHub 的 star 数忽悠了，真正值得关注的是那些解决具体痛点的项目，比如那个 **1275** star 的 native-feel-skill，听着名字就觉得有故事。
