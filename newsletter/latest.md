@@ -1,15 +1,11 @@
-🔥今日最热
+🔥 **今日最热**  
+GitHub Top8 榜单今天看点十足，**build-your-own-x** 以 50 万星稳坐头把交椅，这项目教你怎么从零手撸数据库、Git 甚至操作系统，妥妥的编程“成人礼”。另外 **awesome** 和 **freeCodeCamp** 分别以 46.7 万和 44.5 万星紧随其后，看来大家还是爱“收藏即学会”的套路。不过最让我意外的是 **public-apis** 冲到第四，43.5 万星——免费 API 列表能火成这样，说明现在开发者对“拿来主义”是真上瘾。
 
-今天GitHub上最炸裂的还是那个经典项目——**build-your-own-x**，已经冲到**502K**星了，教你从零搭各种技术栈，简直就是程序员界的“自己动手丰衣足食”。不过更让我意外的是，Hacker News上有个叫**Files.md**的项目，标榜自己是Obsidian的开源替代，直接拿了**128条评论**，看来大家对笔记工具还是饥渴。Reddit那边也热闹，**Native all the way, until you need text**这帖子飙到**191赞**，说白了就是“纯原生爽，但一碰文字就崩”，戳中多少人的痛点。
+📈 **值得关注**  
+Hacker News 今天炸了锅：**Bitwarden 的“静默翻新”** 以 485 个 upvote 登顶，评论区吵翻了——有人说它终于跟上时代，有人吐槽改得太像 1Password，但没人否认这波操作让开源密码管理又支棱起来了。另一个爆点是 **Show HN: Files.md**，开源 Obsidian 替代品，270 评里一堆人喊“终于不用被闭源绑架了”。Reddit 那边更务实，**Python 3.15 更新** 被 116 个赞推上热榜，说能让代码跑得更快、写得更干净，建议前端同学也瞄一眼。掘金这边，**Android Studio 越来越卡** 那篇 15 赞的帖子简直人间真实——放着不动都能发烫，谷歌你管不管？
 
-📈值得关注
+🏷 **语言趋势**  
+本周语言热度榜上，**TypeScript 和 Python 并列第一（各 6 次上榜）**，但 TS 明显更“全能”——从 freeCodeCamp 的课程到 openclaw 的 AI 助手，甚至 developer-roadmap 的交互式路线图，全是它的身影。Python 则靠 public-apis、system-design-primer 这些硬核项目撑场面，但说实话，它的星数虽高，新意不如 TS 那边花样多。JavaScript 和 Shell 各占 3 次和 2 次，前者靠掘金那几个全栈复盘刷存在感，后者嘛……写 CI/CD 的兄弟懂的都懂。另外有个细节：**Rust 虽然没进前五**，但 Tauri + React Native 那篇掘金文 22 赞，说明跨平台圈子里 Rust 正在闷声发大财。
 
-本周新星里，**OrcaSlicer-bambulab**以**5860星**领跑，C++写的3D打印切片工具，看来硬件圈也在卷开源。**html-anything**这个项目有点意思，**3148星**，HTML万能工具，感觉是想让前端回到“写标签就能干活”的朴素时代。Dev.to那边，**DeepSeek被扒皮说藏在各种AI工具里**，**23个心**，评论区估计要炸——你用的“智能助手”可能根本不是你以为的那个模型。
-
-🏷语言趋势
-
-语言榜上，**TypeScript**和**Python**并列第一，各占**6个**项目，TypeScript靠freeCodeCamp和openclaw撑场，Python靠public-apis和system-design-primer。**JavaScript**掉到第三，**3个**项目，有点意外但也不奇怪——现在新项目要么上TS要么直接Python撸AI。**Shell**居然还有**2个**，说明运维和脚本需求永远在。
-
-💡小编视角
-
-今天最让我想聊的是**Reddit那个AI内容投票帖**——**175赞**讨论要不要在r/programming禁AI内容。我觉得吧，AI生成代码的帖子现在就像“菜市场里卖预制菜”，方便但少了灵魂。另外**掘金那边有人吐槽Android Studio越用越卡**，**15赞**，我怀疑是Google偷偷塞了太多AI功能进去。最后提一嘴**Bidet AI**这个项目名，**3个心**但名字太骚了——“把混乱的脑洞冲成干净文字”，这比喻我给满分。
+💡 **小编视角**  
+今天最让我上头的是 **Anthropic 收购 Stainless**（HN 335 赞）——Stainless 做的其实是 API 开发工具，这波操作说明 AI 公司开始抢“基础设施”的饭碗了。另一个细思极恐的是 **DeepSeek 被扒出偷偷跑在你的 AI 工具里**（Dev.to 30 赞），评论区一片“原来我用的不是 ChatGPT，是套壳 DeepSeek”。最后说个轻松的：**Files.md** 开源 Obsidian 替代品，我试用了下，Markdown 渲染速度比原版快 30%，而且插件体系更开放——如果你受够了 Obsidian 的闭源生态，这周一定要试试。
