@@ -1,15 +1,15 @@
-🔥 **今日最热**
+🔥今日最热
 
-今天 GitHub 上最炸的还得是 **build-your-own-x**，**50 万星**了，这玩意儿就是教你手撸各种技术（数据库、Git、编译器啥的），简直是程序员版的“从零开始造火箭”。另外 **freeCodeCamp** 也飙到 **44 万星**，TypeScript 重写的课程体系越来越能打，想入门全栈的别错过。不过最让人后背发凉的是 CISA 自己把私钥泄露到 GitHub 上了——**525 个 Reddit 赞**的帖子直接把这事儿炸出来，安全部门自己翻车，这比漏洞本身还讽刺。
+GitHub 上今天最炸的还得是 **build-your-own-x**，**50万星**了，这项目就是教你手搓各种技术——从数据库到操作系统，比看十本教材都管用。**freeCodeCamp** 也稳在 **44万**，TypeScript 写的全栈课程，零基础到能干活一条龙。另外 **public-apis** 这个 **43万星** 的公共API列表，简直是开发者工具箱里的瑞士军刀，随便翻翻就能找到灵感。
 
-📈 **值得关注**
+📈值得关注
 
-HN 上 OpenAI 用模型推翻了离散几何的一个核心猜想，**633 分**、**436 条评论**，这已经不是“AI 辅助科研”了，是 AI 直接下场当数学家。另一边，**Google 宣布对 Web 宣战**（250 分），虽然没说具体干啥，但结合他们推的 AI Edge Gallery 和 MCP 本地化，明显是想把 Web 应用往自己生态里拽。还有 **Flipper One** 的技术规格曝光，**208 分**，这玩意儿要是真能打通多协议攻击，安全圈又得加班了。
+这周新星里最亮的是 **zerolang**，**4146星** 的C语言项目，Vercel 搞的零运行时语言，有点意思。**vggt-omega** 这个 **1440星** 的Python项目，Facebook Research 出品，估计是视觉方面的新玩具。HN上 **Flipper One** 求助帖炸了 **615票**，**283条评论**，社区对硬件黑客工具的热情还是猛。另外 **Python 3.15** 的未宣传特性有 **186票**，说明大家对新版本细节是真上心。
 
-🏷 **语言趋势**
+🏷语言趋势
 
-本周 TypeScript 和 Python 并列第一，各占 **6 个**热门项目，但 TypeScript 的势头更猛——**openclaw**（37 万星）和 **developer-roadmap**（35 万星）都是 TS 写的，AI 助手和开发者路线图这两个方向全被它包圆了。Python 这边靠 **public-apis**（43 万星）和 **system-design-primer**（34 万星）撑场，老牌经典依然能打。JavaScript 只有 **3 个**，但 **GuJumpgate** 这个新星用 JS 写了个跳板工具，可能跟最近的安全事件有关。
+今天榜单上 **TypeScript** 和 **Python** 各占 **6个** 项目，并列第一，TypeScript 靠着 freeCodeCamp、openclaw 这些大项目撑场面，Python 则是 public-apis、system-design-primer 这些经典款。**JavaScript** 和 **Shell** 各 **3个** 和 **2个**，虽然数量少但胜在实用——比如那个 **9arm-skills** 的 Shell 项目，**1122星** 挺扎实。
 
-💡 **小编视角**
+💡小编视角
 
-今天最让我兴奋的是 **vercel-labs/zerolang**，一个 **C 语言**写的新星项目，**3967 星**，号称“零开销语言”，Vercel 这帮人又在搞事情。但更值得聊的是 Reddit 上那个 **“YAML? That's Norway problem”** 的梗——YAML 配置的坑大家都懂，但这个双关（Norway = No way）笑死我。另外，**Google I/O 2026** 的 Dev.to 文章只有 13 个赞，说明大家对画饼已经免疫了，反倒是那个 **“Kubernetes 替代品”** 的帖子有 16 个赞，开发者对复杂工具的反感正在催生新东西。
+Dev.to 上那篇 **“Every Developer Is Lying About Something”** 拿了 **47❤️**，说得挺扎心——技术圈里人人都在装懂，AI 也救不了这毛病。另一篇 **“MCP Just Landed on Your Phone”** 讲 Google 的新东西，**24❤️**，看来边缘AI落地手机这事儿大家挺期待。掘金上 **微信读书官方发skills** 那个帖子 **28👍**，把小编也秀到了——大厂搞这种花活，技术人的脑洞是真大。最后提醒下，**Claude Code 的Token消耗能降80%** 那篇 **14👍**，实用技巧，省钱的赶紧去翻翻。
