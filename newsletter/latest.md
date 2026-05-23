@@ -1,22 +1,22 @@
 🔥 **今日最热**
 
-**build-your-own-x** ⭐**503328** · 通过重建你喜欢的工具来掌握编程，持续霸榜  
-**awesome** ⭐**469186** · 收录各种有趣主题的精选列表，经典永流传  
-**freeCodeCamp** ⭐**445311** · 开源代码库与课程，学习编程的免费圣地  
+**build-your-own-x** ⭐**503627** · 通过重建你喜欢的技术来掌握编程，GitHub 最火教程
+**awesome** ⭐**469312** · 各种有趣主题的精选清单，开发者必备收藏
+**freeCodeCamp** ⭐**445334** · 开源编程课程与代码库，零基础到全栈首选
 
 📈 **值得关注**
 
-**Shipping a laptop to a refugee camp in Uganda** 👍**380** · 用技术帮助难民，引发社区共鸣  
-**Why Japanese companies do so many different things** 👍**631** · 日本企业多元化经营背后的文化逻辑  
-**Microsoft starts canceling Claude Code licenses** 👍**210** · 微软取消Claude Code许可，引发开发者热议  
-**Sleep research led to a new sleep apnea drug** 👍**143** · 睡眠研究催生新药，科技跨界医疗突破  
+**I Miss Terry Pratchett** 👍**199** · 怀念大师，引发开发者社区共鸣
+**On The <dl>** 👍**143** · HTML 定义列表的正确用法，细节决定体验
+**Making Deep Learning Go Brrrr from First Principles** 👍**73** · 从底层原理优化深度学习性能，硬核干货
+**How we're using Gemini Embeddings to build a smarter, community-driven feed on DEV** ❤️**61** · Gemini 嵌入模型助力社区推荐，实战分享
 
 🏷 **语言趋势**
 
-其他(8) → TypeScript(6) → Python(6) → JavaScript(3) → Shell(2)  
-TypeScript与Python并驾齐驱，前者主导工具与课程项目，后者守护API与系统设计经典库，JavaScript新星频出但整体热度稍逊。
+其他(8) → TypeScript(6) → Python(6) → JavaScript(3) → Shell(2)
+TypeScript 与 Python 并列第一，全栈开发与 AI 领域持续双引擎驱动
 
 💡 **小编视角**
 
-**我花两年业余时间做了个IM系统，然后呢😂？？** · 个人项目坚持两年，结果比预期更真实——技术成长才是最大回报  
-**AI 为什么总喜欢写防御性代码？** · 模型过度保守，可能源于训练数据中的“安全第一”偏见，但未必符合实际需求
+**AI Agent Failure Modes Beyond Hallucination** · 除幻觉外，AI Agent 还有更多失败模式值得关注，别只盯着一个坑
+**Your company won't replace you with good AI. They'll replace you with bad AI.** · 警惕低质量 AI 替代，提升自身不可替代性才是王道
