@@ -1,22 +1,22 @@
 🔥 **今日最热**
 
-**build-your-own-x** ⭐**503252** · 通过重造轮子掌握编程核心，极客最爱的手把手教程库  
-**awesome** ⭐**469091** · 主题清单大集合，从开发工具到生活百科应有尽有  
-**freeCodeCamp** ⭐**445303** · 开源全栈课程，零基础到实战一站式学习平台  
+**build-your-own-x** ⭐**503328** · 通过重建你喜欢的工具来掌握编程，持续霸榜  
+**awesome** ⭐**469186** · 收录各种有趣主题的精选列表，经典永流传  
+**freeCodeCamp** ⭐**445311** · 开源代码库与课程，学习编程的免费圣地  
 
 📈 **值得关注**
 
-**Why Japanese companies do so many different things** 👍**446** · 日本企业多元化战略背后的文化与管理密码  
-**Open source Kanban desktop app that runs parallel agents on every card** 👍**147** · 开源看板工具，每张卡片都能并行运行AI代理  
-**Sleep research led to a new sleep apnea drug** 👍**29** · 睡眠研究意外催生新药，科学突破有时来自非预期方向  
-**The Most Concerning AI Risk of 2026** ❤️**41** · 开发者热议：AI风险不再是“毁灭人类”，而是“平庸化决策”  
+**Shipping a laptop to a refugee camp in Uganda** 👍**380** · 用技术帮助难民，引发社区共鸣  
+**Why Japanese companies do so many different things** 👍**631** · 日本企业多元化经营背后的文化逻辑  
+**Microsoft starts canceling Claude Code licenses** 👍**210** · 微软取消Claude Code许可，引发开发者热议  
+**Sleep research led to a new sleep apnea drug** 👍**143** · 睡眠研究催生新药，科技跨界医疗突破  
 
 🏷 **语言趋势**
 
 其他(8) → TypeScript(6) → Python(6) → JavaScript(3) → Shell(2)  
-📊 TypeScript与Python并驾齐驱，前者统治学习项目与工具，后者领跑API与系统设计  
+TypeScript与Python并驾齐驱，前者主导工具与课程项目，后者守护API与系统设计经典库，JavaScript新星频出但整体热度稍逊。
 
 💡 **小编视角**
 
-**AI 为什么总喜欢写防御性代码？** · 开发者抱怨AI生成代码过度检查，但这也反映出模型对边界情况的“不安全感”——人类开发者应更注重提示词中的明确约束  
-**再见，拉勾网** · 一个时代符号的落幕：互联网招聘从“最懂人才”到“被遗忘”，提醒我们技术趋势中平台转型比技术本身更残酷
+**我花两年业余时间做了个IM系统，然后呢😂？？** · 个人项目坚持两年，结果比预期更真实——技术成长才是最大回报  
+**AI 为什么总喜欢写防御性代码？** · 模型过度保守，可能源于训练数据中的“安全第一”偏见，但未必符合实际需求
