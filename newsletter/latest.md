@@ -1,22 +1,22 @@
 🔥 **今日最热**
 
-**build-your-own-x** ⭐**504082** · 手撸技术原理，GitHub 最火自学项目  
-**awesome** ⭐**469630** · 万能资源清单，一库搞定所有兴趣方向  
-**freeCodeCamp** ⭐**445378** · 开源编程课程，零基础到全栈首选  
+**build-your-own-x** ⭐**504248** · 通过复刻你喜欢的技术来掌握编程，GitHub 最火教程项目  
+**awesome** ⭐**469723** · 各种有趣主题的精选列表，开发者必收  
+**freeCodeCamp** ⭐**445378** · 开源代码库与课程，零基础学编程首选  
 
 📈 **值得关注**
 
-**Microsoft 开源最早 DOS 源码** 👍**355** · 历史性发布，致敬操作系统起源  
-**I spent 50 hours drawing a line graph** 👍**233** · 用极致手工嘲讽数据可视化工具  
-**DeepSeek reasoning 编码代理，高缓存低成本** 👍**85** · 推理模型新突破，效率碾压传统方案  
-**Chrome 提议声明式部分更新 API** 👍**298** · 前端渲染效率或将迎来质变  
+**DeepSeek reasoning, native coding agent** 👍**395** · 高缓存低成本推理模型，AI 编程新标杆  
+**Memory has grown to nearly two-thirds of AI chip component costs** 👍**266** · 内存成本飙升，AI 芯片设计面临挑战  
+**Australia Four-Day Work Week Study Data Shows Boosted Productivity** 👍**218** · 四天工作制实证：效率提升，全球热议  
+**I built a local document Q&A tool around Gemma 4 E4B's 128K context** ❤️**35** · 五天无云端、无 RAG，本地 LLM 问答工具火了  
 
 🏷 **语言趋势**
 
-其他(8) → TypeScript(6) → Python(6) → JavaScript(3) → Shell(2)  
-TypeScript 与 Python 并列第二，全栈与AI双引擎驱动热度不减  
+其他(**8**) → TypeScript(**6**) → Python(**6**) → JavaScript(**3**) → Shell(**2**)  
+TypeScript 与 Python 并列最活跃，AI 项目与全栈开发双驱动，JavaScript 生态稳定但增长放缓  
 
 💡 **小编视角**
 
-**Gemma 4 E4B 128K 上下文实战** · 本地大模型推理能力惊艳，但预填充仍是性能瓶颈  
-**Flutter 3.44 超级大版本更新** · 移动端跨平台框架再进化，值得开发者立即尝鲜
+**DeepSeek reasoning 引爆 AI 成本战** · 高缓存+低推理成本，可能重塑 AI 编程工具格局，值得关注  
+**四天工作制实证数据出炉** · 生产力提升但争议仍在，技术团队可参考其效率模型，但需结合自身场景
