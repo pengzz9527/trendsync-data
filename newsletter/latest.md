@@ -1,22 +1,22 @@
 🔥 **今日最热**
 
-**build-your-own-x** ⭐504595 · 通过重现经典技术掌握编程，手把手造轮子项目持续霸榜  
-**awesome** ⭐469942 · 收录各类有趣主题的精选清单，程序员必备收藏夹  
-**freeCodeCamp** ⭐445402 · 开源代码与课程全栈学习平台，零基础入门首选  
+**build-your-own-x** ⭐**504671** · 通过复刻热门技术来精通编程，持续霸榜  
+**awesome** ⭐**470030** · 涵盖各类有趣主题的精选资源清单  
+**freeCodeCamp** ⭐**445413** · 开源编程课程与代码库，学习首选  
 
 📈 **值得关注**
 
-**Magnifica Humanitas (Encyclical Letter)** ▲504 · 教皇通谕引发技术伦理讨论，AI 与人性议题热度飙升  
-**Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks** ▲101 · 荷兰大规模打击网络犯罪，服务器查封行动引关注  
-**IBM Spins Off the First Pure-Play Quantum Chip Foundry** ▲71 · 量子芯片独立运营，商业化进程加速  
-**From 15MB to 800KB, One ffmpeg Line Fixes 3D Rendering Lag** 👍32 · 一行命令优化渲染性能，掘金开发者实战经验分享  
+**California moves to exempt Linux from its age-verification law after backlash** 👍**554** · 加州在强烈反对后推动豁免Linux，开源社区胜利  
+**Magnifica Humanitas** 👍**1293** · 长篇人文话题引发热议，讨论超700条  
+**Microsoft Copilot Cowork Exfiltrates Files** 👍**148** · Copilot被曝可外泄文件，隐私风险再引担忧  
+**从 15MB 减到 800KB，一行 ffmpeg 解决3D 渲染卡顿问题** 👍**34** · 巧妙压缩让渲染流畅，实用技巧获赞  
 
 🏷 **语言趋势**
 
-其他(8) → TypeScript(6) → Python(6) → JavaScript(3) → Shell(2)  
-TypeScript 与 Python 并驾齐驱，AI 项目与全栈开发双驱动；本周新星中 JavaScript 主导，小型工具类项目活跃。
+其他 **8** → TypeScript **6** → Python **6** → JavaScript **3** → Shell **2**  
+TypeScript 和 Python 并列领先，Go 新星项目崛起（Bumblebee ★**2574**），静态类型语言热度不减  
 
 💡 **小编视角**
 
-**build-your-own-x 持续霸榜** · 手造轮子回归本质，开发者对底层原理的求知欲从未消退，推荐新手从 DNS 服务器或 Git 开始实践  
-**IBM 量子芯片独立运营** · 量子计算从实验室走向产业，纯硬件公司模式或成新趋势，关注后续商业化路径与开发者生态建设
+**Norway's 2 petabytes of Huawei flash storage and LLM training** · 挪威用华为2PB闪存训练LLM，硬件自主化与AI算力博弈新案例  
+**Write your BPF programs in Go, not C** · Go语言进军内核编程，降低BPF入门门槛，值得关注
