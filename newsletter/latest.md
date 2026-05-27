@@ -1,29 +1,18 @@
 🔥 **今日最热**
-
-**build-your-own-x** ⭐**504829** · 通过复刻热门技术来掌握编程，极客自学首选
-
-**awesome** ⭐**470214** · 各种有趣主题的精选资源合集，发现宝藏的入口
-
-**freeCodeCamp** ⭐**445407** · 开源编程课程与代码库，零基础到全栈的免费之路
+**build-your-own-x** ⭐**504936** · 通过复刻你喜欢的底层技术来掌握编程，持续霸榜
+**awesome** ⭐**470297** · 各类有趣主题的精选清单，入门神器
+**freeCodeCamp** ⭐**445422** · 开源全栈课程与代码库，零基础学编程首选
 
 📈 **值得关注**
-
-**Using AI to write better code more slowly** 👍**946** · 用AI写代码虽慢但质量更高，深度思考优于盲目加速
-
-**GitHub Actions down again today** 👍**558** · CI/CD服务再次宕机，开发者依赖单一平台的脆弱性凸显
-
-**Spain blocks prediction markets Polymarket, Kalshi** 👍**160** · 西班牙以缺乏赌博牌照为由封禁预测市场，监管趋严
-
-**Outsourcing plus LocalAI will soon become more economical** 👍**102** · 外包+本地AI组合或比前沿实验室更划算，中小团队新出路
+**Big tech's anti-labor playbook has come for Wikipedia** 👍**215** · 科技巨头反工人策略已渗透维基百科，引发社区担忧
+**A few interesting modern pixel fonts** 👍**221** · 现代像素字体设计盘点，复古美学焕发新意
+**You Don’t Need Microservices (Yet): A Reality Check for Devs** ❤️**26** · 多数项目过早拆分微服务，单体架构仍是务实选择
+**从 15MB 减到 800KB，一行 ffmpeg 解决 3D 渲染卡顿问题** 👍**97** · 用 ffmpeg 压缩视频资源，大幅提升渲染性能
 
 🏷 **语言趋势**
-
-TypeScript(6) = Python(6) > JavaScript(3) > Shell(2) > 其他(8)
-
-TypeScript 与 Python 并列主导，前者发力全栈工具链，后者扎根数据与自动化；JavaScript 退守前端生态
+TypeScript **6** · Python **6** · JavaScript **3** · Shell **2** · 其他 **8**
+TypeScript 与 Python 并列最热，Web 全栈与数据科学双线驱动；本周新星项目 Go 语言表现出色，低开销高性能工具需求上升
 
 💡 **小编视角**
-
-**从15MB减到800KB，一行ffmpeg解决3D渲染卡顿** · 视频优化神器ffmpeg，一行命令就能让大文件瘦身17倍，性能瓶颈往往藏于细节
-
-**前端初级岗位暴跌62%：我带了三年的实习生被裁了** · AI工具取代基础前端工作，技术人必须向全栈或架构方向进化，否则难逃被优化
+**从 15MB 减到 800KB** · 一行 ffmpeg 命令解决 3D 渲染卡顿，这类实用技巧比框架更新更值得收藏
+**前端初级岗位暴跌62%** · AI 工具已能替代部分基础工作，但懂业务、能优化的资深工程师反而更稀缺
