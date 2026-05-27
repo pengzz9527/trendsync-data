@@ -1,18 +1,18 @@
-🔥 **今日最热**
-**build-your-own-x** ⭐**504936** · 通过复刻你喜欢的底层技术来掌握编程，持续霸榜
-**awesome** ⭐**470297** · 各类有趣主题的精选清单，入门神器
-**freeCodeCamp** ⭐**445422** · 开源全栈课程与代码库，零基础学编程首选
+🔥 **今日最热**  
+**build-your-own-x** ⭐505022 · 通过复刻你喜欢的核心技术来掌握编程，极客自学圣经  
+**awesome** ⭐470388 · 涵盖所有有趣主题的精选列表，开源界的「百科全书」  
+**freeCodeCamp** ⭐445440 · 开源代码库与课程，零基础转码首选  
 
-📈 **值得关注**
-**Big tech's anti-labor playbook has come for Wikipedia** 👍**215** · 科技巨头反工人策略已渗透维基百科，引发社区担忧
-**A few interesting modern pixel fonts** 👍**221** · 现代像素字体设计盘点，复古美学焕发新意
-**You Don’t Need Microservices (Yet): A Reality Check for Devs** ❤️**26** · 多数项目过早拆分微服务，单体架构仍是务实选择
-**从 15MB 减到 800KB，一行 ffmpeg 解决 3D 渲染卡顿问题** 👍**97** · 用 ffmpeg 压缩视频资源，大幅提升渲染性能
+📈 **值得关注**  
+**That Methyl Methacrylate Tank** 👍337 · 机械设计中的化学安全警示，HN 热议工程事故  
+**Cloudflare Flagship** 👍201 · Cloudflare 旗舰产品更新，引发性能与隐私讨论  
+**A few interesting modern pixel fonts** 👍337 · 复古像素字体新作，设计圈小爆款  
+**BadHost – CVE-2026-48710** 👍29 · Starlette 认证绕过漏洞，Go 开发者需紧急打补丁  
 
-🏷 **语言趋势**
-TypeScript **6** · Python **6** · JavaScript **3** · Shell **2** · 其他 **8**
-TypeScript 与 Python 并列最热，Web 全栈与数据科学双线驱动；本周新星项目 Go 语言表现出色，低开销高性能工具需求上升
+🏷 **语言趋势**  
+其他(8) → TypeScript(6) → Python(6) → JavaScript(3) → Shell(2)  
+TypeScript 与 Python 并驾齐驱，TypeScript 在 AI 工具链中持续渗透，Python 稳守数据科学阵地  
 
-💡 **小编视角**
-**从 15MB 减到 800KB** · 一行 ffmpeg 命令解决 3D 渲染卡顿，这类实用技巧比框架更新更值得收藏
-**前端初级岗位暴跌62%** · AI 工具已能替代部分基础工作，但懂业务、能优化的资深工程师反而更稀缺
+💡 **小编视角**  
+**build-your-own-x 再登顶** · 动手实践才是掌握技术的终极捷径，别只读文档  
+**Cloudflare vs 隐私争议** · 大厂产品越强，用户越需警惕「免费服务」的隐性成本
