@@ -1,29 +1,22 @@
 🔥 **今日最热**
 
-**build-your-own-x** ⭐**506315** · 通过复刻你最爱的技术来掌握编程，GitHub 第一仓库
-
-**awesome** ⭐**470821** · 各类有趣主题的 Awesome 列表，一站式资源宝库
-
-**freeCodeCamp** ⭐**445529** · freeCodeCamp 开源代码与课程，零基础学编程首选
+**build-your-own-x** ⭐**506527** · 通过复刻你最爱的技术项目来掌握编程，本周持续霸榜  
+**awesome** ⭐**470921** · 涵盖各类有趣主题的精选清单，新手入门必备  
+**freeCodeCamp** ⭐**445540** · 开源代码库与课程，零基础自学编程的最佳起点  
 
 📈 **值得关注**
 
-**I think Anthropic and OpenAI have found product-market fit** 👍**1019** · 两位 AI 巨头终于找到产品市场契合点，行业拐点信号
-
-**YouTube to automatically label AI-generated videos** 👍**1144** · 平台强制标注 AI 内容，透明度新规引热议
-
-**EU fines Temu €200M for allowing sale of illegal products** 👍**90** · 欧盟重罚 Temu 2 亿欧元，跨境电商合规警钟
-
-**AMD pulls a bait-and-switch on Linux users with Vivado licensing changes** 👍**282** · AMD 突然修改 Vivado 许可，Linux 用户遭遇“钓鱼式”变更
+**Claude Opus 4.8** 👍**1160** · 新模型发布引发热议，923条评论讨论其性能提升与局限性  
+**Bricks and Minifigs Stole a Man's $200k Lego Collection** 👍**504** · 法律与收藏圈碰撞，Hacker News 上激烈讨论知识产权与消费者权益  
+**Building durable workflows on Postgres** 👍**244** · 用PostgreSQL构建可靠工作流，工程实践深度分享  
+**AI Agents Are Great at 80% of Our Code. The Other 20% Is Why We Still Need Seniors** ❤️**14** · 资深开发者不可替代，AI 无法处理复杂逻辑与业务上下文  
 
 🏷 **语言趋势**
 
-其他(8) → TypeScript(6) → Python(6) → JavaScript(3) → Shell(2)
-
-TypeScript 与 Python 并驾齐驱，前端全栈与数据科学双赛道持续升温
+**项目数对比**：TypeScript **6** → Python **6** → JavaScript **3** → Shell **2** → 其他 **8**  
+**趋势解读**：TypeScript 与 Python 并列第一，全栈与数据科学双轮驱动；JavaScript 生态热度不减但增速放缓  
 
 💡 **小编视角**
 
-**从 15MB 减到 800KB，一行 ffmpeg 解决3D 渲染卡顿** · 工具链优化永远比加硬件更性感，一行命令就能拯救性能
-
-**零基础用AI写App？那只是个玩具罢了** · AI 代码生成器能解决 80% 的重复劳动，但最后 20% 的架构与调试才是真正的门槛
+**从15MB减到800KB，一行ffmpeg解决3D渲染卡顿** · 极致优化案例：一个命令行参数就能让动画流畅度飞跃，技术深度与实用主义的完美结合  
+**零基础用AI写App？醒醒吧，那只是个玩具** · 警惕AI开发泡沫：工具虽强，但缺乏底层逻辑的项目终归是空中楼阁，基础能力才是护城河
