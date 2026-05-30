@@ -1,22 +1,18 @@
 🔥 **今日最热**
-
-**build-your-own-x** ⭐**507104** · 通过复现你喜爱的技术来精通编程
-**awesome** ⭐**471121** · 涵盖各类有趣主题的精选清单
-**freeCodeCamp** ⭐**445589** · 开源代码库与课程，学习编程首选
+**build-your-own-x** ⭐**507k** · 通过重造技术栈掌握编程，经典教程合集持续霸榜
+**awesome** ⭐**471k** · 各类有趣主题的精选列表，新手和老手都爱收藏
+**freeCodeCamp** ⭐**446k** · 开源编程课程与代码库，零基础入门首选
 
 📈 **值得关注**
-
-**Blue Origin's New Glenn blows up during static fire test** 👍**389** · 蓝色起源新格伦火箭静态点火时爆炸，引发航天界热议
-**I Am Retiring from Tech to Live Offline** 👍**262** · 技术从业者宣布退休并彻底离线，反思数字生活
-**Real-time LLM Inference on Standard GPUs: 3k tokens/s per request** 👍**121** · 在标准 GPU 上实现每秒 3k tokens 的实时 LLM 推理
-**Tulip mania: when a single flower was worth more than a house (2025)** 👍**95** · 回顾郁金香狂热：一朵花曾比房子还贵
+**The dead economy theory** ▲**613** · 讨论经济停滞的深层原因，引发 **801** 条热议
+**SQLite is all you need for durable workflows** ▲**308** · 用轻量级 SQLite 替代复杂工作流引擎，简单可靠
+**Notes from the Mistral AI Now Summit** ▲**299** · 总结 Mistral AI 最新峰会观点，聚焦开源模型进展
+**SpringBoot 3.x 数据库访问性能优化实战详解** 👍**12** · 掘金热文，详解连接池、缓存与分库分表技巧
 
 🏷 **语言趋势**
-
-其他(**8**) → TypeScript(**6**) → Python(**6**) → JavaScript(**3**) → Shell(**2**)
-TypeScript 持续主导开源项目，Python 紧随其后，两者差距缩小
+TypeScript **6** · Python **6** · JavaScript **3** · Shell **2** · 其他 **8**
+趋势解读：TypeScript 与 Python 并列第一，AI 与全栈开发仍是两大驱动力；Shell 项目多聚焦自动化运维
 
 💡 **小编视角**
-
-**通义灵码改名收费** · 阿里 AI 编程助手商业化，开发者社区反应两极，免费工具窗口期或缩短
-**拉勾网创始人离职** · 苦撑 13 年的招聘平台终落幕，技术人才市场格局已变，垂直招聘难敌巨头
+**通义灵码改名收费** · 免费 AI 编程助手转向商业化，开发者需评估替代品（如 Cursor、Copilot）
+**拉勾创始人离职** · 垂直招聘平台苦撑 13 年终倒下，技术人才市场加速向综合性平台集中
