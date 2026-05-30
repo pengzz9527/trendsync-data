@@ -1,22 +1,22 @@
 🔥 **今日最热**
 
-**build-your-own-x** ⭐**507594** · 手搓轮子才是真本事，GitHub 最火 Markdown 项目
-**awesome** ⭐**471296** · 万物皆可 Awesome，史上最全资源清单
-**freeCodeCamp** ⭐**445618** · 开源编程学校，TypeScript 写的课程代码
+**build-your-own-x** ⭐**507854** · 通过再造经典技术来彻底掌握编程，极客自学圣经  
+**awesome** ⭐**471411** · 最全的优质主题资源清单，发现新世界的入口  
+**freeCodeCamp** ⭐**445642** · 开源全栈课程与代码库，零基础到就业的免费路径  
 
 📈 **值得关注**
 
-**SQLite is all you need for durable workflows** 👍**496** · 用 SQLite 做持久化工作流，HN 今日最高赞
-**Notes from the Mistral AI Now Summit** 👍**353** · Mistral AI 峰会笔记，AI 模型新动向
-**MCP is dead?** 👍**194** · MCP 协议争议：是终结还是新生？
-**Perry Compiles TypeScript directly to executables using SWC and LLVM** 👍**78** · TypeScript 直接编译成可执行文件，性能炸裂
+**Anthropic surpasses OpenAI to become most valuable AI startup** 👍**254** · 估值超OpenAI，AI军备竞赛格局生变  
+**Zig: Build System Reworked** 👍**231** · 构建系统重写，语言生态大步向前  
+**Pandoc Templates** 👍**247** · 文档转换神器模板合集，写作者福音  
+**苦撑13年，创始人离职出走，拉勾终究还是倒下了…** 👍**26** · 招聘平台落幕，行业洗牌信号  
 
 🏷 **语言趋势**
 
-其他(8) → TypeScript(6) → Python(6) → JavaScript(3) → Shell(2)
-TypeScript 与 Python 并列第二，JavaScript 热度下滑，全栈与 AI 双驱动下 TS 强势崛起。
+TypeScript **6** 项目 > Python **6** 项目 > JavaScript **3** 项目 > Shell **2** 项目 · 其他 **8** 项目  
+趋势解读：TypeScript 和 Python 并列领跑，全栈与AI双驱动；本周新星中 HTML 项目意外上榜，低代码/可视化工具热度回升。
 
 💡 **小编视角**
 
-**SQLite 能扛持久化工作流？** · 不是玩笑，SQLite 的轻量 + 事务性正被用来替代复杂消息队列，适合中小项目。
-**MCP 死了还是进化了？** · 争议背后是微服务 vs 单体架构的永恒辩论，小团队别盲目追风。
+**AI Job Grief: The Unnamed Psychological Crisis** · 技术人焦虑未被正视，AI替代恐惧正在侵蚀职场心理健康  
+**Math.random() 不够随机？44K-Star 仓库生产代码翻车** · 看似基础的随机函数，在安全场景下可能是致命漏洞，警惕“常识陷阱”
