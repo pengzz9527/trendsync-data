@@ -1,22 +1,22 @@
 🔥 **今日最热**
 
-**build-your-own-x** ⭐**507854** · 通过再造经典技术来彻底掌握编程，极客自学圣经  
-**awesome** ⭐**471411** · 最全的优质主题资源清单，发现新世界的入口  
-**freeCodeCamp** ⭐**445642** · 开源全栈课程与代码库，零基础到就业的免费路径  
+**build-your-own-x** ⭐**508212** · 通过复刻你爱的技术来掌握编程，本周最火开源项目  
+**awesome** ⭐**471499** · 涵盖各种有趣主题的精选列表，持续霸榜  
+**freeCodeCamp** ⭐**445656** · 开源代码库与课程，学习编程的免费宝库  
 
 📈 **值得关注**
 
-**Anthropic surpasses OpenAI to become most valuable AI startup** 👍**254** · 估值超OpenAI，AI军备竞赛格局生变  
-**Zig: Build System Reworked** 👍**231** · 构建系统重写，语言生态大步向前  
-**Pandoc Templates** 👍**247** · 文档转换神器模板合集，写作者福音  
-**苦撑13年，创始人离职出走，拉勾终究还是倒下了…** 👍**26** · 招聘平台落幕，行业洗牌信号  
+**Accenture to acquire Ookla** 👍**223** · 咨询巨头收购网速测试平台，背后是通信行业数据争夺战  
+**Domain expertise has always been the real moat** 👍**195** · 领域知识才是真正的护城河，技术只是工具  
+**Voxel Space (2017)** 👍**242** · 经典体素渲染技术重温，引发开发者怀旧与讨论  
+**I Found a Seashell in the Middle of the Desert** 👍**168** · 沙漠中发现贝壳，自然奇观与技术无关但引人深思  
 
 🏷 **语言趋势**
 
-TypeScript **6** 项目 > Python **6** 项目 > JavaScript **3** 项目 > Shell **2** 项目 · 其他 **8** 项目  
-趋势解读：TypeScript 和 Python 并列领跑，全栈与AI双驱动；本周新星中 HTML 项目意外上榜，低代码/可视化工具热度回升。
+其他(**8**) → TypeScript(**6**) → Python(**6**) → JavaScript(**3**) → Shell(**2**)  
+· TypeScript和Python并驾齐驱，稳坐本周项目生态双引擎，JS热度略降但仍是主力  
 
 💡 **小编视角**
 
-**AI Job Grief: The Unnamed Psychological Crisis** · 技术人焦虑未被正视，AI替代恐惧正在侵蚀职场心理健康  
-**Math.random() 不够随机？44K-Star 仓库生产代码翻车** · 看似基础的随机函数，在安全场景下可能是致命漏洞，警惕“常识陷阱”
+**拉勾网13年苦撑终倒下** · 创始人出走，垂直招聘平台难敌巨头与AI冲击，警示单一商业模式脆弱性  
+**Claude Opus 4.8实测：AI学会承认不知道** · 从“硬答”到“认怂”，AI人格化进步可能比准确率更值得关注
