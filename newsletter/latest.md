@@ -1,22 +1,22 @@
 🔥 **今日最热**
 
-**build-your-own-x** ⭐**508212** · 通过复刻你爱的技术来掌握编程，本周最火开源项目  
-**awesome** ⭐**471499** · 涵盖各种有趣主题的精选列表，持续霸榜  
-**freeCodeCamp** ⭐**445656** · 开源代码库与课程，学习编程的免费宝库  
+**build-your-own-x** ⭐**508K** · 通过重造你喜爱的技术来精通编程
+**awesome** ⭐**471K** · 涵盖各种有趣主题的精选资源列表
+**freeCodeCamp** ⭐**445K** · 开源编程课程与代码库，免费学编程
 
 📈 **值得关注**
 
-**Accenture to acquire Ookla** 👍**223** · 咨询巨头收购网速测试平台，背后是通信行业数据争夺战  
-**Domain expertise has always been the real moat** 👍**195** · 领域知识才是真正的护城河，技术只是工具  
-**Voxel Space (2017)** 👍**242** · 经典体素渲染技术重温，引发开发者怀旧与讨论  
-**I Found a Seashell in the Middle of the Desert** 👍**168** · 沙漠中发现贝壳，自然奇观与技术无关但引人深思  
+**Domain expertise has always been the real moat** 👍**527** · 领域专长才是真正的护城河，技术本身不是
+**Shantell Sans (2023)** 👍**212** · 一款开源字体的设计故事，引发设计师热议
+**Claude Opus 4.8 实测：AI 终于学会「承认自己不知道」了？** 👍**11** · AI 模型开始展示自我认知边界，这是重要进化
+**苦撑13年，创始人离职出走，拉勾终究还是倒下了…** 👍**27** · 垂直招聘平台在巨头挤压下难以生存
 
 🏷 **语言趋势**
 
-其他(**8**) → TypeScript(**6**) → Python(**6**) → JavaScript(**3**) → Shell(**2**)  
-· TypeScript和Python并驾齐驱，稳坐本周项目生态双引擎，JS热度略降但仍是主力  
+TypeScript(**6**) = Python(**6**) > JavaScript(**3**) > Shell(**2**) > 其他(**8**)
+趋势解读：TypeScript 与 Python 齐头并进，TypeScript 在开源项目中的统治力持续增强
 
 💡 **小编视角**
 
-**拉勾网13年苦撑终倒下** · 创始人出走，垂直招聘平台难敌巨头与AI冲击，警示单一商业模式脆弱性  
-**Claude Opus 4.8实测：AI学会承认不知道** · 从“硬答”到“认怂”，AI人格化进步可能比准确率更值得关注
+**Domain expertise has always been the real moat** · 技术易复制，但行业知识积累才是长期壁垒，开发者应深耕领域
+**拉勾网倒下** · 垂直招聘平台在 Boss直聘等巨头面前缺乏差异化，用户规模就是生死线
