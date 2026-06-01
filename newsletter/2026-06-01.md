@@ -1,22 +1,22 @@
 🔥 **今日最热**
 
-**build-your-own-x** ⭐**509,709** · 通过复刻熟悉技术来掌握编程，新手进阶必刷项目
-**awesome** ⭐**471,904** · 汇集各类有趣主题的精选清单，开发者的百科全书
-**freeCodeCamp** ⭐**445,746** · 开源编程课程与代码库，零基础入门首选
+**build-your-own-x** ⭐**510083** · 通过复刻流行技术来掌握编程，教程类项目持续霸榜  
+**freeCodeCamp** ⭐**445766** · 开源编程课程库，学习资源需求不减  
+**system-design-primer** ⭐**351305** · 系统设计面试必备，大厂求职者必读  
 
 📈 **值得关注**
 
-**Cloudflare Turnstile 要求可指纹识别的 WebGL** 👍**646** · 隐私与反爬的博弈升级，引发开发者对用户追踪的担忧
-**ChatGPT for Google Sheets 泄露工作簿** 👍**200** · AI 插件安全漏洞再现，提醒慎用第三方扩展
-**1-Bit Bonsai：本地设备上的 4B 图像生成** 👍**375** · 超轻量模型突破，边缘计算图像生成迎来新可能
-**马来西亚禁止 16 岁以下儿童使用社交媒体** 👍**44** · 全球最严社交媒体年龄限制，或引发效仿浪潮
+**A 10 year old Xeon is all you need** 👍**477** · 老硬件仍能胜任现代任务，引发对性能浪费的讨论  
+**NPM packages from Red Hat have been compromised** 👍**506** · 供应链安全再敲警钟，Red Hat 包被植入恶意代码  
+**I Added a 71-Line Black Box to My Python Agent, Then Queried the $200 Crash With DuckDB** ❤️**47** · 用 DuckDB 分析崩溃日志，小技巧解决大问题  
+**腾讯面试官问CLAUDE.md维护，我只说了两个词，他当场愣住了！！** 👍**25** · AI 时代面试风向转变，CLAUDE.md 成新考点  
 
 🏷 **语言趋势**
 
-其他(**8**) → TypeScript(**6**) → Python(**6**) → JavaScript(**3**) → Shell(**2**)
-TypeScript 与 Python 齐头并进，静态类型与数据科学双引擎驱动，JavaScript 生态持续被 TypeScript 蚕食。
+其他(8) → TypeScript(6) → Python(6) → JavaScript(3) → Shell(2)  
+趋势解读：TypeScript 和 Python 项目数持平，全栈开发与数据科学双线并行；JavaScript 热度略降，但仍是前端基石。
 
 💡 **小编视角**
 
-**我关掉了 Copilot：因为我的代码出现在别人建议里** · AI 代码补全的版权灰色地带，开发者隐私与效率的取舍
-**AI 不是加分项，是门槛** · 前端面试新常态：AI 工具能力已从“亮点”变为“必备”，不跟上就掉队
+**A 10 year old Xeon is all you need** · 别盲目追求最新硬件，优化代码和架构才是真功夫  
+**NPM packages from Red Hat have been compromised** · 开源生态依赖信任，但供应链攻击频发，务必定期审计依赖
