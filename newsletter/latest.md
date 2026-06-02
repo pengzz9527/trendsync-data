@@ -1,22 +1,22 @@
 🔥 **今日最热**
 
-**build-your-own-x** ⭐**510386** · 手写实现流行技术，涨星最快  
-**awesome** ⭐**472100** · 各类有趣主题的精选列表  
-**freeCodeCamp** ⭐**445788** · 开源编程课程与代码库  
+**build-your-own-x** ⭐**510715** · 通过重造你爱用的技术来精通编程，持续霸榜第一  
+**awesome** ⭐**472185** · 最全的“Awesome”主题列表集合，知识索引利器  
+**freeCodeCamp** ⭐**445800** · 开源编程课程与代码库，免费学习首选  
 
 📈 **值得关注**
 
-**AI Agent Guidelines for CS336 at Stanford** 👍**298** · 斯坦福课程发布AI代理开发指南，引发教育界热议  
-**CS336: Language Modeling from Scratch** 👍**337** · 从头实现语言模型，原理解析获高赞  
-**Should you normalize RGB values by 255 or 256?** 👍**167** · 图像预处理细节引发技术社区争论  
-**I Rebuilt My Karaoke App So Everyone's Phone Could Be a Remote** ❤️**28** · 用手机当遥控器，卡拉OK应用创新实践  
+**The newest Instagram “exploit” is the goofiest I've seen** 👍**1702** · 一个搞笑但真实的 Instagram 漏洞引发热议  
+**Can the stockmarket swallow Anthropic, SpaceX and OpenAI?** 👍**303** · 讨论资本市场能否消化这些 AI 巨头  
+**From vibe coding to clear thinking** 👍**27** · AI 时代非技术开发者需要的思维转变  
+**Debloating The AI-Grown Codebase** 👍**12** · AI 生成的代码库如何“去臃肿”  
 
 🏷 **语言趋势**
 
 其他(8) → TypeScript(6) → Python(6) → JavaScript(3) → Shell(2)  
-TypeScript与Python并列第二，JS生态持续被TS挤压，Shell项目数回升  
+**趋势解读**：TypeScript 和 Python 并驾齐驱，TypeScript 在项目工具链和教程领域持续扩张，Python 则稳守数据与 API 生态。  
 
 💡 **小编视角**
 
-**CLAUDE.md维护面试题** · 面试官问CLAUDE.md维护，只答两词就过关？AI协作规范成新面试考点  
-**前端岗位AI门槛** · AI不再是加分项而是门槛，前端开发者需重新定义核心竞争力
+**CLAUDE.md 维护引发面试热议** · 腾讯面试官只问了两个词，候选人就愣住了——AI 提示词管理正在成为新技能门槛  
+**AI 烧 token 比招员工还贵** · 当模型成本超过人力成本，企业开始重新评估 AI 投资回报率
