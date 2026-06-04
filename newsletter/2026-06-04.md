@@ -1,22 +1,29 @@
 🔥 **今日最热**
 
-**build-your-own-x** ⭐**511559** · 通过复现经典技术来掌握编程，社区持续追捧的实践指南  
-**awesome** ⭐**472668** · 各类有趣主题的精选列表，开发者必收藏的“百科全书”  
-**freeCodeCamp** ⭐**445984** · 开源编程课程与代码库，零基础到全栈的免费学习路径  
+**build-your-own-x** ⭐511676 · 通过复刻热门技术来掌握编程，长期霸榜
+
+**awesome** ⭐472755 · 收集各类有趣主题的精选列表，入门必备
+
+**freeCodeCamp** ⭐446015 · 开源编程课程与代码库，学习资源之王
 
 📈 **值得关注**
 
-**Elixir v1.20: Now a gradually typed language** ▲**474** · 函数式语言终于引入渐进类型，性能与安全性双提升  
-**Gemma 4 12B: A unified, encoder-free multimodal model** ▲**637** · 谷歌开源无编码器多模态模型，AI 推理更高效  
-**Uber's $1,500/month AI limit is a useful signal for AI tool pricing** ▲**337** · 企业级 AI 工具定价风向标，开发者需关注成本边界  
-**After 7 Next.js 16 Caching Bugs, I Stopped Guessing and Built a System** ❤️**20** · 实战总结缓存陷阱，React 全栈工程化必读  
+**Gemma 4 12B: A unified, encoder-free multimodal model** 👍806 · Google 发布无编码器多模态模型，性能惊人
+
+**Elixir v1.20: Now a gradually typed language** 👍726 · Elixir 迎来渐进类型系统，函数式语言再进化
+
+**Artificial intelligence is not conscious – Ted Chiang** 👍388 · 科幻作家 Ted Chiang 再论 AI 无意识，引发 685 条热议
+
+**Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes** 👍234 · AI 工具使用导致伯克利 CS 学生数学能力下滑
 
 🏷 **语言趋势**
 
-其他(8) → TypeScript(6) → Python(6) → JavaScript(3) → Shell(2)  
-TypeScript 与 Python 并列热门，但 TypeScript 在 GitHub 新星项目中占比更高，全栈与 AI 开发双驱动。  
+其他(8) → TypeScript(6) → Python(6) → JavaScript(3) → Shell(2)
+
+TypeScript 与 Python 并列第一，AI 项目与全栈框架双轮驱动；Rust 新星 **b-nnett/goose** ⭐1520 值得关注
 
 💡 **小编视角**
 
-**Gemma 4 12B 开源** · 无编码器架构让多模态模型更轻量，小团队也能玩转视觉+语言任务  
-**Elixir 渐进类型** · 动态语言拥抱类型系统是趋势，Elixir 此举或吸引 Java/C# 开发者跨界
+**腾讯面试问 CLAUDE.md 维护** · 面试官只问两个词，候选人用两个词回答就过了 —— AI 时代，文档即代码
+
+**烧 token 比招员工还贵** · 公司烧 token 成本超过人力，老板开始反思 AI 投入回报比
