@@ -1,22 +1,22 @@
 🔥 **今日最热**
 
-**build-your-own-x** ⭐**512014** · 通过重建你喜爱的技术来掌握编程，持续霸榜  
-**awesome** ⭐**473043** · 各类有趣主题的精选资源列表，永不褪色  
-**freeCodeCamp** ⭐**446239** · 开源代码库与学习课程，免费编程的标杆  
+**build-your-own-x** ⭐**512137** · 通过重造技术栈，掌握编程核心原理
+**awesome** ⭐**473131** · 精选各类有趣主题的 Awesome 列表
+**freeCodeCamp** ⭐**446257** · 开源代码库与全栈课程，免费学习编程
 
 📈 **值得关注**
 
-**Anthropic's open-source framework for AI-powered vulnerability discovery** 👍**397** · 开源框架让AI自动发现漏洞，安全领域新突破  
-**Meta enables ADB on deprecated Portal devices** 👍**203** · 在已停产的Portal设备上开启ADB，开发者福音  
-**Open Code Review – An AI-powered code review CLI tool** 👍**161** · AI驱动的代码审查命令行工具，效率提升利器  
-**Do transformers need three projections?** 👍**155** · 研究QKV变体，挑战Transformer架构基础假设  
+**Astronauts on ISS told to shelter as repairs under way to fix air leaks** 👍**100** · 国际空间站因空气泄漏，宇航员被要求紧急避难
+**Mouseless – keyboard-driven control of macOS/Linux/Windows** 👍**223** · 无鼠标操作全平台，提升效率新工具
+**Tracing a powerful GNSS interference source over Europe** 👍**254** · 追踪欧洲强 GPS 干扰源，技术分析引发热议
+**Redis 8.8: New array data structure, rate limiter, performance improvements** 👍**127** · Redis 新版本引入数组结构，性能再升级
 
 🏷 **语言趋势**
 
-其他(**8**) → TypeScript(**6**) → Python(**6**) → JavaScript(**3**) → Shell(**2**)  
-TypeScript与Python平分秋色，AI与全栈开发双轮驱动，JS生态稳中有升  
+其他(8) → TypeScript(6) → Python(6) → JavaScript(3) → Shell(2)
+TypeScript 与 Python 并列最热，JS 生态持续稳定，Shell 在工具类项目中活跃。
 
 💡 **小编视角**
 
-**前端工程师最终会变成AI工程师？** · 掘金热议：AI工具降低门槛，但核心逻辑与架构思维仍是人类护城河  
-**胡彦斌苦修Vibe Coding上架App Store** · 明星跨界编程引热议，Vibe Coding或成全民技能新风口
+**前端工程师最终会变成 AI 工程师？** · AI 工具普及下，前端边界模糊，但核心 UX 与架构能力仍不可替代
+**单仓库下的四十模块 —— React Monorepo 工程架构拆解** · 大型 Monorepo 管理经验值得借鉴，适合中大型团队参考
