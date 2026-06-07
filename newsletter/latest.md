@@ -1,22 +1,22 @@
 🔥 **今日最热**
 
-**build-your-own-x** ⭐**512448** · 通过重造轮子理解技术本质，经典项目持续霸榜
-**awesome** ⭐**473418** · 史上最全资源清单，开发者必备收藏夹
-**freeCodeCamp** ⭐**446305** · 开源编程课程平台，零基础入门首选
+**build-your-own-x** ⭐**512545** · 通过复刻热门技术掌握编程，GitHub 最具实操性项目  
+**awesome** ⭐**473515** · 涵盖所有有趣主题的精选清单，开发者必备收藏  
+**freeCodeCamp** ⭐**446315** · 开源代码库与课程，全球学习编程的首选平台  
 
 📈 **值得关注**
 
-**Google will pay SpaceX $920M per month for compute** 👍**633** · 天价云合同揭示太空计算新赛道
-**How LLMs work** 👍**159** · 深入浅出解释大模型原理，技术科普爆款
-**Pokemon Emerald Ported to WebAssembly (100k FPS)** 👍**97** · 经典游戏在浏览器中跑出惊人性能
-**Nvidia is proposing a beast of a CPU system for Windows PCs** 👍**52** · PC 高性能计算格局或将重塑
+**Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot** 👍**347** · AI 聊天机器人漏洞导致大规模账号被盗，安全警钟敲响  
+**Nvidia is proposing a beast of a CPU system for Windows PCs** 👍**218** · Nvidia 推高性能 CPU 系统，PC 市场或迎颠覆性变革  
+**Moving beyond fork() + exec()** 👍**224** · 探讨进程创建新范式，系统编程领域经典议题重燃讨论  
+**Two Devs and a Copilot Created ClassifierAI** ❤️**32** · AI 生成内容自动检测 Chrome 扩展，开发者协作新尝试  
 
 🏷 **语言趋势**
 
-其他(8) → TypeScript(6) → Python(6) → JavaScript(3) → Shell(2)
-TypeScript 与 Python 并列最热，全栈和 AI 双驱动下 TS 生态持续扩张
+Python **7** 项目 · TypeScript **6** · JavaScript **3** · Shell **2**  
+趋势解读：Python 与 TypeScript 持续领跑，AI 和全栈开发需求推动语言生态扩张  
 
 💡 **小编视角**
 
-**Google 每月豪掷 9.2 亿美元租用 SpaceX 算力** · 云服务竞争从地面打到太空，算力即权力的时代来了
-**Go 泛型方法终于落地** · 迟到的特性引发社区狂欢，但也暴露了语言设计的前后矛盾
+**Meta 账号被黑事件** · AI 功能安全测试需前置，否则便利反成攻击入口  
+**Nvidia CPU 提案** · 硬件巨头跨界竞争，PC 性能天花板或再被打破
