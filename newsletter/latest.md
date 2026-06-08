@@ -1,22 +1,22 @@
 🔥 **今日最热**
 
-**build-your-own-x** ⭐**512961** · 通过重建经典技术来掌握编程，持续霸榜  
-**awesome** ⭐**473870** · 精选各种有趣主题的清单，开源界的“维基百科”  
-**freeCodeCamp** ⭐**446394** · 开源代码库与课程，零成本学编程的首选  
+**build-your-own-x** ⭐**513075** · 通过复刻你最爱的技术项目来掌握编程，经典永不过时  
+**awesome** ⭐**473966** · 汇集各种有趣话题的清单，持续更新  
+**freeCodeCamp** ⭐**446420** · 开源代码库与课程，全球开发者免费学习圣地  
 
 📈 **值得关注**
 
-**Building from zero after addiction, prison, and a felony** 👍**592** · 从零重建人生，HN 用户震撼共鸣  
-**Dopamine Fracking** 👍**194** · 探讨多巴胺“开采”机制，引发科技与心理交叉热议  
-**APC–2 – A professional record cutter** 👍**193** · 专业唱片刻录机，复古技术焕新受捧  
-**I got tired of waiting for deploys, so I built a local Lambda runner** ❤️**10** · Dev.to 开发者自建工具解决部署痛点  
+**How much of Thermo Fisher's antibody data has been manipulated?** 👍**258** · 科研诚信危机：抗体数据疑似大规模造假  
+**The Cypherpunk Library** 👍**231** · 密码朋克思想宝库公开，隐私与自由的技术宣言  
+**Anti-social: It's fads, not friends, which now dominate social media feeds** 👍**241** · 社交媒体从“朋友”转向“潮流”，人际连接被算法取代  
+**Zig by Example** 👍**145** · 通过实例学习 Zig 语言，教程质量获开发者好评  
 
 🏷 **语言趋势**
 
-Python(**7**) = 其他(**7**) > TypeScript(**6**) > JavaScript(**3**) > Shell(**2**)  
-· Python 稳居生态核心，TypeScript 在项目数与新星中持续追赶，Rust 本周新星 **goose** 表现亮眼  
+Python **7** · TypeScript **6** · JavaScript **3** · Shell **2** · 其他 **7**  
+Python 在 GitHub 项目数上持平 TypeScript，AI 生态持续驱动增长；TypeScript 在开发工具和教育类项目中表现强势  
 
 💡 **小编视角**
 
-**尤雨溪官宣：Vite+ 全员加盟 Cloudflare** · 前端基建与云平台深度耦合，全栈开发门槛进一步降低  
-**Android 17 内存管理将严格管控** · 移动端性能优化进入新阶段，App 适配成开发者必修课
+**Vite+ 全员加盟 Cloudflare** · 尤雨溪官宣：前端工具链走向全栈与 AI 部署，Cloudflare 边缘平台或成新战场  
+**Android 17 内存管理严格管控** · App 开发者需提前适配，否则可能被系统“杀后台”，影响用户体验
