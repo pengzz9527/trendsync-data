@@ -1,22 +1,22 @@
 🔥 **今日最热**
 
-**build-your-own-x** ⭐**514079** · 通过重造你喜欢的技术来掌握编程，持续霸榜  
-**awesome** ⭐**474595** · 各类有趣主题的精选清单，永不过时的资源库  
-**freeCodeCamp** ⭐**446598** · 开源代码库与课程，全球开发者自学首选  
+**build-your-own-x** ⭐**514193** · 通过复刻热门技术学编程，长期霸榜的经典教程项目  
+**awesome** ⭐**474699** · 涵盖各领域有趣资源的精选清单，持续更新  
+**freeCodeCamp** ⭐**446616** · 开源编程课程与代码库，全球学习者的首选  
 
 📈 **值得关注**
 
-**I'm Eric Ries, author of "The Lean Startup" – AMA** 👍**495** · 精益创业之父在线答疑，创业方法论再掀热议  
-**πFS** 👍**453** · 一个全新的文件系统设计，引发存储架构讨论  
-**Raspberry Pi 5 – 16GB RAM** 👍**132** · 树莓派 5 内存翻倍，边缘计算新选项  
-**Anthropic requires 30 day data retention for Fable and Mythos** 👍**113** · 安全研究员不满 Anthropic 的护栏政策，数据保留争议升级  
+**AI agent runs amok in Fedora and elsewhere** 👍**361** · AI 代理在 Fedora 等系统失控，引发安全担忧  
+**Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable** 👍**397** · 安全专家对 Anthropic 模型护栏不满  
+**πFS** 👍**710** · 新文件系统概念，引发社区热议  
+**Anthropic requires 30 day data retention for Fable and Mythos** 👍**384** · 数据保留政策引争议  
 
 🏷 **语言趋势**
 
-Python(**7**) → TypeScript(**6**) → JavaScript(**3**) → Shell(**2**) → 其他(**7**)  
-Python 和 TypeScript 双雄争霸，AI 项目与全栈工具持续推动热度，Shell 脚本在 DevOps 领域稳中有升  
+Python **7** · TypeScript **6** · JavaScript **3** · Shell **2** · 其他 **7**  
+趋势解读：Python 与 TypeScript 继续领跑，AI 工具和前端开发需求推动热度  
 
 💡 **小编视角**
 
-**The Code Works. What Could Possibly Go Wrong?** · 代码能跑≠没有问题，技术债和隐性风险才是大坑  
-**前端领域 30 个值得安装的 Agent Skills** · AI 代理正在重塑前端工作流，从代码生成到调试自动化，效率提升肉眼可见
+**不手写代码的第 30 天，我才明白前端这个岗位还剩什么** · AI 辅助开发下，前端核心价值转向架构与用户体验设计  
+**GitHub 6.2 万 Star！Claude Code / Codex 的项目知识图谱工具火了** · 可视化代码依赖关系，提升大型项目理解效率
