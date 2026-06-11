@@ -1,22 +1,22 @@
 🔥 **今日最热**
 
-**Claude Fable 5** ⭐**2148** · 新模型发布引爆Hacker News，讨论AI叙事能力突破
-**macOS Container Machines** ⭐**652** · 容器化macOS引发开发者热议，或改变本地开发环境管理
-**German ruling Google AI Overviews** ⭐**429** · 德国法院裁定谷歌对AI生成错误答案担责，影响AI法律边界
+**build-your-own-x** ⭐**514079** · 通过重造你喜欢的技术来掌握编程，持续霸榜  
+**awesome** ⭐**474595** · 各类有趣主题的精选清单，永不过时的资源库  
+**freeCodeCamp** ⭐**446598** · 开源代码库与课程，全球开发者自学首选  
 
 📈 **值得关注**
 
-**Upcoming breaking changes for npm v12** 👍**333** · npm大版本更新将破坏兼容性，开发者需提前迁移
-**Rich Sutton on AI creativity and discovery** 👍**94** · 强化学习之父谈AI创造力，强调探索比优化更重要
-**RIP software hackathons. Long live the hardware hackathon** 👍**143** · 硬件黑客马拉松崛起，软件活动热度下降
-**The 'Prompt' Is Not a Skill** ❤️**38** · Dev.to热帖：提示工程不是技能，过度依赖AI会削弱基础能力
+**I'm Eric Ries, author of "The Lean Startup" – AMA** 👍**495** · 精益创业之父在线答疑，创业方法论再掀热议  
+**πFS** 👍**453** · 一个全新的文件系统设计，引发存储架构讨论  
+**Raspberry Pi 5 – 16GB RAM** 👍**132** · 树莓派 5 内存翻倍，边缘计算新选项  
+**Anthropic requires 30 day data retention for Fable and Mythos** 👍**113** · 安全研究员不满 Anthropic 的护栏政策，数据保留争议升级  
 
 🏷 **语言趋势**
 
-Python **57** · TypeScript **34** · Rust **18** · Go **14** · JavaScript **12** · C++ **9** · Java **8** · C# **7** · PHP **5** · Kotlin **4** · Swift **3**
-趋势解读：Python稳居榜首，Rust项目数同比增**20%**，AI工具链驱动TypeScript需求，Go在云原生领域持续扩张
+Python(**7**) → TypeScript(**6**) → JavaScript(**3**) → Shell(**2**) → 其他(**7**)  
+Python 和 TypeScript 双雄争霸，AI 项目与全栈工具持续推动热度，Shell 脚本在 DevOps 领域稳中有升  
 
 💡 **小编视角**
 
-**不手写代码的第30天** · 前端工程师靠AI写代码，但核心价值从“写”转向“决策与架构”，低代码不是终点
-**Claude Fable 5与AI责任** · 模型能力越强，法律追责越清晰——德国判例警示：AI输出不再是免责借口
+**The Code Works. What Could Possibly Go Wrong?** · 代码能跑≠没有问题，技术债和隐性风险才是大坑  
+**前端领域 30 个值得安装的 Agent Skills** · AI 代理正在重塑前端工作流，从代码生成到调试自动化，效率提升肉眼可见
