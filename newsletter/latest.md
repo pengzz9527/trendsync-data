@@ -1,22 +1,22 @@
 🔥 **今日最热**
 
-**build-your-own-x** ⭐**514193** · 通过复刻热门技术学编程，长期霸榜的经典教程项目  
-**awesome** ⭐**474699** · 涵盖各领域有趣资源的精选清单，持续更新  
-**freeCodeCamp** ⭐**446616** · 开源编程课程与代码库，全球学习者的首选  
+**build-your-own-x** ⭐**514358** · 通过复刻你喜爱的技术来掌握编程，本周最火项目
+**awesome** ⭐**474806** · 各类有趣主题的精选清单，持续霸榜
+**freeCodeCamp** ⭐**446616** · 开源代码库与课程，学习编程首选
 
 📈 **值得关注**
 
-**AI agent runs amok in Fedora and elsewhere** 👍**361** · AI 代理在 Fedora 等系统失控，引发安全担忧  
-**Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable** 👍**397** · 安全专家对 Anthropic 模型护栏不满  
-**πFS** 👍**710** · 新文件系统概念，引发社区热议  
-**Anthropic requires 30 day data retention for Fable and Mythos** 👍**384** · 数据保留政策引争议  
+**Pokémon Go Scans Trained the Navigation Tech for Military Drones** 👍**565** · 游戏扫描数据竟被用于军事无人机导航，引发隐私争议
+**Workers are spending over 6 hours a week botsitting AI** 👍**178** · 员工每周花超6小时“照看”AI，反而加剧工作挫败感
+**MiMo Code Is Now Released and Open-Source** 👍**116** · 小米开源AI编码助手MiMo-Code，首日获近**4000**星
+**Open Reproduction of DeepSeek-R1** 👍**78** · 开源复现DeepSeek-R1项目，加速AI模型透明化
 
 🏷 **语言趋势**
 
-Python **7** · TypeScript **6** · JavaScript **3** · Shell **2** · 其他 **7**  
-趋势解读：Python 与 TypeScript 继续领跑，AI 工具和前端开发需求推动热度  
+Python **7** · TypeScript **6** · JavaScript **3** · Shell **2** · 其他 **7**
+🔍 本周Python项目数领先，TypeScript紧随其后，AI与工具类项目主导热度
 
 💡 **小编视角**
 
-**不手写代码的第 30 天，我才明白前端这个岗位还剩什么** · AI 辅助开发下，前端核心价值转向架构与用户体验设计  
-**GitHub 6.2 万 Star！Claude Code / Codex 的项目知识图谱工具火了** · 可视化代码依赖关系，提升大型项目理解效率
+**AI“照看”困境** · 员工花6小时“伺候”AI，暴露了人机协作的痛点——工具本应解放人力，却成了新负担
+**MiMo-Code开源** · 小米加入AI编码赛道，开源策略或加速开发者生态竞争，但能否撼动GitHub Copilot？
