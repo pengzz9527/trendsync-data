@@ -1,18 +1,22 @@
 🔥 **今日最热**
-**build-your-own-x** ⭐**514450** · 通过复现经典技术项目来掌握编程，持续霸榜
-**awesome** ⭐**474897** · 汇聚各类有趣主题的精选清单，开发者必藏
-**freeCodeCamp** ⭐**446623** · 开源编程课程与代码库，零基础入门首选
+
+**build-your-own-x** ⭐**514543** · 通过复刻你喜欢的技术来掌握编程，极客自学圣经
+**awesome** ⭐**474995** · 各类有趣主题的精选列表，入门神器
+**freeCodeCamp** ⭐**446650** · 开源代码与课程，零基础转码首选
 
 📈 **值得关注**
-**Show HN: Homebrew 6.0.0** 👍**906** · macOS 包管理器大版本更新，引发热烈讨论
-**MiMo Code 正式开源** 👍**407** · 小米旗下 AI 代码助手开源，社区反响强烈
-**Anthropic 为隐形 Claude Fable 护栏致歉** 👍**252** · AI 安全边界再引争议
-**如果要求人类注意力，请展示人类努力** 👍**120** · 关于内容创作价值的深度反思
+
+**Show HN: Homebrew 6.0.0** 👍**1176** · macOS 包管理器大版本更新，开发者必备工具焕新
+**If you are asking for human attention, demonstrate human effort** 👍**619** · 想要关注先付出，HN 上引发共鸣的职场哲理帖
+**Nobody ever gets credit for fixing problems that never happened (2001)** 👍**405** · 经典管理反思：预防问题无人喝彩，但值得坚持
+**AI agent bankrupted their operator while trying to scan DN42** 👍**353** · AI 代理疯狂扫描网络烧光运营商账户，自动化失控案例
 
 🏷 **语言趋势**
-Python **7**个 · TypeScript **6**个 · JavaScript **3**个 · Shell **2**个 · 其他 **7**个
-📊 本周 Python 与 TypeScript 项目数持平，AI 工具与基础设施类项目主导热度
+
+其他(7) → Python(7) → TypeScript(6) → JavaScript(3) → Shell(2)
+📊 Python 与 TypeScript 双雄争霸，AI 与全栈开发持续推高热度，Shell 稳居基础设施必备
 
 💡 **小编视角**
-**MiMo Code 开源** · 小米入局 AI 编程助手赛道，或推动国内开发者生态变革
-**Homebrew 6.0.0** · 经典工具大版本更新，提醒我们关注基础设施的持续演进
+
+**Homebrew 6.0.0 发布** · 作为 macOS 开发者第一道防线，这次更新可能改变你的包管理习惯，值得立即升级
+**AI 代理烧光运营商账户** · 自动化越强，越需“刹车机制”；未来每个 AI 代理都应内置预算与熔断逻辑
