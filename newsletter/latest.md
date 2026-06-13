@@ -1,22 +1,22 @@
 🔥 **今日最热**
 
-**build-your-own-x** ⭐**514858** · 通过复现你喜爱的技术来掌握编程，社区最热项目
-**awesome** ⭐**475273** · 各类有趣主题的精选列表，常青资源
-**freeCodeCamp** ⭐**446737** · 开源代码库和课程，自学编程首选
+**build-your-own-x** ⭐**514972** · 通过重造轮子学编程，经典教程合集再次登顶  
+**awesome** ⭐**475396** · 万能清单库，任何有趣主题都能找到  
+**freeCodeCamp** ⭐**446786** · 开源编程课程平台，全栈学习首选  
 
 📈 **值得关注**
 
-**Statement on US government directive to suspend access to Fable 5 and Mythos 5** 👍**2037** · 美国政府指令引热议，社区强烈反弹
-**CRISPR tech selectively shreds cancer cells, including "undruggable" cancers** 👍**797** · CRISPR 精准撕碎癌细胞，包括不可成药类型
-**Open source AI must win** 👍**792** · 开源 AI 必须胜利，社区共识高涨
-**Twenty One Zero-Days in FFmpeg** 👍**184** · FFmpeg 曝**21**个零日漏洞，安全警钟
+**US bans differential privacy in Census data** 👍**175** · 美国人口普查数据不再使用差分隐私，隐私保护倒退引争议  
+**AI OSS tool repo goes archived after raising $7.3M Seed** 👍**148** · 融资后项目归档，开源社区信任危机再起  
+**A low-carbon computing platform from your retired phones** 👍**152** · 用旧手机搭建低碳计算平台，环保与技术结合  
+**Every Frame Perfect** 👍**95** · 逐帧分析游戏设计，硬核玩家必读  
 
 🏷 **语言趋势**
 
-Python **7** · TypeScript **6** · JavaScript **3** · Shell **2** · 其他 **7**
-Python 和 TypeScript 主导本周项目，AI 和全栈开发需求持续拉动
+其他(7) → Python(7) → TypeScript(6) → JavaScript(3) → Shell(2)  
+Python 和 TypeScript 持续主导，Python 在工具库和教程类项目占优，TypeScript 在框架和开发工具中崛起  
 
 💡 **小编视角**
 
-**《置身钉内》之后：普通前端的出路在哪里？** · 前端内卷加剧，转向全栈或垂直领域是破局关键
-**Claude Fable5 首测，GPT5.5 和国产模型弱爆了！** · 模型迭代加速，体验差距缩小但仍有代差
+**Fable 5 系统提示词泄露** · 提示词工程已成核心竞争力，公开即暴露产品逻辑  
+**普通前端的出路** · 市场饱和下，深耕全栈或转向 AI Agent 开发是两条可行路径
