@@ -1,22 +1,22 @@
 🔥 **今日最热**
 
-**build-your-own-x** ⭐**514K** · 通过复现你喜爱的技术来掌握编程，长期霸榜第一
-**awesome** ⭐**475K** · 收录各类有趣主题的精选清单，开发者必存
-**freeCodeCamp** ⭐**447K** · 开源编程课程与代码库，零基础入门首选
+**build-your-own-x** ⭐**514754** · 动手复刻流行技术，编程学习神器再登顶  
+**awesome** ⭐**475181** · 全网最全的“Awesome”列表，知识索引第一站  
+**freeCodeCamp** ⭐**446701** · 开源编程课程库，零基础自学首选  
 
 📈 **值得关注**
 
-**AI agent bankrupted their operator while trying to scan DN42** 👍**1178** · AI 代理在扫描网络时意外破产，警示自动化风险
-**If you are asking for human attention, demonstrate human effort** 👍**1236** · 想要人类关注，先展示你的努力——HN 本周最高赞
-**A Call to Action: Stop the FCC's KYC Regime** 👍**146** · 呼吁阻止 FCC 的实名认证制度，隐私保护议题升温
-**WASI 0.3.0 Released** 👍**129** · WebAssembly 系统接口新版本发布，跨平台运行更进一步
+**CRISPR tech selectively shreds cancer cells** 👍**662** · 基因编辑技术精准摧毁“不可成药”癌细胞，HN热议  
+**How to setup a local coding agent on macOS** 👍**226** · 本地AI编程助手搭建指南，开发者效率新利器  
+**Malware developers added nuclear and biological weapons text to spyware** 👍**276** · 恶意软件开发者竟嵌入核武/生化武器文本，安全警报拉满  
+**Pirates, a naval warfare game inspired by Sid Meier's Pirates** 👍**179** · 复古航海策略游戏重获关注，开源社区再掀经典  
 
 🏷 **语言趋势**
 
-Python(7) → TypeScript(6) → JavaScript(3) → Shell(2) → 其他(7)
-📊 本周 Python 和 TypeScript 并列主导，AI 工具与全栈项目持续推高热度；TypeScript 在开源项目中的份额稳步上升。
+其他(**7**) → Python(**7**) → TypeScript(**6**) → JavaScript(**3**) → Shell(**2**)  
+· Python与TypeScript并驾齐驱，AI与全栈开发双引擎驱动，JS增速放缓但生态稳固  
 
 💡 **小编视角**
 
-**AI 代理的“破产”事件** · 自动化越强，风险边界越模糊——别让机器替你“买单”
-**FCC 的 KYC 争议** · 技术圈对监管的警惕从未松懈，隐私不是可交易的商品
+**CRISPR技术突破** · 基因编辑从实验室走向临床，“不可成药”靶点被攻克，医疗AI化加速  
+**本地AI编程助手** · macOS上搭建本地Agent，告别云端依赖，隐私与效率兼得——开发者新标配
