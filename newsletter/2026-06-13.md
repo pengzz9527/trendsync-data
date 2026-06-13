@@ -1,22 +1,22 @@
 🔥 **今日最热**
 
-**build-your-own-x** ⭐**514754** · 动手复刻流行技术，编程学习神器再登顶  
-**awesome** ⭐**475181** · 全网最全的“Awesome”列表，知识索引第一站  
-**freeCodeCamp** ⭐**446701** · 开源编程课程库，零基础自学首选  
+**build-your-own-x** ⭐**514858** · 通过复现你喜爱的技术来掌握编程，社区最热项目
+**awesome** ⭐**475273** · 各类有趣主题的精选列表，常青资源
+**freeCodeCamp** ⭐**446737** · 开源代码库和课程，自学编程首选
 
 📈 **值得关注**
 
-**CRISPR tech selectively shreds cancer cells** 👍**662** · 基因编辑技术精准摧毁“不可成药”癌细胞，HN热议  
-**How to setup a local coding agent on macOS** 👍**226** · 本地AI编程助手搭建指南，开发者效率新利器  
-**Malware developers added nuclear and biological weapons text to spyware** 👍**276** · 恶意软件开发者竟嵌入核武/生化武器文本，安全警报拉满  
-**Pirates, a naval warfare game inspired by Sid Meier's Pirates** 👍**179** · 复古航海策略游戏重获关注，开源社区再掀经典  
+**Statement on US government directive to suspend access to Fable 5 and Mythos 5** 👍**2037** · 美国政府指令引热议，社区强烈反弹
+**CRISPR tech selectively shreds cancer cells, including "undruggable" cancers** 👍**797** · CRISPR 精准撕碎癌细胞，包括不可成药类型
+**Open source AI must win** 👍**792** · 开源 AI 必须胜利，社区共识高涨
+**Twenty One Zero-Days in FFmpeg** 👍**184** · FFmpeg 曝**21**个零日漏洞，安全警钟
 
 🏷 **语言趋势**
 
-其他(**7**) → Python(**7**) → TypeScript(**6**) → JavaScript(**3**) → Shell(**2**)  
-· Python与TypeScript并驾齐驱，AI与全栈开发双引擎驱动，JS增速放缓但生态稳固  
+Python **7** · TypeScript **6** · JavaScript **3** · Shell **2** · 其他 **7**
+Python 和 TypeScript 主导本周项目，AI 和全栈开发需求持续拉动
 
 💡 **小编视角**
 
-**CRISPR技术突破** · 基因编辑从实验室走向临床，“不可成药”靶点被攻克，医疗AI化加速  
-**本地AI编程助手** · macOS上搭建本地Agent，告别云端依赖，隐私与效率兼得——开发者新标配
+**《置身钉内》之后：普通前端的出路在哪里？** · 前端内卷加剧，转向全栈或垂直领域是破局关键
+**Claude Fable5 首测，GPT5.5 和国产模型弱爆了！** · 模型迭代加速，体验差距缩小但仍有代差
