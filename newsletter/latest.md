@@ -1,18 +1,22 @@
 🔥 **今日最热**
-**build-your-own-x** ⭐**515534** · 通过重造轮子掌握编程，永远是最热门的自学方式
-**awesome** ⭐**475795** · 汇集各类有趣主题的清单，新手老手都爱
-**freeCodeCamp** ⭐**447166** · 开源编程课程，零基础到实战一站式
+
+**build-your-own-x** ⭐**515685** · 通过复刻热门技术来掌握编程，极客的终极实践指南  
+**awesome** ⭐**475872** · 收集各种有趣主题的精选列表，永远不缺灵感  
+**freeCodeCamp** ⭐**447465** · 开源全栈学习平台，全球开发者自学圣地  
 
 📈 **值得关注**
-**Show HN: Kage – Shadow any website to a single binary for offline viewing** 👍**365** · 一键将任意网站打包成离线二进制，实用工具爆火
-**Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model** 👍**260** · 宣称自研的LLM被扒出是模型拼接，引发信任争议
-**Firewood Splitting Simulator** 👍**595** · 劈柴模拟器登顶HN，极简解压游戏成今日话题王
-**Building in public, week 13: the debt week nobody posts about** ❤️**7** · 公开构建第13周：无人提及的“债务周”才是真实创业日常
+
+**Your ePub Is fine** 👍**519** · 电子书格式争议再起，多数用户认为当前标准够用  
+**Show HN: Kage – Shadow any website to a single binary for offline viewing** 👍**539** · 一键离线化任意网站，实现静默存档  
+**Why Your Gemini Bill Doesn't Match the Model Names** ❤️**10** · API 计费与实际模型名不匹配，开发者需警惕隐形成本  
+**Fable 5 的系统提示词被人扒出来了** 👍**41** · 大模型系统提示词泄露，引发对技术透明度的讨论  
 
 🏷 **语言趋势**
-Python(7) = 其他(7) > TypeScript(6) > JavaScript(3) > Shell(2)
-Python与“其他”并列第一，TypeScript紧随其后，JS生态稳定但增速放缓；本周新星项目TypeScript占主导，前端工具链仍是创新热点
+
+Python **7** · TypeScript **6** · JavaScript **3** · Shell **2** · 其他 **7**  
+Python 和 TypeScript 并列领先，但 Python 在开源工具和教程类项目上优势明显；JavaScript 热度下滑，新星项目多转向 TS  
 
 💡 **小编视角**
-**《置身钉内》之后：普通前端的出路在哪里？** · 前端内卷加剧，核心能力（工程化、跨端）与AI工具结合的复合型人才才是未来
-**小米版Claude Code正式发布，这次开源给到夯** · 大厂下场开源AI编程助手，开发者工具链竞争白热化，但开源诚意仍需时间检验
+
+**Kage 离线化工具** · 单二进制打包网页，适合备份和离线访问，但需警惕版权与隐私风险  
+**Gemini 账单不匹配** · API 计费不透明是行业通病，开发者应主动监控用量，避免意外超支
