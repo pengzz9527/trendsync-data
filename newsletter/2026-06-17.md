@@ -1,23 +1,22 @@
 🔥 **今日最热**
 
-**build-your-own-x** ⭐**516383** · 通过复刻经典技术项目掌握编程
-**awesome** ⭐**476337** · 涵盖各种有趣主题的精选列表合集
-**freeCodeCamp** ⭐**448535** · 开源编程课程与代码库，免费学习全栈开发
+**Calvin and Hobbes and the price of integrity** ⭐399 · 漫画经典引发程序员怀旧与价值观讨论  
+**Running local models is good now** ⭐1257 · 本地大模型体验大幅提升，成本降低成热点  
+**GrapheneOS has been ported to Android 17** ⭐699 · 隐私优先系统适配新版安卓，安全圈点赞  
 
 📈 **值得关注**
 
-**Running local models is good now** 👍**950** · 本地运行大模型体验已成熟，无需云端依赖
-**SpaceX to buy Cursor for $60B** 👍**823** · 航天巨头跨界收购AI编程工具，行业震动
-**Mechanical Watch (2022)** 👍**611** · 机械表原理技术解析引发极客共鸣
-**TIL: You can make HTTP requests without curl using Bash /dev/TCP** 👍**228** · 纯Bash实现HTTP请求，技巧实用
+**The founder's playbook: Building an AI-native startup** 👍31 · 从零到一，AI创业方法论获HN热议  
+**Humiliating IIS servers for fun and jail time** 👍217 · 安全测试边界惹争议，法律风险引警惕  
+**TIL: You can make HTTP requests without curl using Bash /dev/TCP** 👍390 · 终端冷知识：纯Bash发请求，省去curl依赖  
+**I Asked AI to Write My Commit Messages It Was Embarrassing** ❤️33 · AI写提交记录翻车，开发者笑中带泪  
 
 🏷 **语言趋势**
 
-Python **7** · TypeScript **6** · JavaScript **3** · Shell **2** · 其他 **7**
-
-Python与TypeScript持续主导开源项目，Python在数据/AI领域稳固，TypeScript在Web全栈快速扩张。
+Python **42%** · JavaScript **28%** · Rust **15%** · Go **10%** · 其他 **5%**  
+趋势解读：Python稳居AI主力，Rust增长迅猛，本地模型推动Python生态再扩张  
 
 💡 **小编视角**
 
-**小米版Claude Code开源** · 国产AI编程工具再添新军，开源策略降低门槛，但需关注生态兼容性
-**国产版“Codex”初体验** · 智谱ZCode对标国际产品，本土化场景或成差异化突破口
+**又是梁文锋，有点猛啊** · 国产AI开源再发力，DeepSeek团队持续破圈，技术实力与社区影响力双提升  
+**Codex 怎么买？怎么充值？** · OpenAI计费复杂引吐槽，省钱攻略成开发者刚需，建议关注按量付费模式
