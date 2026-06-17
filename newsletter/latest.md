@@ -1,22 +1,23 @@
 🔥 **今日最热**
 
-**Fable** ⭐**1.8k** · 轻量级 AI 代理框架，因快速迭代和易用性引爆 GitHub 社区
-**SubQ 1.1** ⭐**1.2k** · 亚二次方注意力机制发布，大幅降低长序列计算成本
-**小米 Claude Code** ⭐**980** · 开源版代码助手，凭借性价比和本地化特性吸引国内开发者
+**build-your-own-x** ⭐**516383** · 通过复刻经典技术项目掌握编程
+**awesome** ⭐**476337** · 涵盖各种有趣主题的精选列表合集
+**freeCodeCamp** ⭐**448535** · 开源编程课程与代码库，免费学习全栈开发
 
 📈 **值得关注**
 
-**A backdoor in a LinkedIn job offer** 👍**1451** · 黑客通过伪造招聘链接植入后门，提醒求职者警惕社交工程攻击
-**I admire Fabrice Bellard** 👍**641** · 开发者社区盛赞其全能编程能力，称其为“活着的传奇”
-**Running local models is good now** 👍**178** · 本地模型推理质量已达生产级，隐私与性能不再妥协
-**Google Chrome's Next Update Will Mark the End of Popular Ad Blockers** 👍**68** · Manifest V3 强制生效，广告拦截工具面临生存危机
+**Running local models is good now** 👍**950** · 本地运行大模型体验已成熟，无需云端依赖
+**SpaceX to buy Cursor for $60B** 👍**823** · 航天巨头跨界收购AI编程工具，行业震动
+**Mechanical Watch (2022)** 👍**611** · 机械表原理技术解析引发极客共鸣
+**TIL: You can make HTTP requests without curl using Bash /dev/TCP** 👍**228** · 纯Bash实现HTTP请求，技巧实用
 
 🏷 **语言趋势**
 
-Python **3.2k** · TypeScript **2.1k** · Rust **1.5k** · Go **1.1k** · Java **980**
-趋势解读：AI 代理与本地推理项目主导 GitHub，Python 和 Rust 增速领先，TypeScript 因前端工具链保持稳定
+Python **7** · TypeScript **6** · JavaScript **3** · Shell **2** · 其他 **7**
+
+Python与TypeScript持续主导开源项目，Python在数据/AI领域稳固，TypeScript在Web全栈快速扩张。
 
 💡 **小编视角**
 
-**小米 Claude Code vs 智谱 ZCode** · 国产 AI 编码工具开源潮起，性价比战打响，但代码安全与合规仍是隐忧
-**Chrome 终结广告拦截** · 浏览器巨头用安全之名行垄断之实，用户需转向 Firefox 或 Brave 自保
+**小米版Claude Code开源** · 国产AI编程工具再添新军，开源策略降低门槛，但需关注生态兼容性
+**国产版“Codex”初体验** · 智谱ZCode对标国际产品，本土化场景或成差异化突破口
