@@ -1,29 +1,22 @@
 🔥 **今日最热**
 
-**build-your-own-x** ⭐**516801** · 通过复刻技术项目掌握编程，持续霸榜
-
-**awesome** ⭐**476696** · 精选有趣主题的清单，开发者必备收藏
-
-**freeCodeCamp** ⭐**449256** · 开源编程课程平台，学习路径全覆盖
+**ponytail** ⭐**35284** · 本周新星冠军，JavaScript 项目，快速搭建 Tailwind CSS 组件库的利器
+**omnigent** ⭐**3730** · 通用 AI Agent 框架，Python 实现，支持多模态任务编排
+**kage** ⭐**1967** · Go 语言开发的轻量级代理工具，主打高性能与低延迟
 
 📈 **值得关注**
 
-**Lore – Open source version control system designed for scalability** 👍**1108** · 开源新版本控制系统，专注可扩展性
-
-**US holds off blacklisting DeepSeek, more than 100 firms deemed security risks** 👍**441** · 美国暂缓封杀 DeepSeek，超百家中国公司被列风险名单
-
-**Local Qwen isn't a worse Opus, it's a different tool** 👍**153** · 本地 Qwen 不是劣化版 Opus，而是不同工具选择
-
-**Midjourney Medical** 👍**592** · AI 生成医学影像，引发医疗诊断应用热议
+**I found 10k GitHub repositories distributing Trojan malware** 👍**211** · 安全警讯：大量仓库藏木马，开发者需警惕供应链攻击
+**Emacs 31 Is Around the Corner** 👍**250** · 经典编辑器大版本更新，性能与 UI 改进成社区焦点
+**Hospitals repurposing drugs at 90% lower cost** 👍**156** · 医疗创新：老药新用，成本骤降，或改变药物研发模式
+**Swiss parliament lifts ban on new nuclear power plants** 👍**123** · 能源政策转向，瑞士重启核电，技术讨论再升温
 
 🏷 **语言趋势**
 
-其他(7) → Python(7) → TypeScript(6) → JavaScript(3) → Shell(2)
-
-Python 与 TypeScript 双雄并立，AI 和全栈开发推动需求，JavaScript 活跃度回落
+JavaScript **35284** · Python **3730** · Go **1967** · TypeScript **1216** · Shell **1514**
+JavaScript 凭借 ponytail 项目一骑绝尘，Python 和 Go 稳居第二梯队，TypeScript 与 Shell 紧随其后。趋势解读：AI 工具链（Python）与轻量级基础设施（Go/JS）仍是热门方向，安全类 Shell 脚本需求上升。
 
 💡 **小编视角**
 
-**又是梁文锋，有点猛啊** · 国内 AI 人才持续涌现，DeepSeek 团队再次引发关注
-
-**Redis 作者反驳「中国模型通过 API 蒸馏美国模型」** · 开源生态下，模型能力源于原创研究而非简单复制
+**AI 蒸馏争议再起** · 梁文锋与 Redis 作者先后发声，提示行业关注模型能力来源，技术伦理与原创性成焦点
+**提示词工程已死？** · 掘金热议 Loop Engineering 取代传统提示词，AI 开发范式正从“写指令”转向“设计循环”
