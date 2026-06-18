@@ -1,22 +1,22 @@
 🔥 **今日最热**
 
-**build-your-own-x** ⭐**516622** · 通过复刻你喜欢的技术来掌握编程，持续霸榜  
-**awesome** ⭐**476519** · 汇集各类有趣主题的精选列表，新手老手都爱  
-**freeCodeCamp** ⭐**449018** · 开源代码库和课程，零门槛学编程的首选  
+**build-your-own-x** ⭐**516706** · 手把手复现流行技术，程序员自学圣经持续霸榜  
+**awesome** ⭐**476596** · 跨领域资源合集，开发者必备的“工具箱”  
+**freeCodeCamp** ⭐**449124** · 开源编程课程库，零基础到全栈的免费路径  
 
 📈 **值得关注**
 
-**Sixty percent of US consumers say 'AI' in brand messaging is a turnoff** 👍**605** · 超半数用户反感品牌营销中提及AI，反AI浪潮升温  
-**GLM-5.2 is the new leading open weights model on Artificial Analysis** 👍**510** · 开源权重模型再升级，性能登顶评测榜  
-**Want your images back? Sure... That'll be $5!** 👍**405** · 数据存储公司收费争议引发热议，用户维权意识增强  
-**Epic Games announces Lore version control system** 👍**232** · 游戏巨头自研版本控制系统，挑战Git地位  
+**Lore – 专为可扩展性设计的开源版本控制系统** 👍**916** · 挑战 Git 的下一代 VCS，获 HN 社区高度期待  
+**GLM-5.2 成为 Artificial Analysis 上领先的开源权重模型** 👍**757** · 国产模型在开源赛道再下一城，性能对标闭源  
+**US 暂缓将 DeepSeek 列入黑名单，超百家企业被列为安全风险** 👍**301** · 地缘政治博弈下，AI 公司面临监管不确定性  
+**泄露财报显示 OpenAI 年亏损数十亿美元** 👍**189** · 烧钱换增长模式遭质疑，商业化压力加剧  
 
 🏷 **语言趋势**
 
-其他(7) → Python(7) → TypeScript(6) → JavaScript(3) → Shell(2)  
-Python与TypeScript双雄争霸，前者稳居数据科学与后端，后者在Web与AI工具中快速增长。
+其他(**7**) → Python(**7**) → TypeScript(**6**) → JavaScript(**3**) → Shell(**2**)  
+Python 和 TypeScript 平分秋色，AI 工具链与全栈开发双轮驱动热度  
 
 💡 **小编视角**
 
-**又是梁文锋，有点猛啊** · DeepSeek创始人再获关注，国产AI模型实力不容小觑  
-**AI in brand messaging is a turnoff** · 消费者对AI营销已疲劳，真实价值比噱头更重要
+**GLM-5.2 开源权重模型登顶** · 国产大模型在开放生态中弯道超车，开源社区成为新战场  
+**Lore 版本控制系统** · 当 Git 成为瓶颈，分布式协作工具正迎来新一轮革新，值得开发者提前布局
