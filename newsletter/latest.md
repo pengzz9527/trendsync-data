@@ -1,22 +1,22 @@
 🔥 **今日最热**
 
-**build-your-own-x** ⭐**517827** · 通过重造技术来掌握编程，长期霸榜的经典项目
-**awesome** ⭐**477485** · 汇集各类有趣主题的精选清单，永不过时的资源库
-**freeCodeCamp** ⭐**450000** · 开源编程课程与代码库，学习者的首选
+**build-your-own-x** ⭐**517973** · 手搓编程语言、数据库、Git，最硬核的造轮子教程合集  
+**freeCodeCamp** ⭐**450048** · 开源编程课程平台，TypeScript 重写后更易贡献  
+**public-apis** ⭐**443278** · 免费 API 大全，Python 爬虫和全栈项目的宝藏库  
 
 📈 **值得关注**
 
-**Developers don't understand CORS (2019)** 👍**152** · 经典老文重提，CORS 依然是开发者痛点
-**Loupe – iOS app 揭示原生应用能看到的隐私数据** 👍**242** · 引发关于移动端隐私边界的讨论
-**Epoll vs. io_uring in Linux** 👍**135** · 高性能 I/O 的对比，后者逐渐成为新宠
-**Building reliable agentic AI systems** 👍**75** · 构建可靠 AI 代理系统的实战经验
+**Google Hits 50% IPv6** 👍**301** · 全球 IPv6 部署里程碑，半数用户已用新协议  
+**Beyond All Reason** 👍**226** · 开源版《横扫千军》RTS 游戏，免费且支持多人对战  
+**The case against geometric algebra** 👍**93** · 几何代数被批“过度炒作”，数学界争议再起  
+**Who Owns Your ATProto Identity?** 👍**66** · AT 协议身份归属模糊，去中心化社交暗藏风险  
 
 🏷 **语言趋势**
 
-Python(7) = TypeScript(6) > JavaScript(3) > Shell(2) > 其他(7)
-· Python 和 TypeScript 在开源项目数量上并驾齐驱，前者主导数据/AI 领域，后者统治全栈开发
+Python **7** · TypeScript **6** · JavaScript **3** · Shell **2** · 其他 **7**  
+📊 本周 Python 与 TypeScript 平分秋色，但 Python 在工具链和教学项目上更强势；新星项目（Kage、Eve）全部用 Go/TS，动态语言主导地位受挑战  
 
 💡 **小编视角**
 
-**build-your-own-x 持续霸榜** · 亲手实现技术比被动学习更有效，这是开发者社区“从做中学”的最佳证明
-**Loupe 隐私警报** · 原生应用能看到的比你想象的多，提醒开发者重视用户数据透明性
+**build-your-own-x 为何常青** · 造轮子是最好的学习方式，尤其适合想深入系统设计的中级开发者  
+**AI 写项目翻车启示** · 掘金热帖“上线第一天就崩”，提醒我们：AI 加速开发但无法替代测试与运维思维
