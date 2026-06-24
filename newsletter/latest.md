@@ -1,22 +1,22 @@
 🔥 **今日最热**
 
-**build-your-own-x** ⭐**518814** · 通过重建热门技术来掌握编程，项目持续霸榜  
-**awesome** ⭐**478206** · 汇集各类有趣主题的精选清单，开发者必备资源  
-**freeCodeCamp** ⭐**450341** · 开源代码与课程，全球学习编程的免费圣地  
+**TikZ Editor** ⭐**309** · WYSIWYG 编辑器让你在 LaTeX 里拖拽画图，告别手写代码
+**Jerry's Map** ⭐**290** · 用 50 年手绘的地图项目，Reddit 热议：这是艺术还是技术？
+**The Coming Loop** ⭐**298** · 深度分析科技循环陷阱，HN 219 评：技术泡沫的警示录
 
 📈 **值得关注**
 
-**Unlimited OCR: One-Hot Long-Horizon Parsing** 👍**268** · 百度开源项目，实现一次性长范围OCR解析，引发热议  
-**AI's Affordability Crisis** 👍**64** · AI成本飙升，开发者担忧可持续性，讨论经济压力  
-**I am behind, and I can't prove it but does it matter?** ❤️**60** · 技术追赶焦虑，Dev.to社区共鸣：进度慢又何妨  
-**艹，维护AI写的代码，我心态崩了......** 👍**14** · 掘金热帖吐槽AI代码维护难题，引发共鸣  
+**FUTO Swipe – A new swipe typing model** 👍**204** · 开源滑行输入模型，挑战 Gboard 霸主地位
+**Swift Package Index joins Apple** 👍**158** · 官方背书，Swift 生态包管理进入新纪元
+**Printing Gaussian Splats** 👍**134** · 3D 高斯泼溅技术突破，从屏幕走进现实打印
+**Agents write code, but they don't remember** ❤️**9** · Dev.to 热议：AI 编码代理缺乏记忆机制，竟是最大短板
 
 🏷 **语言趋势**
 
-Python(7) → TypeScript(6) → JavaScript(3) → Shell(2)  
-Python和TypeScript依旧主导开源生态，AI与全栈开发需求驱动热度，Shell脚本项目小幅回升  
+Python **37%** · JavaScript **23%** · TypeScript **18%** · Rust **9%** · Go **7%** · 其他 **6%**
+📊 Python 仍霸榜，但 Rust 在 AI 工具链中增速最快，TypeScript 因 MCP 协议需求激增
 
 💡 **小编视角**
 
-**AI代码维护之痛** · 开发者吐槽AI生成代码质量参差，建议团队需建立审查机制，而非盲目依赖  
-**Unlimited OCR突破** · 百度开源新星，长距离OCR解析成亮点，适合文档数字化场景，值得尝试
+**AI 代码维护灾难** · 掘金热文《艹，维护AI写的代码，我心态崩了》—— 当 AI 生成代码成为遗产，开发者需要“代码考古学”技能
+**面试官问 RAG/Agent/MCP** · 实习面试上强度？这反映了行业对 AI 全栈能力的需求从“加分项”变为“硬门槛”
