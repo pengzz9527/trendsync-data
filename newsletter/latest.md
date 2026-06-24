@@ -1,22 +1,22 @@
 🔥 **今日最热**
 
-**TikZ Editor** ⭐**309** · WYSIWYG 编辑器让你在 LaTeX 里拖拽画图，告别手写代码
-**Jerry's Map** ⭐**290** · 用 50 年手绘的地图项目，Reddit 热议：这是艺术还是技术？
-**The Coming Loop** ⭐**298** · 深度分析科技循环陷阱，HN 219 评：技术泡沫的警示录
+**build-your-own-x** ⭐**518997** · 用动手复刻经典技术来掌握编程，极客自学圣经  
+**awesome** ⭐**478363** · 汇集各种有趣主题的精选清单，万能资源宝库  
+**freeCodeCamp** ⭐**450393** · 开源全栈课程与代码库，零基础入门首选
 
 📈 **值得关注**
 
-**FUTO Swipe – A new swipe typing model** 👍**204** · 开源滑行输入模型，挑战 Gboard 霸主地位
-**Swift Package Index joins Apple** 👍**158** · 官方背书，Swift 生态包管理进入新纪元
-**Printing Gaussian Splats** 👍**134** · 3D 高斯泼溅技术突破，从屏幕走进现实打印
-**Agents write code, but they don't remember** ❤️**9** · Dev.to 热议：AI 编码代理缺乏记忆机制，竟是最大短板
+**The 80/20 Rule of AI Code** ❤️**31** · AI 代码的最后 20% 耗费你 80% 时间，别被幻觉骗了  
+**The Node.js Mistake That Cost My Client $3,000** ❤️**21** · 一个异步处理疏忽，AWS 账单直接炸裂  
+**AI Agent 开发究竟是啥？** 👍**23** · 深入浅出拆解概念，手把手教你用 AI 开发 Agent  
+**我给 AI 搭了个法庭** 👍**21** · 前端仔用 LangGraph 实战，把 AI 当被告审判
 
 🏷 **语言趋势**
 
-Python **37%** · JavaScript **23%** · TypeScript **18%** · Rust **9%** · Go **7%** · 其他 **6%**
-📊 Python 仍霸榜，但 Rust 在 AI 工具链中增速最快，TypeScript 因 MCP 协议需求激增
+其他(**7**) → Python(**7**) → TypeScript(**6**) → JavaScript(**3**) → Shell(**2**)  
+Python 与 TypeScript 并驾齐驱，AI 与全栈工程仍是主流战场；Shell 低调上榜，配置自动化需求回暖。
 
 💡 **小编视角**
 
-**AI 代码维护灾难** · 掘金热文《艹，维护AI写的代码，我心态崩了》—— 当 AI 生成代码成为遗产，开发者需要“代码考古学”技能
-**面试官问 RAG/Agent/MCP** · 实习面试上强度？这反映了行业对 AI 全栈能力的需求从“加分项”变为“硬门槛”
+**AI 时代红利，为什么大部分人吃不到** · 不是工具不够强，而是大多数人只停留在“用”而非“造”，门槛在思维切换。  
+**无限期免费 Token 随便用** · 羊毛党狂喜，但小心背后数据隐私陷阱——免费往往是最贵的。
