@@ -1,29 +1,22 @@
 🔥 **今日最热**
 
-**build-your-own-x** ⭐**519156** · 通过复刻热门技术来掌握编程，教程资源型项目持续火爆
-
-**awesome** ⭐**478460** · 全品类精选资源合集，开发者必备的“宝藏清单”
-
-**freeCodeCamp** ⭐**450430** · 开源编程课程与代码库，学习型项目长期霸榜
+**build-your-own-x** ⭐**519271** · 通过复刻你喜爱的技术来掌握编程，持续霸榜  
+**awesome** ⭐**478540** · 涵盖各类有趣主题的精选清单，新手老手皆宜  
+**freeCodeCamp** ⭐**450447** · 开源编程课程与代码库，零基础入门首选  
 
 📈 **值得关注**
 
-**We're making Bunny DNS free** 👍**596** · 免费DNS服务上线，声称“更快的互联网不会自己建起来”，引发广泛讨论
-
-**Founding a company in Germany** 👍**371** · 德国创业流程吐槽：**€9600**、**152天**、还开不了发票，引发426条评论共鸣
-
-**Krea 2 Technical Report** 👍**137** · AI图像生成新模型技术报告发布，技术细节受关注
-
-**A Practical Guide to SSH Tunnels** 👍**106** · 本地与远程端口转发实战指南，实用技术帖获高赞
+**We're making Bunny DNS free** 👍**835** · 免费DNS服务引发社区热议，隐私与性能兼得  
+**OpenAI unveils its first custom chip, built by Broadcom** 👍**463** · 自研芯片布局AI硬件，降低对NVIDIA依赖  
+**RubyLLM: A Ruby framework for all major AI providers** 👍**333** · Ruby社区迎来统一AI框架，降低多模型集成门槛  
+**Computer use in Gemini 3.5 Flash** 👍**147** · Google推出AI直接操作电脑功能，Agent应用再进一步  
 
 🏷 **语言趋势**
 
-其他(**7**) → Python(**7**) → TypeScript(**6**) → JavaScript(**3**) → Shell(**2**)
-
-趋势解读：Python与TypeScript双雄争霸，Python在API、系统设计等基础设施项目占优，TypeScript则主导前端与学习路线图类项目
+Python **7** · TypeScript **6** · JavaScript **3** · Shell **2** · 其他 **7**  
+Python项目数领先，但TypeScript增速明显，AI与全栈开发双引擎驱动  
 
 💡 **小编视角**
 
-**AI Agent开发热潮** · 掘金多篇文章聚焦AI Agent，从概念到踩坑实录，开发者正从“用AI”转向“造AI代理”
-
-**开源项目教育化** · GitHub Top3均为学习型项目，开发者“边做边学”的需求持续旺盛，高质量教程项目仍是流量密码
+**PR spam today looks like email spam in the early 2000s** · 开源协作生态正被垃圾PR侵蚀，社区治理需警惕  
+**AI Agent开发究竟是啥？** · 概念火热但实践坑多，建议从“小任务自动化”切入而非追求大而全
