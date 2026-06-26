@@ -1,22 +1,22 @@
 🔥 **今日最热**
 
-**Half-Life 2 in a Browser** ⭐**507** · 经典游戏直接运行在浏览器里，怀旧与Web技术突破双爆
-**Anthropic says Alibaba illicitly extracted Claude AI model capabilities** ⭐**651** · 大厂AI模型被“偷”，技术安全与竞争升级成热点
-**Ford rehires 350 engineers after AI fails to preserve expertise or train juniors** ⭐**180** · AI替代人力翻车，老工程师价值被重新审视
+**build-your-own-x** ⭐**519672** · 通过复刻常用技术工具来掌握编程，项目式学习圣经
+**awesome** ⭐**478806** · 史上最全的优质资源清单聚合库，开发者必备索引
+**freeCodeCamp** ⭐**450524** · 开源编程课程与代码库，零基础到全栈的免费路径
 
 📈 **值得关注**
 
-**You can't unit test for taste** 👍**144** · 单元测试无法衡量用户体验，开发需跳出代码思维
-**Next.js 16 Server Actions Security: The Auth Check Most Developers Miss** ❤️**15** · 常见权限漏洞提醒，全栈开发者必看
-**Choosing a Vector Database in 2026** ❤️**3** · 五种向量数据库对比，选型指南
-**Node.js 还能再战十年？给你一个不换引擎的理由** 👍**14** · 社区力挺Node.js，稳定与生态仍是王牌
+**An entire Herculaneum scroll has been read for the first time** 👍**883** · 2000年前的碳化卷轴首次被AI破译，考古与技术的里程碑
+**The 'papers, please' era of the internet will decimate your privacy** 👍**263** · 身份验证要求激增，互联网正走向“凭证审查”时代
+**IBM debuts sub-1 nanometer chip technology** 👍**248** · 突破物理极限，1纳米以下芯片工艺正式亮相
+**Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion** 👍**176** · 开源AI优先的知识管理工具，挑战笔记应用格局
 
 🏷 **语言趋势**
 
-JavaScript **+2,300** · Python **+1,800** · Rust **+950** · Go **+720** · TypeScript **+1,500**
-趋势解读：TypeScript持续领跑前端，Rust在系统编程领域加速渗透，Python因AI工具链保持强势
+Python **7** · TypeScript **6** · JavaScript **3** · Shell **2**
+Python 稳占项目数与生态双冠，TypeScript 在工具类和教育类项目中持续渗透，JavaScript 增长放缓。
 
 💡 **小编视角**
 
-**Ford 350名工程师回归** · AI不是万能药，行业需平衡自动化与经验传承
-**Half-Life 2 in a Browser** · 技术边界被打破，怀旧经济+WebAssembly引爆新可能
+**My app didn't go "viral". My AWS bill did.** · 爆款梦碎，账单先爆——云成本失控是独立开发者最隐秘的痛点
+**I don't trust the LLM to classify my email. So I don't let it.** · AI 虽强，但关键分类任务仍需人工兜底，信任边界要清晰
