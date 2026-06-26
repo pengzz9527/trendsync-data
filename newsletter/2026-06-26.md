@@ -1,22 +1,22 @@
 🔥 **今日最热**
 
-**build-your-own-x** ⭐**519672** · 通过复刻常用技术工具来掌握编程，项目式学习圣经
-**awesome** ⭐**478806** · 史上最全的优质资源清单聚合库，开发者必备索引
-**freeCodeCamp** ⭐**450524** · 开源编程课程与代码库，零基础到全栈的免费路径
+**build-your-own-x** ⭐**519778** · 通过复刻你最爱的技术来掌握编程，极客最爱  
+**awesome** ⭐**478883** · 各种有趣主题的精选清单，资源宝库  
+**freeCodeCamp** ⭐**450549** · 开源代码库与课程，零基础入门首选  
 
 📈 **值得关注**
 
-**An entire Herculaneum scroll has been read for the first time** 👍**883** · 2000年前的碳化卷轴首次被AI破译，考古与技术的里程碑
-**The 'papers, please' era of the internet will decimate your privacy** 👍**263** · 身份验证要求激增，互联网正走向“凭证审查”时代
-**IBM debuts sub-1 nanometer chip technology** 👍**248** · 突破物理极限，1纳米以下芯片工艺正式亮相
-**Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion** 👍**176** · 开源AI优先的知识管理工具，挑战笔记应用格局
+**An entire Herculaneum scroll has been read for the first time** 👍**1252** · 古卷首次被AI破译，历史与技术交汇  
+**The 'papers, please' era of the internet will decimate your privacy** 👍**652** · 互联网进入“证件时代”，隐私面临空前威胁  
+**Framework's 10G Ethernet module exposes USB-C's complexity** 👍**144** · USB-C兼容性难题再被Framework模块曝光  
+**What happened after 2k people tried to hack my AI assistant** 👍**116** · AI助手安全测试实录，漏洞比想象中多  
 
 🏷 **语言趋势**
 
-Python **7** · TypeScript **6** · JavaScript **3** · Shell **2**
-Python 稳占项目数与生态双冠，TypeScript 在工具类和教育类项目中持续渗透，JavaScript 增长放缓。
+Python(7) = 其他(7) > TypeScript(6) > JavaScript(3) > Shell(2)  
+Python与TypeScript持续领跑，AI与全栈开发双驱动，TypeScript在工具类项目上增长明显  
 
 💡 **小编视角**
 
-**My app didn't go "viral". My AWS bill did.** · 爆款梦碎，账单先爆——云成本失控是独立开发者最隐秘的痛点
-**I don't trust the LLM to classify my email. So I don't let it.** · AI 虽强，但关键分类任务仍需人工兜底，信任边界要清晰
+**古卷破译 vs 隐私危机** · 一边是AI让千年文字重见天日，另一边是互联网正在用“证件制度”蚕食你的隐私——技术在解放知识，也在禁锢自由  
+**Framework的USB-C模块** · 硬件开放是好，但USB-C的混乱生态让“通用接口”成了伪命题，开发者该反思标准之痛了
