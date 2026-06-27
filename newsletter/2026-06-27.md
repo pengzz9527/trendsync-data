@@ -1,22 +1,22 @@
 🔥 **今日最热**
 
-**build-your-own-x** ⭐**520062** · 通过重建你喜欢的技术来掌握编程，本周最火自学项目  
-**awesome** ⭐**479157** · 涵盖所有有趣主题的精选列表，常青树项目  
-**freeCodeCamp** ⭐**450605** · 开源编程课程和代码库，学习型社区首选  
+**build-your-own-x** ⭐**520185** · 通过重造轮子掌握编程核心，开源学习圣经持续霸榜  
+**awesome** ⭐**479262** · 主题清单聚合神器，程序员的信息“瑞士军刀”  
+**freeCodeCamp** ⭐**450624** · 全栈开源课程库，零基础到就业的免费路径
 
 📈 **值得关注**
 
-**Previewing GPT‑5.6 Sol: a next-generation model** 👍**973** · 下一代模型预览引爆讨论，AI 能力再升级  
-**U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations** 👍**400** · 美国批准 Anthropic 向“可信”组织发布 Mythos AI，监管新动向  
-**MicroVMs: Run isolated sandboxes with full lifecycle control** 👍**318** · 微虚拟机技术兴起，安全隔离和生命周期管理成焦点  
-**Why does kinetic energy increase quadratically, not linearly, with speed? (2011)** 👍**220** · 经典物理问题重燃讨论，科学思维受开发者追捧  
+**DSpark: Speculative decoding accelerates LLM inference** 👍**601** · 投机解码技术突破，LLM推理速度有望翻倍  
+**Fintech Engineering Handbook** 👍**271** · 金融科技工程实战指南，从架构到合规全覆盖  
+**Anonymous GitHub account mass-dropping undisclosed 0-days** 👍**48** · 匿名账户批量释放未公开0-day，安全圈警报拉响  
+**AI Didn't Invent Slop. It Only Made It Infinite.** ❤️**23** · 垃圾内容不是AI发明的，但AI让它无限繁殖
 
 🏷 **语言趋势**
 
-Python **7** · TypeScript **6** · JavaScript **3** · Shell **2** · 其他 **7**  
-Python 和 TypeScript 领跑，AI 和前端工具链驱动热度，Shell 稳居基础设施语言  
+Python(**7**) = 其他(**7**) > TypeScript(**6**) > JavaScript(**3**) > Shell(**2**)  
+Python与多语言项目并驾齐驱，TypeScript紧随其后，JavaScript热度回落——AI工具链与全栈开发双轮驱动Python生态
 
 💡 **小编视角**
 
-**GPT‑5.6 Sol 与 Mythos AI 双管齐下** · AI 模型迭代加速，但安全审查门槛也在提高，开发者需关注合规性  
-**MicroVMs 成基础设施新宠** · 轻量级沙箱方案走红，从开发测试到生产隔离，微虚拟机正在改写云原生生态
+**面试官问你：“AI 能写 80% 的代码了，公司为什么还需要你？”** · AI是效率工具，但架构设计、业务理解、风险判断仍是人类护城河  
+**尤大重学 Webpack，Vite 8.1 再进化，打包模式复活！** · 工具链迭代永无止境，Vite从“开发快”向“构建稳”进化，打包模式回归是务实信号
