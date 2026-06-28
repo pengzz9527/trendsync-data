@@ -1,18 +1,22 @@
 🔥 **今日最热**
-**build-your-own-x** ⭐**520361** · 通过重造你喜爱的技术来掌握编程（Markdown）
-**awesome** ⭐**479436** · 各类有趣主题的精选清单
-**freeCodeCamp** ⭐**450647** · freeCodeCamp 开源代码库与课程（TypeScript）
+
+**build-your-own-x** ⭐**520481** · 通过重造轮子掌握编程，GitHub 最火教程仓库  
+**awesome** ⭐**479532** · “Awesome”系列列表，覆盖所有有趣技术主题  
+**freeCodeCamp** ⭐**450674** · 开源编程课程仓库，TypeScript 重写后更易贡献  
 
 📈 **值得关注**
-**Anonymous GitHub account mass-dropping undisclosed 0-days** 👍**784** · 匿名账户批量投放未公开零日漏洞，引发安全恐慌
-**OpenRA** 👍**677** · 经典即时战略游戏开源重制版，社区热度飙升
-**Choosing a Public DNS Resolver** 👍**139** · 教你如何选公共 DNS 解析器，隐私与性能权衡
-**AMD Strix Halo RDMA Cluster Setup Guide** 👍**117** · AMD 新平台 RDMA 集群搭建指南，高性能计算新选择
+
+**Flock cameras track more than your license plate, and they're spreading fast** 👍**139** · 隐私担忧升级：监控摄像头不止拍车牌，还能追踪行为模式  
+**EU to legislate about Chat Control behind closed doors** 👍**135** · 欧盟暗箱推进“聊天控制”立法，引发加密通信社区强烈反对  
+**The curious case of the disappearing Polish S (2015)** 👍**91** · 一个字母“S”在波兰语中消失的奇案，语言技术冷知识  
+**I Got Tired of Rewriting AI API Wrappers, So I Built a Gateway** ❤️**20** · 开发者自建 AI API 网关，解决重复封装痛点  
 
 🏷 **语言趋势**
-Python(7) = TypeScript(6) > JavaScript(3) > Shell(2) > 其他(7)
-· Python 和 TypeScript 持续主导本周项目，新手友好与类型安全成为两大主流需求。
+
+Python **7** · TypeScript **6** · JavaScript **3** · Shell **2** · 其他 **7**  
+趋势解读：Python 与 TypeScript 并列主导本周新星与经典项目，AI 和全栈开发双驱动，Shell 脚本回归运维场景。
 
 💡 **小编视角**
-**0-day 批量投放事件** · 匿名账户公然释放未公开漏洞，开源生态的供应链安全警报再拉响，企业需立即审查依赖。
-**Decomp Academy** · 教你反编译 GameCube 游戏为可匹配 C 代码，复古游戏逆向工程迎来新工具。
+
+**开源监控 vs 隐私边界** · Flock 摄像头争议提醒我们：开源工具再强大，也要警惕技术被滥用于大规模监控  
+**“写代码登胡润榜”** · 掘金爆文背后是真实信号：纯技术路线也能创造财富，但关键在解决稀缺问题（如 AI 基础设施）
