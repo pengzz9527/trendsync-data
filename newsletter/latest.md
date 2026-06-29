@@ -1,22 +1,29 @@
 🔥 **今日最热**
 
-**build-your-own-x** ⭐**520481** · 通过重造轮子掌握编程，GitHub 最火教程仓库  
-**awesome** ⭐**479532** · “Awesome”系列列表，覆盖所有有趣技术主题  
-**freeCodeCamp** ⭐**450674** · 开源编程课程仓库，TypeScript 重写后更易贡献  
+**build-your-own-x** ⭐**520586** · 通过复刻流行技术掌握编程，极客最爱项目。
+
+**awesome** ⭐**479632** · 汇集各类有趣主题的清单，新手入门宝典。
+
+**freeCodeCamp** ⭐**450690** · 开源编程课程与代码库，自学首选。
 
 📈 **值得关注**
 
-**Flock cameras track more than your license plate, and they're spreading fast** 👍**139** · 隐私担忧升级：监控摄像头不止拍车牌，还能追踪行为模式  
-**EU to legislate about Chat Control behind closed doors** 👍**135** · 欧盟暗箱推进“聊天控制”立法，引发加密通信社区强烈反对  
-**The curious case of the disappearing Polish S (2015)** 👍**91** · 一个字母“S”在波兰语中消失的奇案，语言技术冷知识  
-**I Got Tired of Rewriting AI API Wrappers, So I Built a Gateway** ❤️**20** · 开发者自建 AI API 网关，解决重复封装痛点  
+**GLM 5.2 beats Claude in our benchmarks** ▲**338** · 国产大模型 GLM 5.2 在评测中超越 Claude，引发热议。
+
+**I used Claude Code to get a second opinion on my MRI** ▲**308** · 用户用 Claude Code 解读 MRI 结果，AI 医疗应用再引关注。
+
+**Professor denounces mass AI fraud on an exam at Brown** ▲**169** · 布朗大学教授揭露大规模 AI 作弊，教育界震动。
+
+**Historical memory prices 1960-2026** ▲**128** · 内存价格历史数据可视化，技术史爱好者必看。
 
 🏷 **语言趋势**
 
-Python **7** · TypeScript **6** · JavaScript **3** · Shell **2** · 其他 **7**  
-趋势解读：Python 与 TypeScript 并列主导本周新星与经典项目，AI 和全栈开发双驱动，Shell 脚本回归运维场景。
+其他(7) → Python(7) → TypeScript(6) → JavaScript(3) → Shell(2)
+
+Python 与 TypeScript 持续领跑，AI 和全栈开发双引擎驱动热度。
 
 💡 **小编视角**
 
-**开源监控 vs 隐私边界** · Flock 摄像头争议提醒我们：开源工具再强大，也要警惕技术被滥用于大规模监控  
-**“写代码登胡润榜”** · 掘金爆文背后是真实信号：纯技术路线也能创造财富，但关键在解决稀缺问题（如 AI 基础设施）
+**GLM 5.2 超越 Claude** · 国产大模型加速追赶，技术差距缩小，但实际应用场景仍需验证。
+
+**AI 作弊与医疗应用** · 同一技术，一面是教育诚信危机，一面是医疗辅助曙光，双刃剑效应凸显。
