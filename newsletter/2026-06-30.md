@@ -1,22 +1,22 @@
 🔥 **今日最热**
 
-**build-your-own-x** ⭐**520955** · 通过复现你喜爱的技术来掌握编程，持续霸榜  
-**awesome** ⭐**480012** · 精选各类有趣主题的Awesome列表，入门必藏  
-**freeCodeCamp** ⭐**450775** · 开源代码库与课程，TypeScript实现，学习型项目天花板  
+**build-your-own-x** ⭐**521,049** · 通过亲手复刻技术来掌握编程，经典永不过时  
+**awesome** ⭐**480,132** · 汇集各类有趣主题的精选清单，社区最爱  
+**freeCodeCamp** ⭐**450,794** · 开源代码库和课程体系，零基础入门首选  
 
 📈 **值得关注**
 
-**Qwen 3.6 27B 是本地开发的最佳选择** 👍**875** · 597条讨论，模型大小与性能的甜蜜点  
-**.self：支持自托管的新顶级域名** 👍**480** · 271条讨论，去中心化域名新方向  
-**Free the Icons** 👍**412** · 112条讨论，图标版权开放运动再起  
-**LongCat-2.0：1.6T总参数量、48B活跃的MoE模型** 👍**118** · 34条讨论，大规模混合专家模型新突破  
+**European digital ID wallets rely on safety services of Google and Apple** 👍**548** · 欧洲数字身份钱包依赖美企安全服务，引发主权争议  
+**Open Source Low Tech** 👍**478** · 低技术开源方案讨论升温，回归简单可靠  
+**Building a custom octocopter from scratch with no prior hardware experience** 👍**215** · 零硬件经验自制八旋翼无人机，硬核实践分享  
+**Looking Ahead to Postgres 19** 👍**97** · PostgreSQL 19 前瞻，社区期待新特性  
 
 🏷 **语言趋势**
 
-Python **7**项 · TypeScript **6**项 · JavaScript **3**项 · Shell **2**项 · 其他 **7**项  
-趋势解读：Python与TypeScript双雄领跑，AI与前端生态持续驱动增长，Shell脚本在DevOps场景中保持稳定需求  
+Python **7** · TypeScript **6** · JavaScript **3** · Shell **2** · 其他 **7**  
+Python 与 TypeScript 持续领跑，AI 和全栈开发需求推动热度  
 
 💡 **小编视角**
 
-**DeepSeek 36个岗位80%要会Agent** · Agent开发成求职硬通货，模型能力外放时代来临  
-**React Renderer 分离的多平台架构** · 前端框架向“一次编写，多处运行”进化，跨平台不再是梦想
+**DeepSeek 猛招 36 人，80% 岗位要求 Agent 技能** · AI Agent 成为招聘硬门槛，开发者需加速拥抱智能体开发  
+**React Renderer 分离的多平台架构** · 前端跨端方案再进化，React 生态向原生渗透加速
