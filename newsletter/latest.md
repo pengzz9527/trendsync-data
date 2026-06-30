@@ -1,22 +1,22 @@
 🔥 **今日最热**
 
-**build-your-own-x** ⭐**520798** · 通过复刻你最爱技术来掌握编程，GitHub 星王  
-**awesome** ⭐**479850** · 万能清单库，覆盖所有有趣话题，持续更新中  
-**freeCodeCamp** ⭐**450728** · 开源全栈课程，零基础到实战一步到位  
+**build-your-own-x** ⭐**520887** · 通过重造轮子掌握编程核心，开发者最爱的手把手项目  
+**awesome** ⭐**479920** · 汇集各领域有趣资源，GitHub 上最知名的“清单”仓库  
+**freeCodeCamp** ⭐**450735** · 开源全栈编程课程，零基础到实战的免费学习路径  
 
 📈 **值得关注**
 
-**Mag 7 starting to underperform** 👍**113** · 科技七巨头增长乏力，PDF报告引发市场担忧  
-**Sandia National Labs SA3000 8085 CPU** 👍**104** · 老芯片新生命，复古硬件逆袭成热点  
-**Rocketlab acquires Iridium** 👍**81** · 航天巨头并购，卫星通信格局生变  
-**WATaBoy: JIT-Ing Game Boy Instructions to WASM** 👍**32** · Game Boy指令JIT到WebAssembly，性能超越原生模拟器  
+**Qwen 3.6 27B 是本地开发的最佳选择** 👍**547** · 大模型本地部署的甜点参数，性能与成本取得平衡  
+**Rocketlab 收购 Iridium** 👍**342** · 卫星通信领域整合加速，商业航天再下一城  
+**A native graphical shell for SSH** 👍**223** · 让 SSH 拥有图形界面，远程操作体验升级  
+**我把祖传项目的构建时间砍了90%** 👍**16** · 掘金热帖：一次“优化”让隔壁组 CI 崩了，技术债的代价  
 
 🏷 **语言趋势**
 
 Python **7** · TypeScript **6** · JavaScript **3** · Shell **2** · 其他 **7**  
-Python和TypeScript主导本周热门项目，AI与全栈开发双线并进，Shell仍占一席之地  
+趋势解读：Python 与 TypeScript 并驾齐驱，AI 和全栈开发仍是两大驱动力；本周新星项目多集中于 Python 和 TypeScript，生态热度持续。
 
 💡 **小编视角**
 
-**DeepSeek招人太猛** · 36个岗位80%要求会Agent，AI自主智能成招聘风口，学Agent=握未来门票  
-**构建时间砍90%** · 一个优化让CI全线崩溃，性能调优是双刃剑，小心“优化”变“灾难”
+**DeepSeek 招人猛，80%岗位要求 Agent 能力** · AI Agent 已从概念走向落地，懂 Agent 架构的开发者将成稀缺资源  
+**白宫限制令下，OpenAI 火速发布 GPT-5.6** · 政策博弈与技术竞赛同步升级，AI 行业进入“竞速模式”
