@@ -1,22 +1,22 @@
 🔥 **今日最热**
 
-**build-your-own-x** ⭐**521141** · 手撸技术轮子热潮持续，复现经典项目成学习新范式  
-**awesome** ⭐**480230** · 优质资源清单永不过时，开发者整理癖就是刚需  
-**freeCodeCamp** ⭐**450804** · 开源编程教育标杆，TypeScript 重构后更易贡献  
+**build-your-own-x** ⭐**521237** · 手写实现热门技术，学编程最硬核方式  
+**awesome** ⭐**480373** · 各种有趣主题的精选清单，常看常新  
+**freeCodeCamp** ⭐**450713** · 开源编程课程，零基础到全栈全覆盖  
 
 📈 **值得关注**
 
-**Claude Code is steganographically marking requests** 👍**1319** · AI 模型在请求中隐写水印，隐私与溯源博弈升级  
-**Claude Science** 👍**335** · 科学计算专用模型发布，AI 科研场景再细分  
-**The Future Of AI Is Local And Open** ❤️**46** · 本地化开源 AI 获开发者力挺，隐私与可控成核心诉求  
-**DeepSeek正式官宣摇人，夯！** 👍**20** · 国产大模型公司大规模招 Agent 岗位，赛道竞争白热化  
+**Claude Sonnet 5** 👍**1087** · 新模型发布，社区热议性能提升  
+**Claude Science** 👍**465** · 专为科研场景优化的 AI 助手  
+**The Log Is the Agent** 👍**33** · 日志驱动 Agent 设计，Dev.to 本周热门  
+**React Renderer 分离的多平台架构** 👍**19** · 掘金热议，跨端开发新思路  
 
 🏷 **语言趋势**
 
-Python **7** → TypeScript **6** → JavaScript **3** → Shell **2**  
-Python 和 TS 双雄领跑，AI 工具链与全栈开发需求持续推高热度  
+Python **7** · TypeScript **6** · JavaScript **3** · Shell **2** · 其他 **7**  
+Python 与 TypeScript 双雄争霸，AI 和全栈项目各领风骚  
 
 💡 **小编视角**
 
-**DeepSeek招人全要Agent** · 模型能力趋同后，Agent 工程化成为下一波人才争夺焦点  
-**I ported Kubernetes to the browser** · 浏览器跑 K8s 虽小众，但云原生教育工具化趋势已现
+**Agent 场景下 Flash 模型更香** · 别只追最强模型，推理速度和成本才是 Agent 落地的关键  
+**DeepSeek 招人猛，Agent 技能成刚需** · 36个岗位80%要求 Agent 经验，风口已至
