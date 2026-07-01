@@ -1,22 +1,22 @@
 🔥 **今日最热**
 
-**build-your-own-x** ⭐**521237** · 手写实现热门技术，学编程最硬核方式  
-**awesome** ⭐**480373** · 各种有趣主题的精选清单，常看常新  
-**freeCodeCamp** ⭐**450713** · 开源编程课程，零基础到全栈全覆盖  
+**build-your-own-x** ⭐**521375** · 通过重造轮子学编程，GitHub 第一教程仓库
+**awesome** ⭐**480504** · 最全“awesome”清单合集，发现一切有趣主题
+**freeCodeCamp** ⭐**450735** · 开源编程课程，零基础到全栈一站搞定
 
 📈 **值得关注**
 
-**Claude Sonnet 5** 👍**1087** · 新模型发布，社区热议性能提升  
-**Claude Science** 👍**465** · 专为科研场景优化的 AI 助手  
-**The Log Is the Agent** 👍**33** · 日志驱动 Agent 设计，Dev.to 本周热门  
-**React Renderer 分离的多平台架构** 👍**19** · 掘金热议，跨端开发新思路  
+**Why I Stopped Arguing with People** 👍**456** · 争论无益，专注行动才是真效率
+**Asahi Linux 7.1 Progress Report** 👍**413** · Apple Silicon Linux 支持稳步推进，驱动更完善
+**Nintendo has raised its employees base salary by 10%** 👍**324** · 游戏巨头加薪，行业人才竞争加剧
+**For First Time, a Cell Built from Scratch Grows and Divides** 👍**122** · 合成生物学里程碑，人造细胞首次完整生命周期
 
 🏷 **语言趋势**
 
-Python **7** · TypeScript **6** · JavaScript **3** · Shell **2** · 其他 **7**  
-Python 与 TypeScript 双雄争霸，AI 和全栈项目各领风骚  
+其他(7) → Python(7) → TypeScript(6) → JavaScript(3) → Shell(2)
+Python 在 API 集合与系统设计项目上强势领跑，TypeScript 紧随其后，AI Agent 场景加速 TypeScript 与 Python 双雄格局。
 
 💡 **小编视角**
 
-**Agent 场景下 Flash 模型更香** · 别只追最强模型，推理速度和成本才是 Agent 落地的关键  
-**DeepSeek 招人猛，Agent 技能成刚需** · 36个岗位80%要求 Agent 经验，风口已至
+**DeepSeek 招人猛攻 Agent** · 36个岗位**80%**要求懂Agent，AI 从“模型能力”转向“工程落地”信号明确
+**React Renderer 多平台架构** · 掘金热议分离式渲染，前端跨端方案再进化，移动端与桌面端统一不再是梦
