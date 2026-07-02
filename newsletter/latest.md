@@ -1,22 +1,22 @@
 🔥 **今日最热**
 
-**build-your-own-x** ⭐**521493** · 通过重造轮子掌握编程精髓，经典永不过时  
-**awesome** ⭐**480597** · 万能清单合集，每个开发者都该收藏  
-**freeCodeCamp** ⭐**450763** · 开源编程课程，零基础到全栈一站直达  
+**build-your-own-x** ⭐**521613** · 通过重造轮子掌握编程，持续霸榜  
+**awesome** ⭐**480702** · 各种有趣话题的精选清单，开发者必藏  
+**freeCodeCamp** ⭐**450805** · 开源代码与课程，零基础到全栈
 
 📈 **值得关注**
 
-**For first time, a cell built from scratch grows and divides** ▲**686** · 合成生物学里程碑，人造细胞实现自我复制  
-**Physical disc production ending in Jan 2028 for new games on PlayStation** ▲**563** · 数字时代加速到来，实体游戏即将终结  
-**What to learn to be a graphics programmer** ▲**209** · 图形编程入行指南，从渲染管线到 GPU 优化全梳理  
-**DeepSeek这次招得太猛了，36个岗位，80%都要会Agent！** 👍**26** · Agent 开发成求职香饽饽，AI 人才缺口持续扩大  
+**ZCode – Harness for GLM-5.2** 👍**367** · 新编程语言框架引发热议，**285**条讨论  
+**What to learn to be a graphics programmer** 👍**321** · 图形程序员入门路线，**165**条实战建议  
+**Bring back crappy forums** 👍**210** · 复古论坛文化复兴，**125**条怀旧讨论  
+**My First Year at DEV Recap** ❤️**48** · 社区新人的成长反思，共鸣强烈
 
 🏷 **语言趋势**
 
-Python **7** · TypeScript **6** · JavaScript **3** · Shell **2** · 其他 **7**  
-Python 与 TypeScript 双雄争霸，AI 与全栈开发持续驱动增长，Shell 脚本需求稳定但小众  
+Python **7** → TypeScript **6** → JavaScript **3** → Shell **2**  
+Python 项目数领先，TypeScript 紧随其后，AI 与全栈开发推动两者热度
 
 💡 **小编视角**
 
-**Agent 场景下，Flash 模型才是真香** · 别只盯着最强模型，低成本、低延迟的 Flash 模型在 Agent 落地中更实用，效率与性价比才是王道  
-**开源项目「build-your-own-x」再登顶** · 从理论到实践，亲手复现技术是最高效的学习方式，这波「手搓」热潮值得跟
+**DeepSeek 正式官宣摇人** · 国内AI公司开始高调扩招，行业人才争夺战升级  
+**别只盯着最强模型，Agent 场景更该看 Flash 档模型** · 实用主义胜过参数竞赛，轻量模型在Agent中更吃香
