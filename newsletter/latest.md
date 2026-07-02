@@ -1,22 +1,22 @@
 🔥 **今日最热**
 
-**build-your-own-x** ⭐**521375** · 通过重造轮子学编程，GitHub 第一教程仓库
-**awesome** ⭐**480504** · 最全“awesome”清单合集，发现一切有趣主题
-**freeCodeCamp** ⭐**450735** · 开源编程课程，零基础到全栈一站搞定
+**build-your-own-x** ⭐**521493** · 通过重造轮子掌握编程精髓，经典永不过时  
+**awesome** ⭐**480597** · 万能清单合集，每个开发者都该收藏  
+**freeCodeCamp** ⭐**450763** · 开源编程课程，零基础到全栈一站直达  
 
 📈 **值得关注**
 
-**Why I Stopped Arguing with People** 👍**456** · 争论无益，专注行动才是真效率
-**Asahi Linux 7.1 Progress Report** 👍**413** · Apple Silicon Linux 支持稳步推进，驱动更完善
-**Nintendo has raised its employees base salary by 10%** 👍**324** · 游戏巨头加薪，行业人才竞争加剧
-**For First Time, a Cell Built from Scratch Grows and Divides** 👍**122** · 合成生物学里程碑，人造细胞首次完整生命周期
+**For first time, a cell built from scratch grows and divides** ▲**686** · 合成生物学里程碑，人造细胞实现自我复制  
+**Physical disc production ending in Jan 2028 for new games on PlayStation** ▲**563** · 数字时代加速到来，实体游戏即将终结  
+**What to learn to be a graphics programmer** ▲**209** · 图形编程入行指南，从渲染管线到 GPU 优化全梳理  
+**DeepSeek这次招得太猛了，36个岗位，80%都要会Agent！** 👍**26** · Agent 开发成求职香饽饽，AI 人才缺口持续扩大  
 
 🏷 **语言趋势**
 
-其他(7) → Python(7) → TypeScript(6) → JavaScript(3) → Shell(2)
-Python 在 API 集合与系统设计项目上强势领跑，TypeScript 紧随其后，AI Agent 场景加速 TypeScript 与 Python 双雄格局。
+Python **7** · TypeScript **6** · JavaScript **3** · Shell **2** · 其他 **7**  
+Python 与 TypeScript 双雄争霸，AI 与全栈开发持续驱动增长，Shell 脚本需求稳定但小众  
 
 💡 **小编视角**
 
-**DeepSeek 招人猛攻 Agent** · 36个岗位**80%**要求懂Agent，AI 从“模型能力”转向“工程落地”信号明确
-**React Renderer 多平台架构** · 掘金热议分离式渲染，前端跨端方案再进化，移动端与桌面端统一不再是梦
+**Agent 场景下，Flash 模型才是真香** · 别只盯着最强模型，低成本、低延迟的 Flash 模型在 Agent 落地中更实用，效率与性价比才是王道  
+**开源项目「build-your-own-x」再登顶** · 从理论到实践，亲手复现技术是最高效的学习方式，这波「手搓」热潮值得跟
