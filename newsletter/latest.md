@@ -1,22 +1,22 @@
 🔥 **今日最热**
 
-**build-your-own-x** ⭐**522k** · 通过复刻经典技术掌握编程，GitHub 最火教程合集  
-**awesome** ⭐**481k** · 史上最全的“Awesome”主题列表，覆盖各种有趣话题  
-**freeCodeCamp** ⭐**451k** · 开源编程课程与代码库，零基础入门首选  
+**build-your-own-x** ⭐**522K** · 手撸技术组件，GitHub 最强自学项目  
+**awesome** ⭐**481K** · 万能资源清单，开发者必备  
+**freeCodeCamp** ⭐**451K** · 开源编程课程，零基础到全栈
 
 📈 **值得关注**
 
-**Half-Baked Product** 👍**840** · 半成品产品如何成功？Hacker News 热议产品发布策略  
-**Valve open source the Steam Machine e-ink screen** 👍**222** · Valve 开源 Steam Machine 电子墨水屏，可自行制作  
-**Wordgard: The new in-browser rich-text editor** 👍**136** · ProseMirror 作者新作，下一代富文本编辑器  
-**阿里一面，我霸气反问：Agent 项目怎么做的？** 👍**45** · 面试官被反问到擦汗，Agent 面试题成新热点  
+**Giant trees have no trouble pumping water to top branches** 👍**39** · 自然界的流体力学奇迹，引发物理与工程讨论  
+**SearXNG: A free internet metasearch engine** 👍**106** · 开源无追踪搜索引擎，隐私控首选  
+**Dev Opportunity Radar #6** ❤️**33** · YC 创业课、开源 AI 资助、APAC 黑客松，开发者赚钱机会  
+**阿里一面，我霸气反问** 👍**45** · Agent 项目面试反杀，LangChain 与 A2A 成焦点
 
 🏷 **语言趋势**
 
-其他(**7**) → Python(**7**) → TypeScript(**6**) → JavaScript(**3**) → Shell(**2**)  
-Python 与 TypeScript 并列榜首，AI 与全栈开发双引擎驱动增长  
+Python **7** · TypeScript **6** · JavaScript **3** · Shell **2** · 其他 **7**  
+Python 稳居项目与教程榜首，TypeScript 紧追，全栈与 AI 驱动双引擎
 
 💡 **小编视角**
 
-**我用 Codex 重写了同事维护三年的代码** · 代码重写不是炫技，团队协作比技术更重要  
-**26k Star 开源内网穿透神器 NetBird** · 一分钟实现全球设备互联，远程办公利器
+**我用 Codex 重写了同事维护三年的代码** · AI 代码生成引发职场伦理讨论，工具虽好，尊重更重要  
+**Amper 正式转正 Kotlin Toolchain** · Gradle 生态面临变局，Kotlin 原生构建工具或成新宠
