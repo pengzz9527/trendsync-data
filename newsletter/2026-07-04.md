@@ -1,22 +1,29 @@
 🔥 **今日最热**
 
-**build-your-own-x** ⭐**522K** · 手撸技术组件，GitHub 最强自学项目  
-**awesome** ⭐**481K** · 万能资源清单，开发者必备  
-**freeCodeCamp** ⭐**451K** · 开源编程课程，零基础到全栈
+**build-your-own-x** ⭐**522259** · 通过复刻最爱技术，掌握编程本质，持续霸榜。
+
+**awesome** ⭐**481301** · 全品类有趣资源清单，开发者必备索引。
+
+**freeCodeCamp** ⭐**451019** · 开源代码库与课程，零基础到全栈的免费路径。
 
 📈 **值得关注**
 
-**Giant trees have no trouble pumping water to top branches** 👍**39** · 自然界的流体力学奇迹，引发物理与工程讨论  
-**SearXNG: A free internet metasearch engine** 👍**106** · 开源无追踪搜索引擎，隐私控首选  
-**Dev Opportunity Radar #6** ❤️**33** · YC 创业课、开源 AI 资助、APAC 黑客松，开发者赚钱机会  
-**阿里一面，我霸气反问** 👍**45** · Agent 项目面试反杀，LangChain 与 A2A 成焦点
+**Performance per dollar is getting faster and cheaper** 👍**218** · 硬件性价比持续飙升，开发者应重新审视架构成本。
+
+**Leanstral 1.5: Proof abundance for all** 👍**203** · 新理论证明资源丰裕可普惠，引发技术伦理热议。
+
+**Giant trees have no trouble pumping water to top branches: new research** 👍**181** · 自然界的流体力学突破，或启发新型输水系统设计。
+
+**Dev Opportunity Radar #6: Y Combinator Startup School, Open Source AI Grants** ❤️**44** · 最新创业与开源资助机会汇总，开发者别错过。
 
 🏷 **语言趋势**
 
-Python **7** · TypeScript **6** · JavaScript **3** · Shell **2** · 其他 **7**  
-Python 稳居项目与教程榜首，TypeScript 紧追，全栈与 AI 驱动双引擎
+Python(**8**) → 其他(**6**) → TypeScript(**6**) → JavaScript(**3**) → Shell(**2**)
+
+Python 在开源生态中持续领跑，TypeScript 紧随其后，JavaScript 热度相对下降，Shell 脚本需求稳定但小众。
 
 💡 **小编视角**
 
-**我用 Codex 重写了同事维护三年的代码** · AI 代码生成引发职场伦理讨论，工具虽好，尊重更重要  
-**Amper 正式转正 Kotlin Toolchain** · Gradle 生态面临变局，Kotlin 原生构建工具或成新宠
+**我用 Codex 重写了同事维护三年的代码** · AI 辅助重构需谨慎，技术能力之外，团队沟通与尊重同样重要。
+
+**阿里一面，我霸气反问Agent项目** · 面试反客为主成趋势，但真实技术深度比炫技更关键。
