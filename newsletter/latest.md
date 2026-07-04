@@ -1,29 +1,22 @@
 🔥 **今日最热**
 
-**build-your-own-x** ⭐**522259** · 通过复刻最爱技术，掌握编程本质，持续霸榜。
-
-**awesome** ⭐**481301** · 全品类有趣资源清单，开发者必备索引。
-
-**freeCodeCamp** ⭐**451019** · 开源代码库与课程，零基础到全栈的免费路径。
+**build-your-own-x** ⭐**522354** · 手写代码复刻经典技术，开发者自学圣经  
+**awesome** ⭐**481414** · 各类有趣主题的精选清单，信息聚合天花板  
+**freeCodeCamp** ⭐**451052** · 开源全栈教程，零基础到实战全覆盖  
 
 📈 **值得关注**
 
-**Performance per dollar is getting faster and cheaper** 👍**218** · 硬件性价比持续飙升，开发者应重新审视架构成本。
-
-**Leanstral 1.5: Proof abundance for all** 👍**203** · 新理论证明资源丰裕可普惠，引发技术伦理热议。
-
-**Giant trees have no trouble pumping water to top branches: new research** 👍**181** · 自然界的流体力学突破，或启发新型输水系统设计。
-
-**Dev Opportunity Radar #6: Y Combinator Startup School, Open Source AI Grants** ❤️**44** · 最新创业与开源资助机会汇总，开发者别错过。
+**The bottleneck might be the air in the room** 👍**590** · 办公室空气质量影响生产力，被严重低估  
+**Maybe you should learn something** 👍**289** · 持续学习才是程序员核心竞争力，别只追框架  
+**Potential session/cache leakage between workspace instances** 👍**119** · 多工作区会话泄露隐患，安全团队需警惕  
+**What ORMs have taught me: just learn SQL** 👍**37** · ORM 是捷径，但懂 SQL 才能真掌控  
 
 🏷 **语言趋势**
 
-Python(**8**) → 其他(**6**) → TypeScript(**6**) → JavaScript(**3**) → Shell(**2**)
-
-Python 在开源生态中持续领跑，TypeScript 紧随其后，JavaScript 热度相对下降，Shell 脚本需求稳定但小众。
+Python(8) → 其他(6) → TypeScript(6) → JavaScript(3) → Shell(2)  
+Python 仍占主导，TypeScript 与 Python 差距缩小，全栈+AI 双驱动  
 
 💡 **小编视角**
 
-**我用 Codex 重写了同事维护三年的代码** · AI 辅助重构需谨慎，技术能力之外，团队沟通与尊重同样重要。
-
-**阿里一面，我霸气反问Agent项目** · 面试反客为主成趋势，但真实技术深度比炫技更关键。
+**阿里面试反问 Agent 项目** · 面试官擦汗背后：Agent 落地仍缺标准，LangChain 只是开始  
+**Anthropic 大面积封号** · 大 V 开喷折射 API 滥用治理难题，合规与体验需平衡
