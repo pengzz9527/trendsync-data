@@ -1,22 +1,29 @@
 🔥 **今日最热**
 
-**build-your-own-x** ⭐**522512** · 手写实现流行技术，GitHub 最火自学项目  
-**awesome** ⭐**481615** · 超全资源清单，开发者必藏  
-**freeCodeCamp** ⭐**451088** · 开源编程课程，学习路径全覆盖  
+**build-your-own-x** ⭐**522646** · 通过复刻你喜爱的技术来掌握编程，经典项目持续火爆
+
+**awesome** ⭐**481735** · 涵盖各种有趣主题的精选列表，常青树资源库
+
+**freeCodeCamp** ⭐**451116** · 开源代码与课程，学习编程的首选平台
 
 📈 **值得关注**
 
-**Command and Conquer Generals 原生移植到 macOS/iOS/iPad** 👍**536** · Fable 工具跨平台，游戏老粉狂喜  
-**GPT-5.5 Codex 推理 token 聚类可能导致性能下降** 👍**248** · 模型内部机制现新问题  
-**Google Books 全量扫描悬赏 $200k** 👍**443** · 开源数据挖掘挑战  
-**Shadcn/UI 默认从 Radix 切换到 Base UI** 👍**91** · 前端组件库重大转向  
+**If you're a button, you have one job** 👍**415** · 一篇关于界面设计的幽默反思，引发 208 条讨论
+
+**Organic Maps** 👍**181** · 离线地图应用获高赞，隐私与实用性受关注
+
+**Introduction to Compilers and Language Design** 👍**120** · 编译原理入门资源推荐，技术社区热读
+
+**Phosh 0.56.0** 👍**111** · 手机 Linux 桌面环境更新，移动开发新动向
 
 🏷 **语言趋势**
 
-Python **8** → 其他 **6** → TypeScript **6** → JavaScript **3** → Shell **2**  
-Python 在教程、API、系统设计项目中占据绝对主导，TypeScript 紧随其后，全栈生态持续扩张  
+Python(**8**) → 其他(**6**) → TypeScript(**6**) → JavaScript(**3**) → Shell(**2**)
+
+**趋势解读**：Python 项目数领先，但 TypeScript 与 Python 并列第二，全栈与 AI 领域持续驱动需求。
 
 💡 **小编视角**
 
-**Agent 任务实测：别被模型宣传骗了** · 真实跑分下，很多“强模型”连稳定执行都做不到，选型需回归场景  
-**从 0 到 1 构建企业级 RAG** · 中小企业落地指南，架构清晰但缺实践坑点，建议配合实测再复制
+**别被模型宣传骗了，真实 Agent 任务一跑就知道** · 掘金热议：AI Agent 实测揭示营销与实力的差距，开发者需警惕过度包装
+
+**Cesium 森林火情监控大屏** · 用粒子与发光效果实现可视化，前端技术结合 GIS 的实用案例，值得参考
