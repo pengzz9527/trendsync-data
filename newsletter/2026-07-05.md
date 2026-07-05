@@ -1,21 +1,22 @@
 🔥 **今日最热**
 
-**build-your-own-x** ⭐**522441** · 通过重造轮子掌握编程，经典教程集合持续霸榜  
-**awesome** ⭐**481516** · 主题清单合集，开发者必备的“知识地图”  
-**freeCodeCamp** ⭐**451067** · 开源编程课程库，全栈学习首选  
+**build-your-own-x** ⭐**522512** · 手写实现流行技术，GitHub 最火自学项目  
+**awesome** ⭐**481615** · 超全资源清单，开发者必藏  
+**freeCodeCamp** ⭐**451088** · 开源编程课程，学习路径全覆盖  
 
 📈 **值得关注**
 
-**Leaking YouTube creators' private videos** 👍**446** · 私密视频泄露漏洞引发隐私安全热议  
-**Command and Conquer Generals natively ported to macOS, iPhone, iPad** 👍**300** · 经典游戏原生移植，跨平台新玩法  
-**Google Books (or similar) all book scans – $200k bounty** 👍**297** · 悬赏扫描全部图书，数字图书馆野心再起  
+**Command and Conquer Generals 原生移植到 macOS/iOS/iPad** 👍**536** · Fable 工具跨平台，游戏老粉狂喜  
+**GPT-5.5 Codex 推理 token 聚类可能导致性能下降** 👍**248** · 模型内部机制现新问题  
+**Google Books 全量扫描悬赏 $200k** 👍**443** · 开源数据挖掘挑战  
+**Shadcn/UI 默认从 Radix 切换到 Base UI** 👍**91** · 前端组件库重大转向  
 
 🏷 **语言趋势**
 
-Python(8) → 其他(6) → TypeScript(6) → JavaScript(3) → Shell(2)  
-📊 Python 仍占主导，TypeScript 紧追，JavaScript 热度下降；本周新星项目中 Python 和 TypeScript 各占 1 个，Shell 意外上榜。  
+Python **8** → 其他 **6** → TypeScript **6** → JavaScript **3** → Shell **2**  
+Python 在教程、API、系统设计项目中占据绝对主导，TypeScript 紧随其后，全栈生态持续扩张  
 
 💡 **小编视角**
 
-**Krishnagangwal/CS-Fundamentals** · 计算机基础学习路线新星，补基础仍是刚需。  
-**Codex-5.5 性能退化讨论** · GPT-5.5 推理 token 聚类可能降低性能，AI 模型迭代需警惕边际效应。
+**Agent 任务实测：别被模型宣传骗了** · 真实跑分下，很多“强模型”连稳定执行都做不到，选型需回归场景  
+**从 0 到 1 构建企业级 RAG** · 中小企业落地指南，架构清晰但缺实践坑点，建议配合实测再复制
