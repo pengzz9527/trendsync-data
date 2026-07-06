@@ -1,29 +1,22 @@
 🔥 **今日最热**
 
-**build-your-own-x** ⭐**522646** · 通过复刻你喜爱的技术来掌握编程，经典项目持续火爆
-
-**awesome** ⭐**481735** · 涵盖各种有趣主题的精选列表，常青树资源库
-
-**freeCodeCamp** ⭐**451116** · 开源代码与课程，学习编程的首选平台
+**build-your-own-x** ⭐**522748** · 通过重造技术栈掌握编程，长期霸榜的经典项目  
+**awesome** ⭐**481835** · 各类有趣主题的精选列表，开发者必备资源  
+**freeCodeCamp** ⭐**451128** · 开源编程课程与代码库，零基础入门首选  
 
 📈 **值得关注**
 
-**If you're a button, you have one job** 👍**415** · 一篇关于界面设计的幽默反思，引发 208 条讨论
-
-**Organic Maps** 👍**181** · 离线地图应用获高赞，隐私与实用性受关注
-
-**Introduction to Compilers and Language Design** 👍**120** · 编译原理入门资源推荐，技术社区热读
-
-**Phosh 0.56.0** 👍**111** · 手机 Linux 桌面环境更新，移动开发新动向
+**OpenPrinter** ▲**280** · 开源打印机固件项目，引发硬件自由讨论  
+**Organic Maps** ▲**768** · 离线地图应用获热捧，隐私保护成焦点  
+**New AI tutor achieves 0.71-1.30 SD effect size** ▲**113** · 新AI导师在达特茅斯课程中效果显著，教育科技突破  
+**Starring the Computer** ▲**153** · 回顾计算机在影视中的角色，怀旧与技术文化共鸣  
 
 🏷 **语言趋势**
 
-Python(**8**) → 其他(**6**) → TypeScript(**6**) → JavaScript(**3**) → Shell(**2**)
-
-**趋势解读**：Python 项目数领先，但 TypeScript 与 Python 并列第二，全栈与 AI 领域持续驱动需求。
+Python(**8**) → 其他(**6**) → TypeScript(**6**) → JavaScript(**3**) → Shell(**2**)  
+· Python持续主导开源项目，TypeScript与Python并列第二，动态语言生态稳固  
 
 💡 **小编视角**
 
-**别被模型宣传骗了，真实 Agent 任务一跑就知道** · 掘金热议：AI Agent 实测揭示营销与实力的差距，开发者需警惕过度包装
-
-**Cesium 森林火情监控大屏** · 用粒子与发光效果实现可视化，前端技术结合 GIS 的实用案例，值得参考
+**别被模型宣传骗了** · Agent任务实测揭示：模型能力与真实场景差距大，谨慎选型  
+**Watermark removal isn't lossy** · 水印去除工具被误解，技术细节值得深挖，别被表面说法误导
