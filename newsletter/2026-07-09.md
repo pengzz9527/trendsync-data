@@ -1,22 +1,29 @@
 🔥 **今日最热**
 
-**build-your-own-x** ⭐**523562** · 通过复刻你喜爱的技术来掌握编程，基础项目永不过时  
-**awesome** ⭐**483139** · 各种有趣主题的精选列表，新手入门必备  
-**freeCodeCamp** ⭐**451305** · 开源编程课程，全球学习者首选平台
+**build-your-own-x** ⭐**523641** · 通过复刻经典技术来掌握编程，新手进阶首选项目
+
+**awesome** ⭐**483261** · 汇集各类有趣主题的“Awesome”列表，资源索引之王
+
+**freeCodeCamp** ⭐**451346** · 开源编程课程与代码库，零基础到全栈的免费学习路径
 
 📈 **值得关注**
 
-**Decoding the obfuscated bash script on a Uniqlo t-shirt** 👍**1269** · 一件 T 恤上的混淆脚本，引发逆向工程热潮  
-**Chatto is now open source** 👍**668** · 聊天工具开源，社区期待新玩法  
-**Mistral's Robostral Navigate** 👍**392** · 最前沿机器人导航模型发布，AI 落地加速  
-**Rewriting Bun in Rust** 👍**179** · 性能竞赛：Bun 用 Rust 重写，挑战 JavaScript 生态
+**John Deere owners will get the right to repair equipment under FTC settlement** 👍**726** · 农民获维修权，科技产品“封闭生态”再受冲击
+
+**Separating signal from noise in coding evaluations** 👍**206** · 如何从编程评估中剥离噪音，提升招聘与考核准确性
+
+**Ownership: do "temos um rojão na mão" até "não precisa mais pensar nisso"** ❤️**145** · Rust 所有权概念从“烫手山芋”到“无需再想”的认知转变
+
+**凌晨睡不着，我给台风巴威写了个追踪网站** 👍**65** · 个人开发者用数据可视化快速响应自然灾害，技术即公益
 
 🏷 **语言趋势**
 
-Python(**8**) → 其他(**6**) → TypeScript(**6**) → JavaScript(**3**) → Shell(**2**)  
-趋势解读：Python 稳居项目数榜首，TypeScript 追赶迅猛，AI 和全栈项目驱动增长
+Python(**8**) → 其他(**6**) → TypeScript(**6**) → JavaScript(**3**) → Shell(**2**)
+
+趋势解读：Python 在开源项目数上持续领先，TypeScript 与 Python 并列第二梯队，全栈与数据科学双热点驱动。
 
 💡 **小编视角**
 
-**Fiber 节点 · 一个数据结构如何承载整个 React 运行时** · 深入 React 核心，理解 Fiber 架构是进阶关键  
-**Godot 全面封杀 Vibe Coding** · 每日用 AI 写代码的人反而叫好，工具理性 vs 创造力之争值得深思
+**build-your-own-x 再登顶** · 技术学习回归“造轮子”本质，复刻经典比刷教程更有效
+
+**Rust 重写 PostgreSQL 通过 100% 回归测试** · 用 Rust 重写 C 项目不再是空谈，性能与安全兼得的新里程碑
