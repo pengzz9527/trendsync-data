@@ -1,29 +1,22 @@
 🔥 **今日最热**
 
-**build-your-own-x** ⭐**523641** · 通过复刻经典技术来掌握编程，新手进阶首选项目
-
-**awesome** ⭐**483261** · 汇集各类有趣主题的“Awesome”列表，资源索引之王
-
-**freeCodeCamp** ⭐**451346** · 开源编程课程与代码库，零基础到全栈的免费学习路径
+**build-your-own-x** ⭐**523745** · 通过重造技术栈掌握编程，经典自学项目再登顶  
+**awesome** ⭐**483358** · 各类有趣主题的精选清单，持续霸榜  
+**freeCodeCamp** ⭐**451368** · 开源代码库+课程，学习编程的免费首选  
 
 📈 **值得关注**
 
-**John Deere owners will get the right to repair equipment under FTC settlement** 👍**726** · 农民获维修权，科技产品“封闭生态”再受冲击
-
-**Separating signal from noise in coding evaluations** 👍**206** · 如何从编程评估中剥离噪音，提升招聘与考核准确性
-
-**Ownership: do "temos um rojão na mão" até "não precisa mais pensar nisso"** ❤️**145** · Rust 所有权概念从“烫手山芋”到“无需再想”的认知转变
-
-**凌晨睡不着，我给台风巴威写了个追踪网站** 👍**65** · 个人开发者用数据可视化快速响应自然灾害，技术即公益
+**Show HN: 18 Words** 👍**404** · 极简文字游戏引爆 HN 讨论  
+**No leap second will be introduced at the end of December 2026** 👍**100** · 闰秒取消，时间系统迎来简化  
+**Ownership: do "temos um rojão na mão" até "não precisa mais pensar nisso"** ❤️**147** · 所有权思维：从棘手到无需再想  
+**Fiber 节点 —— 一个数据结构如何承载整个 React 运行时** 👍**14** · 深入 React 核心设计，前端架构必读  
 
 🏷 **语言趋势**
 
-Python(**8**) → 其他(**6**) → TypeScript(**6**) → JavaScript(**3**) → Shell(**2**)
-
-趋势解读：Python 在开源项目数上持续领先，TypeScript 与 Python 并列第二梯队，全栈与数据科学双热点驱动。
+Python(**8**) > 其他(**6**) = TypeScript(**6**) > JavaScript(**3**) > Shell(**2**)  
+趋势解读：Python 主导数据与工具类项目；TypeScript 在教程和 AI 工具中持续增长，JavaScript 热度相对平稳  
 
 💡 **小编视角**
 
-**build-your-own-x 再登顶** · 技术学习回归“造轮子”本质，复刻经典比刷教程更有效
-
-**Rust 重写 PostgreSQL 通过 100% 回归测试** · 用 Rust 重写 C 项目不再是空谈，性能与安全兼得的新里程碑
+**build-your-own-x 持续第一** · 自学编程的「做中学」理念从未过时，适合新手到进阶的系统实践  
+**PostHog 开源** · 产品分析工具开源化，企业可自托管数据，隐私与功能兼得，值得关注
