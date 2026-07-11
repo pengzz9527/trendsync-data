@@ -1,22 +1,22 @@
 🔥 **今日最热**
 
-**build-your-own-x** ⭐**524177** · 通过复刻热门技术学习编程，持续霸榜  
-**awesome** ⭐**483823** · 精选有趣主题的超级列表，新人必看  
-**freeCodeCamp** ⭐**451552** · 开源编程课程与代码库，零基础友好  
+**build-your-own-x** ⭐**524270** · 通过重造轮子掌握编程核心原理，经典永不过时  
+**awesome** ⭐**483923** · 最全的“Awesome”系列清单，各类有趣话题一网打尽  
+**freeCodeCamp** ⭐**451590** · 开源编程课程与代码库，自学者的免费宝库  
 
 📈 **值得关注**
 
-**Apple sues OpenAI, accuses ex-employees of stealing trade secrets** 👍**972** · 科技巨头互撕，AI 安全与竞业话题再起  
-**QuadRF can spot drones and see WiFi through my wall** 👍**544** · 无线电频谱探测新应用，安防或迎颠覆  
-**Einstein's relativity rules chemical bonds in heavy elements** 👍**208** · 量子物理与化学交叉研究，基础科学新突破  
-**Dev Opportunity Radar #7** ❤️**43** · 开发者福利：$1000 单人资助 + 免费 Claude Max + MLH 黑客松  
+**Apple sues OpenAI, accuses ex-employees of stealing trade secrets** 👍**1354** · 科技巨头与AI新贵对簿公堂，商业秘密战火升级  
+**QuadRF can spot drones and see WiFi through my wall** 👍**668** · 无线信号探测技术突破，隐私与安全再引热议  
+**Einstein's relativity rules chemical bonds in heavy elements** 👍**332** · 相对论在化学中显威，重元素键合规则被改写  
+**Your code is fast – if you're lucky** 👍**103** · 性能优化需要运气？开发者调侃现实中的代码效率  
 
 🏷 **语言趋势**
 
-Python **8** · 其他 **6** · TypeScript **6** · JavaScript **3** · Shell **2**  
-Python 在开源项目数上持续领先，TypeScript 与 JavaScript 生态活跃度相近，Shell 脚本工具类项目稳定增长  
+Python(8) → 其他(6) → TypeScript(6) → JavaScript(3) → Shell(2)  
+**趋势解读**：Python 凭借机器学习与工具库稳坐头把交椅，TypeScript 在 Web 全栈中持续追赶，Shell 虽少但 DevOps 场景不可或缺  
 
 💡 **小编视角**
 
-**build-your-own-x 的持久魅力** · 从“看教程”到“造轮子”，这种学习方式正成为技术社区最有效的知识沉淀路径  
-**Apple vs OpenAI 背后** · 大模型时代，人才流动与知识产权博弈将更加频繁，中小团队需警惕合规风险
+**Apple 诉 OpenAI 与商业秘密** · 科技巨头诉讼背后，是人才流动与知识产权保护的永恒博弈，创业者需警惕竞业边界  
+**Fiber 节点承载 React 运行时** · 一个数据结构设计巧妙到能撑起整个前端框架，架构思维比框架本身更值得深入学习
