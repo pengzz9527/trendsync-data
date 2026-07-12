@@ -1,22 +1,22 @@
 🔥 **今日最热**
 
-**build-your-own-x** ⭐**524270** · 通过重造轮子掌握编程核心原理，经典永不过时  
-**awesome** ⭐**483923** · 最全的“Awesome”系列清单，各类有趣话题一网打尽  
-**freeCodeCamp** ⭐**451590** · 开源编程课程与代码库，自学者的免费宝库  
+**build-your-own-x** ⭐**524324** · 通过重造轮子掌握编程，本周最火教程集合  
+**awesome** ⭐**484030** · 各类主题的精选列表，持续霸榜  
+**freeCodeCamp** ⭐**451597** · 开源编程课程+代码库，学习者的首选  
 
 📈 **值得关注**
 
-**Apple sues OpenAI, accuses ex-employees of stealing trade secrets** 👍**1354** · 科技巨头与AI新贵对簿公堂，商业秘密战火升级  
-**QuadRF can spot drones and see WiFi through my wall** 👍**668** · 无线信号探测技术突破，隐私与安全再引热议  
-**Einstein's relativity rules chemical bonds in heavy elements** 👍**332** · 相对论在化学中显威，重元素键合规则被改写  
-**Your code is fast – if you're lucky** 👍**103** · 性能优化需要运气？开发者调侃现实中的代码效率  
+**Stop Telling Me to Ask an LLM** 👍**108** · HN热议：别再盲目让用户问AI，应提供更直接的帮助  
+**We scaled PgBouncer to 4x throughput** 👍**166** · 数据库连接池性能翻4倍，技术干货  
+**Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom** 👍**130** · 揭示GPU热潮背后的循环融资模式  
+**Show HN: Ant – A JavaScript runtime and ecosystem** 👍**155** · 新JS运行时亮相，引发开发者兴趣  
 
 🏷 **语言趋势**
 
-Python(8) → 其他(6) → TypeScript(6) → JavaScript(3) → Shell(2)  
-**趋势解读**：Python 凭借机器学习与工具库稳坐头把交椅，TypeScript 在 Web 全栈中持续追赶，Shell 虽少但 DevOps 场景不可或缺  
+Python(**8**) → 其他(**6**) → TypeScript(**6**) → JavaScript(**3**) → Shell(**2**)  
+趋势解读：Python稳居榜首，TypeScript与JavaScript差距缩小，Rust新星项目频出  
 
 💡 **小编视角**
 
-**Apple 诉 OpenAI 与商业秘密** · 科技巨头诉讼背后，是人才流动与知识产权保护的永恒博弈，创业者需警惕竞业边界  
-**Fiber 节点承载 React 运行时** · 一个数据结构设计巧妙到能撑起整个前端框架，架构思维比框架本身更值得深入学习
+**Fiber 节点 —— 一个数据结构如何承载整个 React 运行时** · 深度好文，理解React核心机制的关键入口  
+**100只老虎和1只羊关在一起，这只羊会不会被吃？** · 字节面试智力题，逻辑推理比表面答案更重要
