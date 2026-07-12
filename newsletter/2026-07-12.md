@@ -1,22 +1,22 @@
 🔥 **今日最热**
 
-**build-your-own-x** ⭐**524373** · 通过复刻你喜爱的技术来掌握编程，GitHub 最火学习项目
-**awesome** ⭐**484126** · 收集各类有趣主题的 Awesome 列表，一站式发现新资源
-**freeCodeCamp** ⭐**451619** · 开源代码库与课程，零基础学编程的首选
+**re4/LibreCode** ⭐**969924** · 开源类Cursor的AI代码逆向工具，一夜爆红  
+**codecrafters-io/build-your-own-x** ⭐**524483** · 手撸技术栈的经典指南，编程自我进阶首选  
+**public-apis/public-apis** ⭐**449302** · 免费API大合集，开发者的万能工具箱
 
 📈 **值得关注**
 
-**Mesh LLM: distributed AI computing on iroh** 👍**216** · 分布式 AI 计算新方案，基于 iroh 实现去中心化推理
-**Ant – A JavaScript runtime and ecosystem** 👍**248** · 全新 JS 运行时发布，挑战 Node.js 和 Bun 生态
-**RISCBoy is an open-source portable games console** 👍**126** · 从零设计的开源掌机，RISC-V 架构引发硬件极客狂欢
-**Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom** 👍**241** · 揭露 GPU 热潮背后的循环融资模式，引发行业反思
+**Vint Cerf, a “father of the Internet”, is retiring** 👍**212** · 互联网之父谢幕，一个时代的技术精神里程碑  
+**Old and new apps, via modern coding agents by Terry Tao** 👍**230** · 数学家陶哲轩用AI代理重写新旧应用，学术圈炸锅  
+**Ghostel.el: Terminal emulator powered by libghostty** 👍**126** · Emacs新终端插件，极客的编辑器体验升级  
+**Show HN: Mindwalk – Replay coding-agent sessions on a 3D map** 👍**120** · 把AI编码过程可视化为3D地图，开发者新玩具
 
 🏷 **语言趋势**
 
-Python **8** · 其他 **6** · TypeScript **6** · JavaScript **3** · Shell **2**
-Python 项目数领先，但 TypeScript 在工具链和教育类项目中占比上升，生态持续扩张
+Python (**7**) · TypeScript (**6**) · JavaScript (**3**) · Shell (**2**) · 其他 (**6**)  
+趋势解读：Python和TypeScript双雄格局稳固，AI工具链与全栈开发成主力战场；JavaScript新星项目频出，Rust悄然崛起
 
 💡 **小编视角**
 
-**Fiber 节点：一个数据结构如何承载整个 React 运行时** · React 核心机制深度拆解，理解 Fiber 才能驾驭现代前端
-**Ant – 新 JS 运行时发布，生态再添变数** · 又一款运行时登场，开发者需关注性能与兼容性，但短期内难撼动 V8 地位
+**Vint Cerf退休** · 互联网之父的告别，提醒我们技术传承比新框架更重要  
+**AI编码代理泛滥** · 从陶哲轩到Mindwalk，AI正在从“写代码”升级到“理解代码库”，但人类创造力仍是核心
