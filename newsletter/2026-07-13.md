@@ -1,22 +1,22 @@
 🔥 **今日最热**
 
-**build-your-own-x** ⭐**524677** · 通过重建你喜欢的工具来掌握编程，经典永不过时
-**awesome** ⭐**484421** · 各种有趣主题的精选清单，入门必备
-**freeCodeCamp** ⭐**451681** · 开源代码库与课程，自学编程首选
+**build-your-own-x** ⭐**524772** · 通过重现经典技术掌握编程，持续霸榜的实践指南  
+**awesome** ⭐**484545** · 汇集各类有趣主题的超级清单，入门必藏  
+**freeCodeCamp** ⭐**451697** · 开源全栈课程与代码库，零基础到实战一条龙
 
 📈 **值得关注**
 
-**Ask HN: Add flag for AI-generated articles** 👍**565** · 用户呼吁为AI生成内容加标记，引发真假信息讨论
-**GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years** 👍**247** · 一个潜伏15年的Linux内核漏洞曝光，影响深远
-**Tiny Emulators** 👍**235** · 微型模拟器项目走红，轻量复古风受追捧
-**So you want to learn physics (second edition, 2021)** 👍**202** · 免费物理学习资源推荐，自学者的福音
+**Grok 上传了整个 home 目录到 GCS** 👍**212** · 用户隐私再受冲击，xAI 的 Grok CLI 被曝自动上传全目录  
+**Grok 上传了我的用户目录到 xAI 服务器** 👍**323** · 同类事件引发 162 条讨论，安全漏洞引发社区担忧  
+**Meme Monday** ❤️**30** · Dev.to 迎来每周轻松时刻，开发者用表情包吐槽工作日常  
+**AI 时代 Harness 工程在后台管理系统中的实践** 👍**14** · 掘金热门，聚焦 AI 与工程化结合的实际落地
 
 🏷 **语言趋势**
 
-Python(**8**) → 其他(**6**) → TypeScript(**6**) → JavaScript(**3**) → Shell(**2**)
-Python与TypeScript持续领跑，AI与全栈开发需求驱动热度；JavaScript项目数下滑，但新星项目仍以JS为主。
+Python(**8**) → 其他(**6**) → TypeScript(**6**) → JavaScript(**3**) → Shell(**2**)  
+**趋势解读**：Python 项目数遥遥领先，TypeScript 紧随其后，AI/工具类项目主导热度，JavaScript 新星项目本周集中爆发
 
 💡 **小编视角**
 
-**Ask HN: AI文章标记争议** · 用户要求平台强制标注AI生成内容，信任危机升级，但执行难度大
-**GhostLock漏洞** · 15年未修复的Linux漏洞提醒我们：开源不等于安全，代码审查需常态化
+**Grok 隐私事件** · 用户数据上传是技术便利还是安全红线？开发者在选用 AI 工具时需警惕默认行为  
+**build-your-own-x 长盛不衰** · 动手实践仍是技术学习的最优解，经典项目持续吸引新老开发者
