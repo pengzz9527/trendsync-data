@@ -1,22 +1,21 @@
 🔥 **今日最热**
 
-**build-your-own-x** ⭐**524772** · 通过重现经典技术掌握编程，持续霸榜的实践指南  
-**awesome** ⭐**484545** · 汇集各类有趣主题的超级清单，入门必藏  
-**freeCodeCamp** ⭐**451697** · 开源全栈课程与代码库，零基础到实战一条龙
+**build-your-own-x** ⭐**524869** · 通过重造你最爱的技术来掌握编程，开源自学圣经  
+**awesome** ⭐**484635** · 涵盖所有有趣主题的精选列表，开发者必备索引  
+**freeCodeCamp** ⭐**451710** · 开源全栈课程与认证体系，零基础到工程师首选  
 
 📈 **值得关注**
 
-**Grok 上传了整个 home 目录到 GCS** 👍**212** · 用户隐私再受冲击，xAI 的 Grok CLI 被曝自动上传全目录  
-**Grok 上传了我的用户目录到 xAI 服务器** 👍**323** · 同类事件引发 162 条讨论，安全漏洞引发社区担忧  
-**Meme Monday** ❤️**30** · Dev.to 迎来每周轻松时刻，开发者用表情包吐槽工作日常  
-**AI 时代 Harness 工程在后台管理系统中的实践** 👍**14** · 掘金热门，聚焦 AI 与工程化结合的实际落地
+**Apple's new SpeechAnalyzer API, benchmarked against Whisper** 👍**412** · 苹果新语音分析 API 性能超越 Whisper，移动端语音识别门槛再降  
+**Building and shipping Mac and iOS apps without ever opening Xcode** 👍**255** · 无 Xcode 构建 iOS 应用，命令行工作流成新趋势  
+**The infinite scroll may become endangered if controversial Calif. law passes** 👍**52** · 加州法案或终结无限滚动，用户体验设计面临监管变局  
 
 🏷 **语言趋势**
 
-Python(**8**) → 其他(**6**) → TypeScript(**6**) → JavaScript(**3**) → Shell(**2**)  
-**趋势解读**：Python 项目数遥遥领先，TypeScript 紧随其后，AI/工具类项目主导热度，JavaScript 新星项目本周集中爆发
+Python **8** → 其他 **6** → TypeScript **6** → JavaScript **3** → Shell **2**  
+Python 和 TypeScript 持续主导开源生态，AI 工具链与全栈开发双线增长，Shell 脚本作为自动化基石仍有一席之地  
 
 💡 **小编视角**
 
-**Grok 隐私事件** · 用户数据上传是技术便利还是安全红线？开发者在选用 AI 工具时需警惕默认行为  
-**build-your-own-x 长盛不衰** · 动手实践仍是技术学习的最优解，经典项目持续吸引新老开发者
+**AI 时代 Harness 工程在后台管理系统中的实践** · 当 AI 接管前端交互，Harness（可观测性/容灾）成为后台系统的新基建，而非单纯的功能堆叠  
+**星云SDK + 油猴：给LLM塑造肉身** · 浏览器插件正从“工具”进化为“AI 代理人”，每个网页都可能成为 LLM 的交互界面，边缘智能加速落地
