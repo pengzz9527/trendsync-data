@@ -1,21 +1,22 @@
 🔥 **今日最热**
 
-**build-your-own-x** ⭐**524869** · 通过重造你最爱的技术来掌握编程，开源自学圣经  
-**awesome** ⭐**484635** · 涵盖所有有趣主题的精选列表，开发者必备索引  
-**freeCodeCamp** ⭐**451710** · 开源全栈课程与认证体系，零基础到工程师首选  
+**build-your-own-x** ⭐**524960** · 通过重造你喜爱的技术来掌握编程，持续霸榜  
+**awesome** ⭐**484747** · 汇集各类有趣主题的精选列表，开发者必备  
+**freeCodeCamp** ⭐**451753** · 开源代码库与课程，零基础学编程首选  
 
 📈 **值得关注**
 
-**Apple's new SpeechAnalyzer API, benchmarked against Whisper** 👍**412** · 苹果新语音分析 API 性能超越 Whisper，移动端语音识别门槛再降  
-**Building and shipping Mac and iOS apps without ever opening Xcode** 👍**255** · 无 Xcode 构建 iOS 应用，命令行工作流成新趋势  
-**The infinite scroll may become endangered if controversial Calif. law passes** 👍**52** · 加州法案或终结无限滚动，用户体验设计面临监管变局  
+**Building and shipping Mac and iOS apps without opening Xcode** 👍**445** · 用命令行替代Xcode，大幅提升构建效率  
+**Japan develops a method to recover up to 90% of lithium from used EV batteries** 👍**374** · 锂回收技术突破，电动车电池循环利用迈出关键一步  
+**The Git history command deserves more attention** 👍**253** · 深入挖掘Git历史，发现被忽略的强大调试技巧  
+**Como escolher eventos de tecnologia para participar** ❤️**122** · 如何挑选技术大会？社区投票揭示参会者的真实需求  
 
 🏷 **语言趋势**
 
-Python **8** → 其他 **6** → TypeScript **6** → JavaScript **3** → Shell **2**  
-Python 和 TypeScript 持续主导开源生态，AI 工具链与全栈开发双线增长，Shell 脚本作为自动化基石仍有一席之地  
+Python(**7**) → 其他(**6**) → TypeScript(**6**) → JavaScript(**3**) → Shell(**2**)  
+Python依然领跑，但TypeScript与Python项目数几乎持平，反映全栈与AI开发双重需求持续升温  
 
 💡 **小编视角**
 
-**AI 时代 Harness 工程在后台管理系统中的实践** · 当 AI 接管前端交互，Harness（可观测性/容灾）成为后台系统的新基建，而非单纯的功能堆叠  
-**星云SDK + 油猴：给LLM塑造肉身** · 浏览器插件正从“工具”进化为“AI 代理人”，每个网页都可能成为 LLM 的交互界面，边缘智能加速落地
+**The Myth of the Post-Documentation Era** · 文档消亡论被夸大，AI时代反而更需要结构化知识库来支撑模型训练与协作  
+**AI编码会话耗电超过尼日利亚人均日用电量** · 算力成本不应被忽视，绿色AI与边缘计算是未来平衡之道
