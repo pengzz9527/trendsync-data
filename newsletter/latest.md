@@ -1,22 +1,22 @@
 🔥 **今日最热**
 
-**build-your-own-x** ⭐**525k** · 通过重建你喜爱的技术来掌握编程，持续霸榜  
-**awesome** ⭐**484k** · 超级全面的有趣主题资源列表，开发者必备  
-**freeCodeCamp** ⭐**451k** · 开源代码库与课程，零基础学编程首选  
+**build-your-own-x** ⭐**525175** · 通过复刻热门技术来掌握编程，持续霸榜第一
+**awesome** ⭐**484967** · 各种有趣主题的精选清单，学习资源宝库
+**freeCodeCamp** ⭐**451888** · 开源编程课程与代码库，零基础入门首选
 
 📈 **值得关注**
 
-**Your 'app' could have been a webpage (so I fixed it for you)** 👍**249** · 一个网页就能搞定的事，别搞成 App，引发 HN 大讨论  
-**New York becomes the first state to impose a data center moratorium** 👍**93** · 纽约率先暂停数据中心建设，能源与环保问题成焦点  
-**Beautiful Type Erasure with C++26 Reflection** 👍**64** · C++26 反射机制让类型擦除更优雅，C++ 社区兴奋  
-**Are we offloading too much of our thinking to AI?** 👍**60** · 43 条评论热议：AI 是否让我们变懒？  
+**Your 'app' could have been a webpage (so I fixed it for you)** 👍**682** · HN 热帖：大部分 App 完全可以用网页替代，作者直接动手改了
+**The Tower Keeps Rising** 👍**309** · 关于系统复杂度不断攀升的深度思考
+**Cursor 0day: When Full Disclosure Becomes the Only Protection Left** 👍**215** · Cursor 曝 0day 漏洞，完整披露成为唯一保护手段
+**Bonsai 27B: A 27B-Class model that runs on a phone** 👍**370** · 27B 参数级模型可在手机上运行，推理效率突破
 
 🏷 **语言趋势**
 
-TypeScript(7) = Python(7) > 其他(6) > JavaScript(3) > Shell(2)  
-TypeScript 与 Python 并驾齐驱，全栈与 AI 双赛道持续火热；JavaScript 热度略有回落  
+TypeScript(7) = Python(7) > 其他(6) > JavaScript(3) > Shell(2)
+📊 TypeScript 与 Python 并列第一，AI 与全栈项目双驱动，JavaScript 生态持续被 TS 渗透
 
 💡 **小编视角**
 
-**GPT-5.6 时代下的流程毒瘤** · 当 AI 能力指数级增长，旧有的开发流程反而成为瓶颈，别让“流程”拖慢你的速度  
-**一键还原任意网站，Playwright + 多 Agent 工程流** · 自动化抓取 + 多智能体协作，网页克隆进入“一条命令”时代，效率惊人
+**Stop Saying You Want Ownership Mindset** · Dev.to 热文：空谈「主人翁意识」不如给团队真正的决策权与责任边界
+**没写一行代码！我用 ChatGPT 5.6 做了一个智慧充电站 3D 大屏** · 掘金趋势：自然语言驱动开发，零代码可视化方案正在快速落地
