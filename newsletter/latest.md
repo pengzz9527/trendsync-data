@@ -1,22 +1,22 @@
 🔥 **今日最热**
 
-**build-your-own-x** ⭐**525K** · 通过重建流行技术，掌握编程核心原理  
-**awesome** ⭐**485K** · 精选各类有趣主题的超级列表  
-**freeCodeCamp** ⭐**452K** · 开源代码与课程，免费学编程  
+**build-your-own-x** ⭐**525602** · 通过复刻你喜爱的技术来掌握编程
+**awesome** ⭐**485352** · 各种有趣主题的精选列表
+**freeCodeCamp** ⭐**451991** · 开源代码库与课程，边学边练
 
 📈 **值得关注**
 
-**Sleep regularity is a stronger predictor of mortality risk than sleep duration** ▲**445** · 规律作息比睡眠时长更能预测死亡风险  
-**Jurassic Park computers in excruciating detail** ▲**742** · 深入剖析侏罗纪公园中的计算机细节  
-**8 Things Developers Confidently Explain After Watching One YouTube Video** ❤️**53** · 开发者看一个视频就敢教别人，讽刺性十足  
-**Superpowers：GPT-5.6 时代下的流程毒瘤** 👍**41** · 讨论 GPT-5.6 如何可能破坏现有工作流  
+**Stripe and Advent have made a joint offer to acquire PayPal** 👍**318** · 支付巨头或迎变局，Stripe联手Advent报价收购PayPal
+**Inkling: Our Open-Weights Model** 👍**580** · 开源权重模型亮相，引发社区对AI开放性的热议
+**Grok Build is open source** 👍**195** · xAI的Grok构建工具开源，Rust实现引关注
+**SQLite should have (Rust-style) editions** 👍**53** · 建议SQLite引入版本管理，提升安全与兼容性
 
 🏷 **语言趋势**
 
-**TypeScript(7) = Python(7) > 其他(6) > JavaScript(3) > Shell(2)**  
-趋势解读：TypeScript 与 Python 并列最热，AI 与全栈项目齐头并进，JavaScript 项目数下滑明显。
+TypeScript(**7**) = Python(**7**) > 其他(**6**) > JavaScript(**3**) > Shell(**2**)
+本周Python与TypeScript并驾齐驱，AI工具与Web开发双线并进，Rust新星项目涌现
 
 💡 **小编视角**
 
-**Sleep regularity > sleep duration** · 早起早睡比睡够8小时更重要，程序员尤其该注意  
-**GPT-5.6 时代下的流程毒瘤** · AI 工具越强，开发者越需警惕“自动化陷阱”，别让效率变成盲从
+**GPT-5.6 时代下的流程毒瘤** · 流程自动化过度反而成为效率瓶颈，工具要服务于人而非反过来
+**Vue 和 React 真正的差距，不在语法，而在团队犯错成本** · 框架选择本质是团队容错率的博弈，React灵活但门槛高
