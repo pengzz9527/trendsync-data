@@ -1,22 +1,22 @@
 🔥 **今日最热**
 
-**build-your-own-x** ⭐**526,623** · 通过重新造轮子掌握编程精髓，持续霸榜
-**awesome** ⭐**485,891** · 各种有趣主题的精选资源清单，永不退热
-**freeCodeCamp** ⭐**451,907** · 开源编程课程，全球最大自学社区代码库
+**build-your-own-x** ⭐**527020** · 亲手重建经典技术，自学编程最佳路线  
+**awesome** ⭐**486014** · 主题清单大合集，什么都能找到  
+**freeCodeCamp** ⭐**451944** · 开源全栈课程，零基础到就业  
 
 📈 **值得关注**
 
-**Kimi K3: Open Frontier Intelligence** 👍**1,533** · 开源前沿智能模型，引发技术社区热议
-**Microsoft Comic Chat is now open source** 👍**651** · 微软经典聊天工具开源，情怀与技术并存
-**Decoy Font** 👍**525** · 用伪字体对抗AI爬虫，创意十足
-**How Has Roman Concrete Lasted for Millennia?** 👍**98** · 古罗马混凝土千年不坏的秘密被揭开
+**AWS: Inaccurate Estimated Billing Data – $1.7 billion** 👍**418** · 计费数据错误导致巨额预估偏差，企业成本管理警钟  
+**Mozilla: The state of open source AI** 👍**116** · 开源AI生态报告发布，社区协作仍是核心驱动力  
+**First atmosphere found on Earth-like planet** 👍**72** · 系外类地行星首次发现大气层，系外生命搜索新突破  
+**Did You Know TLDs Can Be Websites?** ❤️**26** · 顶级域名也能当网站用，冷知识刷新认知  
 
 🏷 **语言趋势**
 
-TypeScript **7**项目 · Python **7**项目 · 其他 **6** · JavaScript **3** · Shell **2**
-💡 TypeScript与Python平分秋色，AI工具与教育类项目主导本周热度
+TypeScript **7** · Python **7** · 其他 **6** · JavaScript **3** · Shell **2**  
+TS与Python齐头并进，全栈与AI双引擎持续主导  
 
 💡 **小编视角**
 
-**build-your-own-x** · 最好的学习方式就是动手造轮子，这份清单是每个程序员的必读圣经
-**Decoy Font** · 用字体对抗AI爬虫，创意与技术博弈的绝妙案例，值得所有内容创作者关注
+**Claude Code: Anatomy of a Misfeature** · 工具设计失败案例值得反思，功能不是越多越好  
+**停更的这一年，All In AI、陪媳妇生娃、还考了个研** · 技术人生活平衡实录，AI浪潮下别忘烟火气
