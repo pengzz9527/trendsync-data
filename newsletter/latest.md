@@ -1,29 +1,22 @@
 🔥 **今日最热**
 
-**build-your-own-x** ⭐**526272** · 通过复刻你喜欢的技术来掌握编程，极客自学圣经
-
-**awesome** ⭐**485792** · 所有有趣主题的精选清单，资源聚合神器
-
-**freeCodeCamp** ⭐**451884** · 开源编程课程与代码库，零基础入门首选
+**build-your-own-x** ⭐**526,623** · 通过重新造轮子掌握编程精髓，持续霸榜
+**awesome** ⭐**485,891** · 各种有趣主题的精选资源清单，永不退热
+**freeCodeCamp** ⭐**451,907** · 开源编程课程，全球最大自学社区代码库
 
 📈 **值得关注**
 
-**Kimi K3: Open Frontier Intelligence** 👍**1053** · 开源前沿智能模型发布，AI 社区新焦点
-
-**Microsoft Comic Chat is now open source** 👍**486** · 微软经典聊天工具开源，怀旧与技术并存
-
-**Decoy Font** 👍**359** · 伪装字体项目引发设计圈热议，创意与实用兼备
-
-**NotebookLM is now Gemini Notebook** 👍**218** · Google 笔记工具升级，AI 集成更深入
+**Kimi K3: Open Frontier Intelligence** 👍**1,533** · 开源前沿智能模型，引发技术社区热议
+**Microsoft Comic Chat is now open source** 👍**651** · 微软经典聊天工具开源，情怀与技术并存
+**Decoy Font** 👍**525** · 用伪字体对抗AI爬虫，创意十足
+**How Has Roman Concrete Lasted for Millennia?** 👍**98** · 古罗马混凝土千年不坏的秘密被揭开
 
 🏷 **语言趋势**
 
-TypeScript(**7**) → Python(**7**) → 其他(**6**) → JavaScript(**3**) → Shell(**2**)
-
-TypeScript 与 Python 并列项目数第一，AI 和全栈开发双驱动；Rust 新星项目持续涌现，系统编程热度不减
+TypeScript **7**项目 · Python **7**项目 · 其他 **6** · JavaScript **3** · Shell **2**
+💡 TypeScript与Python平分秋色，AI工具与教育类项目主导本周热度
 
 💡 **小编视角**
 
-**Vue 和 React 真正的差距，不在语法，而在团队犯错成本** · 技术选型本质是团队管理问题，少踩坑比炫技更重要
-
-**Every AI-Generated Line of Code Is a Small Loan** · AI 代码像贷款，短期效率提升背后是长期技术债累积，慎用
+**build-your-own-x** · 最好的学习方式就是动手造轮子，这份清单是每个程序员的必读圣经
+**Decoy Font** · 用字体对抗AI爬虫，创意与技术博弈的绝妙案例，值得所有内容创作者关注
