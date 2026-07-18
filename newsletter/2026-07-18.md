@@ -1,22 +1,22 @@
 🔥 **今日最热**
 
-**build-your-own-x** ⭐**527705** · 通过重造你最喜欢的技术来掌握编程，极客自学圣经
-**awesome** ⭐**486222** · 囊括一切有趣主题的精选清单，开发者入门必备
-**freeCodeCamp** ⭐**451993** · 开源编程课程与代码库，零基础到全栈的免费路径
+**build-your-own-x** ⭐**528028** · 通过重新造轮子掌握编程，经典永不过时  
+**awesome** ⭐**486346** · 集齐所有有趣话题的清单，新手老手都爱  
+**freeCodeCamp** ⭐**452014** · 开源全栈课程，零基础入门首选  
 
 📈 **值得关注**
 
-**AWS: Inaccurate Estimated Billing Data – $1.7 billion** 👍**1152** · AWS 计费估算误差高达 17 亿美元，引发用户信任危机
-**First atmosphere found on Earth-like planet in habitable zone of distant star** 👍**444** · 首次在宜居带类地行星上发现大气层，系外生命探索里程碑
-**Learning a few things about running SQLite** 👍**235** · 深入 SQLite 运行细节，实用技巧刷认知
-**Reviving a 15-year-old netbook with Arch Linux** 👍**81** · 用 Arch Linux 让 15 年老上网本复活，极客浪漫实践
+**LG monitors silently install software through Windows Update without consent** 👍**605** · 用户隐私再受挑战，LG 被指在 Win 更新中静默安装监控软件  
+**Regressive JPEGs** 👍**537** · JPEG 格式的“退化”版本引发热议，压缩质量与兼容性之争  
+**GPT-5.6 used a prompt to close a 30-year gap in convex optimization** 👍**227** · AI 用一句提示词解决数学难题，学术圈震动  
+**Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?** 👍**128** · 大模型对决 NP 难问题，/goal 指令是否真有效？
 
 🏷 **语言趋势**
 
-TypeScript **7** · Python **7** · 其他 **6** · JavaScript **3** · Shell **2**
-趋势解读：TypeScript 与 Python 并列第一，前者主导全栈与工具链，后者统治 AI 与数据领域，JavaScript 稳居第三但增速放缓。
+TypeScript(**7**) · Python(**7**) · 其他(**6**) · JavaScript(**3**) · Shell(**2**)  
+Python 和 TypeScript 并驾齐驱，AI 与全栈项目双轮驱动；本周新星 Rust 出现 **2** 个，值得关注。
 
 💡 **小编视角**
 
-**Codex 小白入门全攻略** · 从安装到 MCP、Skills 一条龙配置，AI 编程助手普及门槛正在降低，但生态碎片化仍是最大痛点
-**停更一年 All In AI 还考研** · 技术人转型的真实样本：AI 不是风口，是新的生存基本功，但个人节奏比追赶热点更重要
+**GPT-5.6 攻克凸优化难题** · 提示词工程不只是调参，它正在改写数学研究的方式  
+**LG 静默安装事件** · 用户控制权正在被侵蚀，Windows 更新机制急需透明化改革
