@@ -1,18 +1,22 @@
 🔥 **今日最热**
-**build-your-own-x** ⭐**528483** · 通过复刻经典技术项目，掌握编程底层原理  
-**awesome** ⭐**486540** · 精选各类有趣主题的Awesome列表，资源宝库  
-**freeCodeCamp** ⭐**452063** · 开源全栈编程课程，从零到一学开发  
+
+**build-your-own-x** ⭐**528746** · 通过复现经典技术学编程，持续霸榜  
+**awesome** ⭐**486652** · 最全的“有趣主题”清单，新手老手都爱  
+**freeCodeCamp** ⭐**452078** · 开源代码与课程，自学编程的第一站  
 
 📈 **值得关注**
-**Transcribe.cpp** 👍**429** · 不到500KB实现语音识别与TTS，轻量级突破  
-**Codex Resets** 👍**157** · 代码生成工具新玩法，重置后效率飙升  
-**Better and Cheaper Than IPTV** 👍**160** · 更优更廉的电视直播替代方案引热议  
-**The Kimi K3 Moment** 👍**351** · 383条评论热议K3模型登顶，AI竞赛白热化  
+
+**Qwen 3.8** 👍**417** · 阿里开源大模型新版本，性能与效率再提升  
+**Claude Code uses Bun written in Rust** 👍**175** · Claude 的代码运行器改用 Rust 版 Bun，性能飞跃  
+**Minecraft: Java Edition now uses SDL3** 👍**129** · 经典游戏底层升级，跨平台体验更流畅  
+**What I learned selling 2,500 MIDI recorders** 👍**218** · 硬件创业心得：从制造到销售，坑比想象多  
 
 🏷 **语言趋势**
-TypeScript（**7**项目）≈ Python（**7**）> 其他（**6**）> JavaScript（**3**）> Shell（**2**）  
-趋势解读：TypeScript与Python并驾齐驱，Rust新星项目激增，AI与全栈开发仍是核心驱动力  
+
+TypeScript **7** 项目 vs Python **7** 项目，并列第一；其他语言 **6** 项目，JavaScript **3** 项目，Shell **2** 项目  
+趋势解读：TypeScript 与 Python 持续统治开源生态，Rust 在新星项目中崭露头角（本周 Top3 新星占 **2** 席）  
 
 💡 **小编视角**
-**前端圈7月大地震** · TS 7发布、Bun从Zig迁Rust、Kimi K3登顶、大厂裁员50%，技术栈更迭加速，底层语言与AI工具成新护城河  
-**曾经人手一个的Superpowers，为什么现在都在卸** · 工具泛滥时代，用户开始追求极简与实用，过度功能化反而成负担
+
+**前端圈7月大地震** · TS 7 发布、Bun 从 Zig 迁 Rust、Kimi K3 登顶——技术迭代加速，开发者需保持警惕与学习节奏  
+**Harness 企业级落地** · AI 读懂项目代码不再是概念，企业级工具开始真正落地，但仍有门槛
