@@ -1,22 +1,22 @@
 🔥 **今日最热**
 
-**build-your-own-x** ⭐528906 · 通过复现你喜爱的技术来掌握编程，经典中的经典  
-**awesome** ⭐486749 · 收录各种有趣主题的精选列表，资源宝库  
-**freeCodeCamp** ⭐452095 · 开源代码库与课程，零基础到全栈的免费之路  
+**build-your-own-x** ⭐**529139** · 通过复现喜欢的技术掌握编程，经典常青树
+**awesome** ⭐**486842** · 各大领域有趣主题的精选列表，收藏必备
+**freeCodeCamp** ⭐**452117** · 开源编程课程与代码库，学习型项目持续霸榜
 
 📈 **值得关注**
 
-**Show HN: 我用 $1,600 的 ESP32 取代了 $120k 的保龄球中心系统** 👍1302 · 低成本硬件方案颠覆传统行业，引发热议  
-**AI advice made people 3x less accurate but 2x confident** 👍213 · 研究表明AI建议让用户更自信但更不准确，警惕过度依赖  
-**Qwen 3.8** 👍750 · 阿里最新大模型发布，性能再升级  
-**Minecraft: Java Edition now uses SDL3** 👍258 · 经典游戏底层更新，跨平台兼容性增强  
+**Show HN: 我用 $1,600 的 ESP32 替换了 $120,000 的保龄球中心系统** 👍**2152** · 低成本改造方案引爆社区，硬件 DIY 的极致案例
+**Claude Code 现在使用 Rust 写的 Bun 运行时** 👍**497** · 大模型工具链向高性能语言迁移趋势明显
+**Orion Browser by Kagi** 👍**182** · 付费搜索引擎公司推出浏览器，隐私与搜索整合新尝试
+**我测量了实时 AI 管道的每一毫秒，LLM 反而是最快的部分** ❤️**5** · 瓶颈往往在非推理环节，优化方向需重新思考
 
 🏷 **语言趋势**
 
-TypeScript(7) = Python(7) > 其他(6) > JavaScript(3) > Shell(2)  
-TypeScript 和 Python 并驾齐驱，全栈与AI开发需求持续旺盛；Rust 新星项目涌现，系统编程领域热度攀升  
+TypeScript(**7**个) = Python(**7**个) > 其他(**6**个) > JavaScript(**3**个) > Shell(**2**个)
+趋势解读：TypeScript 与 Python 并列最热，Rust 在新星项目中崭露头角（本周 **2** 个新星项目使用 Rust）
 
 💡 **小编视角**
 
-**AI 的“自信陷阱”** · 研究显示AI让用户更自信但更不准确，提醒我们：工具再强，批判性思维不可丢  
-**低成本颠覆高成本系统** · 用ESP32替代$120k方案，证明技术创新的本质是“用更少做更多”，而非堆料
+**self-built 项目持续统治 GitHub** · 从「build-your-own-x」到「system-design-primer」，用户对可动手实践的学习资源需求从未减弱
+**Rust 成为「新星语言」** · 本周 Top 新星中 **2** 个项目用 Rust 实现（xai-org/grok-build、CluvexStudio/Aether），高性能方向正在吸引更多开发者
