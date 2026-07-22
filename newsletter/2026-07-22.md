@@ -1,22 +1,22 @@
 🔥 **今日最热**
 
-**build-your-own-x** ⭐**529977** · 通过重造你喜爱的技术来掌握编程，持续霸榜
-**awesome** ⭐**487541** · 涵盖所有有趣主题的精选列表，开发者入门必备
-**freeCodeCamp** ⭐**452383** · 开源代码库与课程，零基础转行首选
+**build-your-own-x** ⭐**530K** · 通过重造轮子学编程，项目式学习永不过时  
+**awesome** ⭐**487K** · 最全“Awesome”清单聚合，发现任何技术主题的入口  
+**freeCodeCamp** ⭐**452K** · 开源编程课程与代码库，零基础到全栈的免费之路  
 
 📈 **值得关注**
 
-**OpenAI and Hugging Face address security incident during model evaluation** 👍**1057** · 模型评估期间遭遇安全事件，引发行业对AI供应链安全的担忧
-**Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA** 👍**560** · 国产模型Kimi K3与Fable并列SOTA，AI竞赛白热化
-**FreeInk: Open ecosystem for e-readers** 👍**533** · 开源电子墨水屏生态崛起，挑战Kindle垄断
-**Advertise in ChatGPT** 👍**685** · ChatGPT开始接入广告，OpenAI商业化加速
+**The startup's Postgres survival guide** 👍**77** · 初创公司如何避免Postgres性能陷阱，实战生存手册  
+**Why I Am Not Going to Buy a Computer** 👍**41** · 回归极简：不买电脑的数字生活反思  
+**Does creatine make you smarter?** 👍**23** · 肌酸对认知功能的潜在影响，科学界新发现  
+**Nuxt vs SvelteKit: What works better?** 👍**15** · 两大元框架对比，选择取决于项目复杂度与团队偏好  
 
 🏷 **语言趋势**
 
-TypeScript(**7**) ≈ Python(**7**) > 其他(**6**) > JavaScript(**3**) > Shell(**2**)
-本周TypeScript与Python项目数持平，交互式教育类项目（roadmap、code playground）全面采用TypeScript，Python则在系统设计与API聚合领域持续强势。
+TypeScript(**7**) = Python(**7**) > 其他(**6**) > JavaScript(**3**) > Shell(**2**)  
+· TypeScript与Python并列主导，JavaScript热度下滑，Shell脚本需求稳定。
 
 💡 **小编视角**
 
-**The Optimistic UI Race Condition That Only Showed Up on the Fifth Click** · 乐观UI的竞态条件只在第5次点击才暴露——前端测试的边界比你想象的更远
-**我把刘备一生做成了可播放的高德地图，还把整套方法封装成了 Skill** · 用地图叙事重构历史，证明技术人的创意可以打破产品边界
+**我把刘备一生做成了可播放的高德地图** · 用地图叙事讲历史，技术+文化创意的有趣结合  
+**AI 又又造词，Graph 就又要替代 Loop 了？** · 技术概念炒作周期缩短，警惕“新词”背后的旧问题
