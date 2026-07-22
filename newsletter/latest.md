@@ -1,22 +1,22 @@
 🔥 **今日最热**
 
-**build-your-own-x** ⭐**529,780** · 通过复刻经典技术项目掌握编程，长期霸榜的实践指南  
-**awesome** ⭐**487,321** · 一站式收集各类有趣主题的精选列表，知识索引神器  
-**freeCodeCamp** ⭐**452,300** · 开源编程课程与代码库，零基础到全栈的免费学习路径  
+**build-your-own-x** ⭐**529857** · 通过重造你喜欢的技术来掌握编程，长期霸榜的经典教程  
+**awesome** ⭐**487430** · 各种有趣主题的精选列表，开发者必收的“宝藏清单”  
+**freeCodeCamp** ⭐**452332** · 开源代码库与课程，零基础学编程的首选平台  
 
 📈 **值得关注**
 
-**Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge** 👍**416** · 阿里发布新一代图像生成模型，强调内容丰富与知识深度  
-**Apple Defeats Liability for Not Scanning iCloud for CSAM** 👍**101** · 法院裁定苹果无需为未主动扫描 iCloud 儿童性虐待内容承担责任  
-**Python 3.15's Ultra-Low Overhead Interpreter Profiling Mode** 👍**91** · Python 3.15 将引入极低开销的性能剖析模式，助力优化  
-**NPM's release cooldown is security theater** 👍**4** · 开发者批评 NPM 的发布冷却机制实为安全表演，实际效果有限  
+**OpenAI and Hugging Face address security incident during model evaluation** 👍**587** · 模型评估期间出现安全事件，引发行业对AI安全流程的反思  
+**FreeInk: Open ecosystem for e-readers** 👍**361** · 开源电子书阅读器生态，挑战封闭硬件平台  
+**Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting** 👍**211** · 推特创始人新作，团队协作工具再战Slack  
+**You can build it. Should you?** ❤️**10** · 开发者自省：能造不意味着该造，警惕过度工程化  
 
 🏷 **语言趋势**
 
-TypeScript(7) → Python(7) → 其他(6) → JavaScript(3) → Shell(2)  
-TypeScript 与 Python 并列第一，TypeScript 在工具链与教育类项目中持续扩张，Python 则牢牢占据基础设施与 API 领域  
+TypeScript、Python 并列第一，各 **7** 项目；JavaScript **3**；其他语言 **6**  
+趋势解读：TypeScript 与 Python 持续统治全栈与AI领域，JavaScript 增速放缓  
 
 💡 **小编视角**
 
-**Kimi k3 与 GLM 停售限购** · 国内大模型服务稳定性堪忧，用户需为“断供”风险提前准备替代方案  
-**build-your-own-x 持续霸榜** · 技术学习回归“亲手造轮子”，动手实践比看教程更能构建核心竞争力
+**build-your-own-x 为何经久不衰** · 与其追逐新框架，不如亲手重建基础组件，这才是真正的“技术护城河”  
+**Jack Dorsey 再战协作工具** · Buzz 将聊天、AI代理与Git托管整合，或成开发者团队的下一个效率利器
