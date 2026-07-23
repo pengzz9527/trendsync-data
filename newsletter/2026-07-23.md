@@ -1,22 +1,18 @@
 🔥 **今日最热**
-
-**build-your-own-x** ⭐530202 · 通过复刻你喜爱的技术来掌握编程，长期霸榜
-**awesome** ⭐487773 · 涵盖各类有趣主题的精选清单，信息聚合神器
-**freeCodeCamp** ⭐452455 · 开源编程课程与代码库，零基础入门首选
+**build-your-own-x** ⭐**530359** · 手撸技术栈项目登顶，程序员最爱“造轮子”学原理
+**awesome** ⭐**487895** · 经典资源合集持续霸榜，万物皆可“awesome”
+**freeCodeCamp** ⭐**452493** · 开源编程课程稳居前三，免费学习永不退潮
 
 📈 **值得关注**
-
-**GigaToken: ~1000x faster Language model tokenization** 👍331 · 将分词速度提升约1000倍，大幅降低大模型推理成本
-**Show HN: Bento - An entire PowerPoint in one HTML file** 👍602 · 用单个HTML文件实现PPT编辑+查看+协作，极简主义
-**Are AI Labs Pelicanmaxxing?** 👍350 · 讨论AI实验室是否陷入“囤积GPU”的军备竞赛
-**Substack's New AI Detector Has the Same Blind Spot DEV.to's Did** ❤️30 · 新AI检测器仍无法区分AI生成与人类改写内容
+**Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample** 👍**820** · 数学大神用AI辅助证明，引爆学术圈对LLM推理能力的讨论
+**GigaToken: ~1000x faster Language model tokenization** 👍**475** · 千倍提速的tokenizer，可能颠覆大模型推理效率
+**Show HN: Bento - An entire PowerPoint in one HTML file** 👍**794** · 一个HTML文件搞定PPT，极简主义办公新范式
+**Quality non-fiction books are the antithesis of AI slop** 👍**325** · HN热议：高质量非虚构书籍才是对抗AI垃圾内容的良药
 
 🏷 **语言趋势**
-
-TypeScript(7) = Python(7) > 其他(6) > JavaScript(3) > Shell(2)
-TypeScript与Python并列第一，全栈与AI双线并进；JavaScript项目数回落，Shell脚本工具需求稳定。
+**TypeScript(7)** = **Python(7)** > **其他(6)** > **JavaScript(3)** > **Shell(2)**
+本周TS和Python项目数持平，TS在工具链和AI应用领域持续扩张，Python则靠经典项目稳守阵地
 
 💡 **小编视角**
-
-**GigaToken：1000倍加速是噱头还是真突破？** · 若真能落地，将彻底改变大模型推理效率，但需警惕实验室环境与生产环境的差距
-**“Pelicanmaxxing”一词走红** · 讽刺AI公司囤积算力却无实际产出，行业泡沫感加剧，建议关注有实际应用场景的项目
+**GigaToken加速千倍** · 如果tokenization瓶颈被打破，大模型推理成本将断崖式下降，但需警惕“速度陷阱”——压缩率与语义保真度的平衡才是关键
+**前端简单论再起** · 掘金热帖背后是行业焦虑：框架复杂度飙升，但基础能力培养却被忽视，真正的“简单”是理解本质后的从容
