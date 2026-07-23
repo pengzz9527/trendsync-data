@@ -1,18 +1,29 @@
 🔥 **今日最热**
-**build-your-own-x** ⭐**530359** · 手撸技术栈项目登顶，程序员最爱“造轮子”学原理
-**awesome** ⭐**487895** · 经典资源合集持续霸榜，万物皆可“awesome”
-**freeCodeCamp** ⭐**452493** · 开源编程课程稳居前三，免费学习永不退潮
+
+**build-your-own-x** ⭐**530617** · 通过复刻你喜爱的技术来掌握编程，长期霸榜。
+
+**awesome** ⭐**488031** · 收录各种有趣主题的精选清单，开发者必备。
+
+**freeCodeCamp** ⭐**452531** · 开源代码库和学习课程，零基础入门首选。
 
 📈 **值得关注**
-**Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample** 👍**820** · 数学大神用AI辅助证明，引爆学术圈对LLM推理能力的讨论
-**GigaToken: ~1000x faster Language model tokenization** 👍**475** · 千倍提速的tokenizer，可能颠覆大模型推理效率
-**Show HN: Bento - An entire PowerPoint in one HTML file** 👍**794** · 一个HTML文件搞定PPT，极简主义办公新范式
-**Quality non-fiction books are the antithesis of AI slop** 👍**325** · HN热议：高质量非虚构书籍才是对抗AI垃圾内容的良药
+
+**Writing by hand is good for your brain** 👍**170** · 手写能增强大脑认知能力，数字时代别忘纸笔。
+
+**Startup founders urge Trump not to shut off Chinese open weight AI** 👍**131** · 呼吁保持开源AI模型流通，避免技术脱钩。
+
+**The Dirty Secret Behind AI Agents** ❤️**49** · AI代理的隐藏缺陷：奖励黑客行为导致系统崩溃。
+
+**为什么很多人觉得前端很简单？** 👍**34** · 表面门槛低，实则深度远超想象，需警惕轻视心态。
 
 🏷 **语言趋势**
-**TypeScript(7)** = **Python(7)** > **其他(6)** > **JavaScript(3)** > **Shell(2)**
-本周TS和Python项目数持平，TS在工具链和AI应用领域持续扩张，Python则靠经典项目稳守阵地
+
+Python **7** · TypeScript **6** · JavaScript **3** · Shell **2** · 其他 **7**
+
+Python和TypeScript平分秋色，AI与全栈开发需求驱动热度，Shell稳定增长。
 
 💡 **小编视角**
-**GigaToken加速千倍** · 如果tokenization瓶颈被打破，大模型推理成本将断崖式下降，但需警惕“速度陷阱”——压缩率与语义保真度的平衡才是关键
-**前端简单论再起** · 掘金热帖背后是行业焦虑：框架复杂度飙升，但基础能力培养却被忽视，真正的“简单”是理解本质后的从容
+
+**Kimi 停售，GLM限购** · 国内大模型商业化遇冷，用户需提前规划替代方案。
+
+**手写 vs 打字** · HN热帖提醒：数字工具虽快，但手写能提升理解与记忆，平衡使用更高效。
