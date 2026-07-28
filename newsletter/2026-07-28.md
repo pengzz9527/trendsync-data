@@ -1,21 +1,29 @@
 🔥 **今日最热**
 
-**build-your-own-x** ⭐**532275** · 通过复刻热门技术（数据库、Git、Docker）来精通编程，学习方式革命
-**awesome** ⭐**489790** · 史上最全“awesome”主题资源清单，一站式发现有趣工具
-**freeCodeCamp** ⭐**453014** · 开源全栈编程课程与代码库，零成本学编程首选
+**build-your-own-x** ⭐**532408** · 通过复刻流行技术来掌握编程，持续霸榜。
+
+**awesome** ⭐**489930** · 各类有趣主题的精选列表，开发者必备收藏。
+
+**public-apis** ⭐**453075** · 免费 API 合集，快速原型开发利器。
 
 📈 **值得关注**
 
-**Our position on open-weights models** 👍**830** · 科技巨头表态：开源权重模型是未来，但安全与监管需平衡
-**Benchmarking Opus 5 on SlopCodeBench** 👍**257** · 新基准测试显示：Opus 5 在“烂代码”场景下表现惊人
-**Using an open model feels surprisingly good** 👍**251** · 开发者实测：开源模型体验超预期，不再依赖封闭API
-**The Junior Developer Pipeline Is Broken... And AI Broke It** ❤️**92** · AI 冲击初级开发者岗位，行业培训体系面临重构
+**7.1 Earthquake in Japan** 👍**626** · 日本发生强震，技术社区关注灾情与应急响应。
+
+**New HIV vaccine shows unprecedented success in preclinical study** 👍**267** · 艾滋病疫苗临床前研究取得突破性进展。
+
+**Kimi Linear: An Expressive, Efficient Attention Architecture** 👍**145** · 新型注意力架构，兼顾表达力与效率。
+
+**From Silent Reader to 25 Articles** ❤️**75** · 从沉默读者到持续输出，3 个月写作心得分享。
 
 🏷 **语言趋势**
 
-Python **7** → TypeScript **6** → JavaScript **3** → Shell **2** · 本周 Python 与 TypeScript 项目数持平，TypeScript 凭借 AI 工具与全栈框架崛起，Python 稳居数据科学与自动化霸主
+Python **7** · TypeScript **6** · JavaScript **3** · Shell **2** · 其他 **7**
+
+Python 与 TS 项目数持平，AI 和全栈开发双轮驱动；新星项目多选 TS，生态持续扩张。
 
 💡 **小编视角**
 
-**AI 会不会取代前端？** · 市场冷静了：AI 是工具而非替代者，但初级岗位门槛确实在提高，未来前端需掌握 AI 集成与全栈能力
-**Kimi K3 本地化部署成本** · 三千万？那是误解！实际成本远低于预期，开源模型落地企业级场景已可行，别再被“天价API”吓退
+**AI 会不会取代前端？** · 2026 年市场观察：AI 是工具而非替代，前端核心价值在交互与体验设计。
+
+**Kimi K3 本地部署成本** · 三千万足矣？算清 API 与本地化账本，企业决策需理性评估。
