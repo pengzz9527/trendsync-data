@@ -1,22 +1,22 @@
 🔥 **今日最热**
 
-**build-your-own-x** ⭐**532577** · 手写复刻热门技术，GitHub 最火自学项目  
-**awesome** ⭐**490167** · 各类主题精选清单，入门收藏必备  
-**public-apis** ⭐**453186** · 免费 API 集合，开发者工具箱
+**build-your-own-x** ⭐**532691** · 手撸代码复刻你爱的技术，编程学习新标杆  
+**awesome** ⭐**490297** · 神仙清单合集，挖掘一切有趣主题  
+**public-apis** ⭐**453272** · 免费 API 大集合，开发者工具箱必备  
 
 📈 **值得关注**
 
-**Codex Security** 👍**479** · 代码安全漏洞引发热议，开发者需警惕供应链攻击  
-**Substack writers, you need a website** 👍**512** · 独立网站 vs 平台依赖，创作者生态之争  
-**LearnVector – Andrew Ng's AI company** 👍**164** · 个性化学习体验，AI 教育新方向  
-**Slopsquatting: The Supply Chain Attack That Weaponizes AI Hallucinations** ❤️**49** · AI 幻觉被武器化，新型供应链攻击曝光
+**KOReader** 👍**443** · 开源电子书阅读器再登 HN 热榜，极客必备  
+**Handbook.md: 长政策文档无法可靠约束智能体** 👍**152** · AI 治理新痛点，文档即代码的边界在哪？  
+**Apple 应羞愧于其敌意的 App Store 评分系统** 👍**31** · 开发者集体吐槽，平台霸权再引争议  
+**Hugging Face: 前沿实验室智能体入侵内幕** 👍**17** · 揭秘 AI 安全攻防战，行业警钟  
 
 🏷 **语言趋势**
 
-Python **7** 个 · TypeScript **6** 个 · JavaScript **3** 个 · Shell **2** 个  
-Python 与 TypeScript 持续主导，AI 与全栈开发双线并进
+Python **7** · TypeScript **6** · JavaScript **3** · Shell **2** · 其他 **7**  
+📊 Python 与 TypeScript 双雄争霸，AI 与全栈开发各占半壁江山  
 
 💡 **小编视角**
 
-**Kimi K3 本地化部署** · 三千万成本引发热议，大模型本地化是趋势还是噱头？  
-**MPA 悄悄复辟** · 2026 年多页面应用回归，SPA 霸权不再？前端架构需重新思考
+**Kimi K3 本地化部署成本争议** · 三千万只是起点？中小企业应警惕“免费”陷阱，算清总账再入局  
+**MPA 悄悄复辟** · 在 SPA 疲劳时代，多页面应用以轻量和 SEO 友好重新赢得开发者青睐，技术无永恒赢家
