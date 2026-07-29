@@ -1,22 +1,22 @@
 🔥 **今日最热**
 
-**build-your-own-x** ⭐**532487** · 通过复刻热门技术来掌握编程，经典常青树项目持续霸榜  
-**awesome** ⭐**490049** · 汇集各类有趣主题的列表，开发者必收的“宝藏清单”  
-**public-apis** ⭐**453132** · 免费API集合，为个人项目和实验提供无限数据源  
+**build-your-own-x** ⭐**532577** · 手写复刻热门技术，GitHub 最火自学项目  
+**awesome** ⭐**490167** · 各类主题精选清单，入门收藏必备  
+**public-apis** ⭐**453186** · 免费 API 集合，开发者工具箱
 
 📈 **值得关注**
 
-**Kimi K3 Architecture Overview and Notes** 👍**280** · 新星架构详解，引发社区对AI模型效率的热议  
-**Substack writers, you need a website** 👍**379** · 独立写作平台呼吁建立自有网站，打破平台依赖  
-**Delayed Gratification – Proud to Be 'Last to Breaking News'** 👍**224** · 慢新闻杂志逆流而上，强调深度而非速度  
-**Slopsquatting: The Supply Chain Attack That Weaponizes AI Hallucinations** ❤️**46** · AI幻觉被用于供应链攻击，新安全威胁浮出水面  
+**Codex Security** 👍**479** · 代码安全漏洞引发热议，开发者需警惕供应链攻击  
+**Substack writers, you need a website** 👍**512** · 独立网站 vs 平台依赖，创作者生态之争  
+**LearnVector – Andrew Ng's AI company** 👍**164** · 个性化学习体验，AI 教育新方向  
+**Slopsquatting: The Supply Chain Attack That Weaponizes AI Hallucinations** ❤️**49** · AI 幻觉被武器化，新型供应链攻击曝光
 
 🏷 **语言趋势**
 
-Python(**7**) > TypeScript(**6**) > JavaScript(**3**) > Shell(**2**) > 其他(**7**)  
-趋势解读：Python在AI与工具领域持续主导，TypeScript紧随其后，前端生态热度不减。
+Python **7** 个 · TypeScript **6** 个 · JavaScript **3** 个 · Shell **2** 个  
+Python 与 TypeScript 持续主导，AI 与全栈开发双线并进
 
 💡 **小编视角**
 
-**AI会不会取代前端？** · 长远看AI会重塑岗位而非消灭，当前市场对复合型前端需求仍在增长  
-**Kimi K3本地化部署成本** · 三千万门槛虽高，但大模型私有化已成企业安全刚需，成本将随技术迭代下降
+**Kimi K3 本地化部署** · 三千万成本引发热议，大模型本地化是趋势还是噱头？  
+**MPA 悄悄复辟** · 2026 年多页面应用回归，SPA 霸权不再？前端架构需重新思考
