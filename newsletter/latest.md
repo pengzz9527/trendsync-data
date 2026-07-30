@@ -1,22 +1,21 @@
 🔥 **今日最热**
 
-**build-your-own-x** ⭐**532691** · 手撸代码复刻你爱的技术，编程学习新标杆  
-**awesome** ⭐**490297** · 神仙清单合集，挖掘一切有趣主题  
-**public-apis** ⭐**453272** · 免费 API 大集合，开发者工具箱必备  
+**build-your-own-x** ⭐**532785** · 通过重建流行技术来掌握编程，经典教程合集持续霸榜。  
+**awesome** ⭐**490424** · 汇集各类有趣主题的精选清单，永不过时的资源库。  
+**public-apis** ⭐**453344** · 免费 API 集合，开发者最爱的一站式工具库。
 
 📈 **值得关注**
 
-**KOReader** 👍**443** · 开源电子书阅读器再登 HN 热榜，极客必备  
-**Handbook.md: 长政策文档无法可靠约束智能体** 👍**152** · AI 治理新痛点，文档即代码的边界在哪？  
-**Apple 应羞愧于其敌意的 App Store 评分系统** 👍**31** · 开发者集体吐槽，平台霸权再引争议  
-**Hugging Face: 前沿实验室智能体入侵内幕** 👍**17** · 揭秘 AI 安全攻防战，行业警钟  
+**Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac** 👍**616** · 在低内存 Mac 上运行大模型，开源方案惊艳社区。  
+**Superlogical** 👍**486** · 逻辑谜题引发热议，HN 用户沉迷其中。  
+**Keychron announces first open-source firmware for gaming mice** 👍**263** · 机械键盘厂商进军游戏鼠标，开源固件打破封闭生态。
 
 🏷 **语言趋势**
 
-Python **7** · TypeScript **6** · JavaScript **3** · Shell **2** · 其他 **7**  
-📊 Python 与 TypeScript 双雄争霸，AI 与全栈开发各占半壁江山  
+Python(**7**) → TypeScript(**6**) → JavaScript(**3**) → Shell(**2**) → 其他(**7**)  
+AI 项目持续推高 Python 热度，TypeScript 紧随其后，全栈与工具类开发需求旺盛。
 
 💡 **小编视角**
 
-**Kimi K3 本地化部署成本争议** · 三千万只是起点？中小企业应警惕“免费”陷阱，算清总账再入局  
-**MPA 悄悄复辟** · 在 SPA 疲劳时代，多页面应用以轻量和 SEO 友好重新赢得开发者青睐，技术无永恒赢家
+**本地化部署 Kimi K3 成本争议** · 三千万成本引热议，但本地部署对中小企业仍是重负，云 API 更灵活。  
+**MPA 正在悄悄复辟** · 单页应用（SPA）不是万能药，多页应用（MPA）在复杂场景下更简单可靠。
