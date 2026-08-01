@@ -1,18 +1,18 @@
 🔥 **今日最热**
-**build-your-own-x** ⭐**533K** · 手写实现经典技术，程序员练功首选，热度常年霸榜
-**awesome** ⭐**491K** · 全领域精选清单合集，找资源一站式入口
-**public-apis** ⭐**454K** · 免费 API 集合，开发者的数据百宝箱
+**build-your-own-x** ⭐**533K** · 用复刻经典项目学编程，GitHub 万星神话持续领跑
+**awesome** ⭐**491K** · 全领域精选清单，开发者收藏夹的终极归宿
+**public-apis** ⭐**454K** · 免费 API 大合集，做项目缺数据？这里一站式解决
 
 📈 **值得关注**
-**The session you cannot take with you** 👍**648** · 探讨会话与身份边界，引发隐私与数据自主权热议
-**Google fixed more Chrome bugs in June than over the past two years, thanks to AI** 👍**367** · AI 辅助修复效率惊人，Chrome 六月修复量超两年总和
-**DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis** 👍**343** · 新模型性能与定价分析，性价比成讨论焦点
-**Is AI Reasoning Right for the Wrong Reasons?** 👍**34** · 质疑 AI 推理逻辑正确性，但根本路径或存偏差
+**Tailscale 未能阻止 Hugging Face 入侵** ▲**375** · 安全边界再强，也防不住内部凭证泄露
+**Elevators** ▲**814** · 电梯调度算法引热议，日常工程中的隐藏复杂度
+**qm** ▲**392** · 新项目一周登顶 HN，TypeScript 再出爆款潜力股
+**Twenty-five years ago cryptography, today model weights** ▲**103** · 加密与模型权重，时代议题的惊人轮回
 
 🏷 **语言趋势**
-语言项目数：Python **7** · TypeScript **6** · JavaScript **3** · Shell **2** · 其他 **7**
-趋势解读：Python 与 TypeScript 双雄并立，前者主导 AI/数据，后者统治全栈与工具链
+Python(**7**) ≈ 其他(**7**) > TypeScript(**6**) > JavaScript(**3**) > Shell(**2**)
+Python 与 TS 双雄争霸，AI 工具链与全栈开发仍是语言热度主引擎
 
 💡 **小编视角**
-**A 社官方：我们删掉了 80% 的 skills** · 减法比加法更难，AI 工具链的「少即是多」正在成为新共识
-**The memory layer that never calls an LLM** · 不调模型的记忆层，是成本与智能的务实平衡，值得关注
+**Claude Code 逆向工程分析** · 解剖入口架构，AI 编程工具的护城河在工程细节
+**前端转 AI 全栈** · 2026 年技术人的焦虑与机遇，转型路线图已成社区刚需
