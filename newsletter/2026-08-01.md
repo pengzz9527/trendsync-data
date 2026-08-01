@@ -1,25 +1,18 @@
 🔥 **今日最热**
-**build-your-own-x** ⭐**533597** · 通过重造技术栈掌握编程，永恒经典再登顶
-**awesome** ⭐**491097** · 全领域精选清单，开发者必藏宝库
-**public-apis** ⭐**453896** · 免费 API 集合，灵感与效率双引擎
+**build-your-own-x** ⭐**533,934** · 手写复刻数据库/编译器/OS，经典教程持续霸榜
+**awesome** ⭐**491,203** · 全品类精选清单，程序员收藏夹天花板
+**public-apis** ⭐**453,944** · 免费API大合集，一键接入海量公共数据
 
 📈 **值得关注**
-**qm – Multiplayer agent harness for work** 👍**543** · 多人协作智能体框架，工作流新范式
-**How to Exist** 👍**164** · 编程之外的存在哲学，引发深度共鸣
-**Elevators** 👍**1226** · 电梯系统设计讨论，意外引爆 HN 热议
-**Flint: A Visualization Language for the AI Era** 👍**95** · 专为 AI 时代打造的可视化语言
+**Elevators** 👍**1,488** · 电梯设计之神帖，373条评论热议工程之美
+**RipGrep musl binaries segfault** 👍**140** · 大搜索偶发崩溃，社区深挖musl内存对齐坑
+**A Surveillance Treaty** 👍**110** · 加拿大签署UN网络犯罪公约，隐私派担忧监控扩张
+**GitHub has alternatives** 👍**9** · 开源替代品众多，但生态粘性难破
 
 🏷 **语言趋势**
-Python(**7**) = 其他(**7**) > TypeScript(**6**) > JavaScript(**3**) > Shell(**2**)
-Python 持续领跑数据与教学项目，TypeScript 在 AI 工具链中强势崛起
+Python(7) = 其他(7) > TypeScript(6) > JavaScript(3) > Shell(2)
+Python稳居榜首，TypeScript持续逼近；AI工具链与全栈框架双轮驱动TS增长。
 
 💡 **小编视角**
-**解剖 Claude Code** · 逆向工程揭示 AI 编码助手内部架构，值得深挖
-**为什么越来越多人用 Apache Tika** · 内容解析库的隐形需求正在爆发
-
----
-🔥 **本周新星**
-**Kimi-K3** ⭐**7753** · Moonshot 新一代模型，开源势头迅猛
-**qm** ⭐**3011** · 多人智能体框架，HN 热度印证潜力
-**Claude-of-Duty** ⭐**2536** · 趣味项目，AI 与游戏玩法的创意结合
-**OptMem** ⭐**1044** · 优化内存管理新思路，技术极客关注
+**Kimi-K3 周涨7.8K星** · Moonshot开源新模型，国产AI力量正在GitHub崛起
+**DevPub CLI工具** · 用命令行刷Dev.to，极客范儿十足，开源社区又添效率神器
