@@ -1,22 +1,24 @@
 🔥 **今日最热**
 
-**build-your-own-x** ⭐**534k** · 通过重造轮子掌握编程，经典永不过时
-**awesome** ⭐**491k** · 一切有趣主题的清单，GitHub 必备收藏夹
-**public-apis** ⭐**454k** · 免费 API 集合，开发者灵感源泉
+**build-your-own-x** ⭐**534K** · 用亲手重造技术栈的方式学编程，经典永不过时
+**awesome** ⭐**491K** · 全领域精选清单合集，开发者收藏夹的终点站
+**public-apis** ⭐**454K** · 免费开放 API 大合集，做项目缺数据？先翻这里
 
 📈 **值得关注**
 
-**Diátaxis** 👍**139** · 文档架构新范式，质疑传统技术写作方式
-**Postmortem for Kernel Soundness Bug #14576** 👍**104** · 内核缺陷复盘，披露深层调试的惨痛教训
-**Seedance 2.5** 👍**102** · 新版本发布，AI 生成领域再进一步
-**AI financial advice is surprisingly good** 👍**79** · 问对问题，AI 理财建议竟然靠谱
+**Seedance 2.5** 👍**310** · 字节视频生成模型大版本更新，效果引热议
+**Diátaxis** 👍**310** · 技术文档设计框架，被赞为“文档界的瑞士军刀”
+**Go 1.27 Interactive Tour** 👍**177** · 官方互动教程升级，入门 Go 又多一条捷径
+**Kimi K3 跑赢 B300** 👍**110** · 国产芯片 MI355X 上性价比反超英伟达，推理成本再降
 
 🏷 **语言趋势**
 
-Python(**7**) = 其他(**7**) > TypeScript(**6**) > JavaScript(**3**) > Shell(**2**)
-Python 在 AI 与教学资源中持续霸榜，TypeScript 紧随其后，全栈方向热度不减。
+Python(7) = 其他(7) > TypeScript(6) > JavaScript(3) > Shell(2)
+Python 与 TS 持续霸榜，AI 生态与前端工具链双轮驱动，多语言混编成常态
 
 💡 **小编视角**
 
-**openclaw 个人 AI 助手** · 从云端到本地的 AI 助理，跨平台是下一个主战场
-**Kimi-K3 周星崛起** ⭐**7.8k** · 新模型快速蹿红，国产大模型竞争进入白热化
+**15岁少年造摆线齿轮箱** · 年龄不是限制，好奇心才是最好的工程师证
+**Flutter 写 Linux 桌面系统** · 跨端框架的边界正在消失，Flutter 野心不止于手机
+
+⏰ 每日 08:00 推送 · 数据源 GitHub/HN/Dev.to/掘金
