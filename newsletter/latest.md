@@ -1,18 +1,18 @@
 🔥 **今日最热**
-**build-your-own-x** ⭐**535.6k** · 通过重造技术栈学编程，经典永不过时
-**awesome** ⭐**492.1k** · 全领域精选清单，开发者收藏夹天花板
-**public-apis** ⭐**454.3k** · 免费 API 合集，后端原型神器
+**build-your-own-x** ⭐**535,798** · 通过重造你喜爱的技术来精通编程，学习圣经持续霸榜
+**awesome** ⭐**492,208** · 全领域精选资源清单，开发者永远的神
+**public-apis** ⭐**454,298** · 免费 API 大集合，一个仓库搞定所有数据源
 
 📈 **值得关注**
-**Devtools must be open source** ▲**477** · 开发者工具闭源=扼杀生态，开源是底线
-**Ten advances in mathematics** ▲**389** · 数学理论突破或重塑未来计算底层
-**LLMs reward expertise** ▲**316** · 大模型开始奖励深度专精，而非泛泛知识
-**Smaller, faster, safer** ▲**127** · Kimi 与 GLM 规模化运行新方案，效率与安全兼得
+**LLMs reward expertise** 👍**830** · 大模型正在奖励深度专业，而非泛泛而谈
+**Devtools must be open source** 👍**584** · 开发者工具不开源，等于把命运交给别人
+**Ten advances in math & CS** 👍**524** · 数学与理论计算机的十项突破，值得逐条细读
+**80B Qwen 在 Mac 上仅需 4.3GB 内存** 👍**144** · 本地大模型门槛再降，iPhone 也能跑 35B
 
 🏷 **语言趋势**
-其他(**7**) → Python(**7**) → TypeScript(**6**) → JavaScript(**3**) → Shell(**2**)
-Python 与 TS 并驾齐驱，AI 脚本与前端工程化双核驱动；JS 热度回落，Shell 稳居运维基本盘。
+Python(**7**) → TypeScript(**6**) → JavaScript(**3**) → Shell(**2**)
+TypeScript 爆发式增长，正从「可选」变为「默认」；Python 稳居数据与 AI 生态核心。
 
 💡 **小编视角**
-**DeepSeek-V4-Flash 拉垮？** · 新版本前端体验退步，但模型能力提升需理性看待，别被舆论带节奏
-**Spring 之父再出山** · 老将新 AI 框架值得期待，但生态迁移成本高，观望者居多
+**AI 烧钱 60 亿、收入 0 蛋** · 大模型商业化仍是「烧钱换规模」的赌局，盈利模式亟待破局
+**前端圈半年炸五次** · 框架迭代速度远超认知负荷，工具链越强，选择越难
