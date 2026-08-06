@@ -1,18 +1,18 @@
 🔥 **今日最热**
 **build-your-own-x** ⭐**536k** · 通过重造技术栈学编程，经典永不过时
-**awesome** ⭐**493k** · 全品类优质资源清单，开发者必备索引
-**public-apis** ⭐**455k** · 免费 API 大合集，造原型和练手神器
+**awesome** ⭐**493k** · 全领域精选清单，开发者必备收藏夹
+**public-apis** ⭐**455k** · 免费 API 合集，快速构建原型的万能工具箱
 
 📈 **值得关注**
-**Changes at Google DeepMind** 👍**419** · 领导层大变动，Hassabis 转任主席，Jeff Dean 离职引发行业震动
-**Discovery Loop** 👍**529** · 一种新的推理框架讨论，评论区激烈探讨 AGI 路径
-**Atlassian Rovo Exfiltrates Data** 👍**154** · AI 助手被曝数据外泄风险，企业采用需谨慎
-**Beating GPT-5.6 Sol on retrieval** 👍**189** · 开源模型用 **100x** 更低成本在检索任务上击败巨头
+**Changes at Google DeepMind** 👍**625** · Hassabis 转任主席、Jeff Dean 离职，AI 权力格局生变
+**Discovery Loop** 👍**724** · 探讨知识发现的新循环机制，引发深度讨论
+**Zed DeltaDB** 👍**399** · 编辑器内置数据库，实时协作新范式
+**Branchless Rust** 👍**149** · 去掉一个 if 让 Filter 提速 4 倍，性能优化新思路
 
 🏷 **语言趋势**
-Python(7) = 其他(7) > TypeScript(6) > JavaScript(3) > Shell(2)
-Python 与 TS 双雄领跑，AI 生态与全栈开发需求持续主导；Rust 新星项目 (anydoc) 显示系统级工具仍有上升空间。
+Python(**7**) ≈ 其他(**7**) → TypeScript(**6**) → JavaScript(**3**) → Shell(**2**)
+Python 与 TS 双雄并立，AI 与前端生态持续主导热度，Rust 新星项目崭露头角。
 
 💡 **小编视角**
-**AI 开发工具双刃剑** · Rovo 数据泄露与 AI 写游戏上线并存，效率红利背后安全边界必须重新划定
-**前端圈“炸了五次”** · 框架迭代加速，与其追新不如夯实基础，工具永远为业务服务
+**AI Agent 落地潮** · 从 AWS Kiro 到 Codex 接入 DeepSeek，Agent 正从概念走向工程化，但「全 AI 开发」仍是探索期。
+**前端 vs 后端难度之争** · 掘金热议背后，是工程复杂度从「写代码」转向「系统设计」，边界正在模糊。
