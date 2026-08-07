@@ -1,0 +1,987 @@
+{
+  "collected_at": "2026-08-07T00:00:06.279Z",
+  "date": "2026-08-07",
+  "github_trending": [
+    {
+      "full_name": "codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "stars": 536864,
+      "forks": 50712,
+      "language": "Markdown",
+      "topics": [
+        "awesome-list",
+        "free",
+        "programming",
+        "tutorial-code",
+        "tutorial-exercises",
+        "tutorials"
+      ],
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "created_at": "2018-05-09T12:03:18Z",
+      "updated_at": "2026-08-06T23:58:27Z"
+    },
+    {
+      "full_name": "sindresorhus/awesome",
+      "description": "😎 Awesome lists about all kinds of interesting topics",
+      "stars": 493109,
+      "forks": 36301,
+      "language": null,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "lists",
+        "resources",
+        "unicorns"
+      ],
+      "url": "https://github.com/sindresorhus/awesome",
+      "created_at": "2014-07-11T13:42:37Z",
+      "updated_at": "2026-08-06T23:57:33Z"
+    },
+    {
+      "full_name": "public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "stars": 454751,
+      "forks": 50181,
+      "language": "Python",
+      "topics": [
+        "api",
+        "apis",
+        "dataset",
+        "development",
+        "free",
+        "list",
+        "lists",
+        "open-source",
+        "public",
+        "public-api",
+        "public-apis",
+        "resources",
+        "software"
+      ],
+      "url": "https://github.com/public-apis/public-apis",
+      "created_at": "2016-03-20T23:49:42Z",
+      "updated_at": "2026-08-06T23:53:45Z"
+    },
+    {
+      "full_name": "freeCodeCamp/freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "stars": 453603,
+      "forks": 45890,
+      "language": "TypeScript",
+      "topics": [
+        "careers",
+        "certification",
+        "community",
+        "curriculum",
+        "d3",
+        "education",
+        "freecodecamp",
+        "javascript",
+        "learn-to-code",
+        "math",
+        "nodejs",
+        "nonprofits",
+        "programming",
+        "react",
+        "teachers"
+      ],
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "created_at": "2014-12-24T17:49:19Z",
+      "updated_at": "2026-08-06T23:39:34Z"
+    },
+    {
+      "full_name": "EbookFoundation/free-programming-books",
+      "description": ":books: Freely available programming books",
+      "stars": 393886,
+      "forks": 66670,
+      "language": "Python",
+      "topics": [
+        "books",
+        "education",
+        "hacktoberfest",
+        "list",
+        "resource"
+      ],
+      "url": "https://github.com/EbookFoundation/free-programming-books",
+      "created_at": "2013-10-11T06:50:37Z",
+      "updated_at": "2026-08-06T23:51:45Z"
+    },
+    {
+      "full_name": "openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+      "stars": 385385,
+      "forks": 81018,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "assistant",
+        "crustacean",
+        "molty",
+        "openclaw",
+        "own-your-data",
+        "personal"
+      ],
+      "url": "https://github.com/openclaw/openclaw",
+      "created_at": "2025-11-24T10:16:47Z",
+      "updated_at": "2026-08-06T23:56:21Z"
+    },
+    {
+      "full_name": "nilbuild/developer-roadmap",
+      "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+      "stars": 363798,
+      "forks": 44744,
+      "language": "TypeScript",
+      "topics": [
+        "angular-roadmap",
+        "backend-roadmap",
+        "blockchain-roadmap",
+        "computer-science",
+        "dba-roadmap",
+        "developer-roadmap",
+        "devops-roadmap",
+        "frontend-roadmap",
+        "go-roadmap",
+        "java-roadmap",
+        "javascript-roadmap",
+        "nodejs-roadmap",
+        "python-roadmap",
+        "qa-roadmap",
+        "react-roadmap",
+        "roadmap",
+        "software-architect-roadmap",
+        "vue-roadmap"
+      ],
+      "url": "https://github.com/nilbuild/developer-roadmap",
+      "created_at": "2017-03-15T13:45:52Z",
+      "updated_at": "2026-08-06T23:07:35Z"
+    },
+    {
+      "full_name": "donnemartin/system-design-primer",
+      "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
+      "stars": 362030,
+      "forks": 57688,
+      "language": "Python",
+      "topics": [
+        "design",
+        "design-patterns",
+        "design-system",
+        "development",
+        "interview",
+        "interview-practice",
+        "interview-questions",
+        "programming",
+        "python",
+        "system",
+        "web",
+        "web-application",
+        "webapp"
+      ],
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "created_at": "2017-02-26T16:15:28Z",
+      "updated_at": "2026-08-06T23:53:55Z"
+    },
+    {
+      "full_name": "jwasham/coding-interview-university",
+      "description": "A complete computer science study plan to become a software engineer.",
+      "stars": 358020,
+      "forks": 84519,
+      "language": null,
+      "topics": [
+        "algorithm",
+        "algorithms",
+        "coding-interview",
+        "coding-interviews",
+        "computer-science",
+        "data-structures",
+        "interview",
+        "interview-prep",
+        "interview-preparation",
+        "programming-interviews",
+        "software-engineering",
+        "study-plan"
+      ],
+      "url": "https://github.com/jwasham/coding-interview-university",
+      "created_at": "2016-06-06T02:34:12Z",
+      "updated_at": "2026-08-06T23:56:12Z"
+    },
+    {
+      "full_name": "vinta/awesome-python",
+      "description": "An opinionated list of Python frameworks, libraries, tools, and resources",
+      "stars": 312574,
+      "forks": 28471,
+      "language": "Python",
+      "topics": [
+        "awesome",
+        "collections",
+        "python",
+        "python-frameworks",
+        "python-libraries",
+        "python-tools"
+      ],
+      "url": "https://github.com/vinta/awesome-python",
+      "created_at": "2014-06-27T21:00:06Z",
+      "updated_at": "2026-08-06T23:54:43Z"
+    },
+    {
+      "full_name": "awesome-selfhosted/awesome-selfhosted",
+      "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
+      "stars": 311053,
+      "forks": 14589,
+      "language": null,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "cloud",
+        "free-software",
+        "hosting",
+        "privacy",
+        "self-hosted",
+        "selfhosted"
+      ],
+      "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+      "created_at": "2015-06-01T02:33:17Z",
+      "updated_at": "2026-08-06T23:59:24Z"
+    },
+    {
+      "full_name": "practical-tutorials/project-based-learning",
+      "description": "Curated list of project-based tutorials",
+      "stars": 276931,
+      "forks": 35671,
+      "language": "Python",
+      "topics": [
+        "beginner-project",
+        "cpp",
+        "golang",
+        "javascript",
+        "project",
+        "python",
+        "tutorial",
+        "webdevelopment"
+      ],
+      "url": "https://github.com/practical-tutorials/project-based-learning",
+      "created_at": "2017-04-12T05:07:46Z",
+      "updated_at": "2026-08-06T23:30:39Z"
+    },
+    {
+      "full_name": "996icu/996.ICU",
+      "description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
+      "stars": 276564,
+      "forks": 20770,
+      "language": null,
+      "topics": [],
+      "url": "https://github.com/996icu/996.ICU",
+      "created_at": "2019-03-26T07:31:14Z",
+      "updated_at": "2026-08-06T19:00:27Z"
+    },
+    {
+      "full_name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 268069,
+      "forks": 23963,
+      "language": "Shell",
+      "topics": [
+        "ai",
+        "brainstorming",
+        "coding",
+        "obra",
+        "sdlc",
+        "skills",
+        "subagent-driven-development",
+        "superpowers"
+      ],
+      "url": "https://github.com/obra/superpowers",
+      "created_at": "2025-10-09T19:45:18Z",
+      "updated_at": "2026-08-06T23:54:21Z"
+    },
+    {
+      "full_name": "react/react",
+      "description": "The library for web and native user interfaces.",
+      "stars": 247071,
+      "forks": 51199,
+      "language": "JavaScript",
+      "topics": [
+        "declarative",
+        "frontend",
+        "javascript",
+        "library",
+        "react",
+        "ui"
+      ],
+      "url": "https://github.com/react/react",
+      "created_at": "2013-05-24T16:15:54Z",
+      "updated_at": "2026-08-06T22:40:41Z"
+    },
+    {
+      "full_name": "torvalds/linux",
+      "description": "Linux kernel source tree",
+      "stars": 242020,
+      "forks": 63793,
+      "language": "C",
+      "topics": [],
+      "url": "https://github.com/torvalds/linux",
+      "created_at": "2011-09-04T22:48:12Z",
+      "updated_at": "2026-08-06T23:54:34Z"
+    },
+    {
+      "full_name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 238298,
+      "forks": 36194,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agents",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "developer-tools",
+        "llm",
+        "mcp",
+        "productivity"
+      ],
+      "url": "https://github.com/affaan-m/ECC",
+      "created_at": "2026-01-18T00:51:51Z",
+      "updated_at": "2026-08-07T00:00:02Z"
+    },
+    {
+      "full_name": "trimstray/the-book-of-secret-knowledge",
+      "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+      "stars": 237048,
+      "forks": 14047,
+      "language": null,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "bsd",
+        "cheatsheets",
+        "devops",
+        "guidelines",
+        "hacking",
+        "hacks",
+        "howtos",
+        "linux",
+        "lists",
+        "manuals",
+        "one-liners",
+        "pentesters",
+        "resources",
+        "search-engines",
+        "security",
+        "security-researchers",
+        "sysops"
+      ],
+      "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+      "created_at": "2018-06-23T10:43:14Z",
+      "updated_at": "2026-08-06T23:47:55Z"
+    },
+    {
+      "full_name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 226585,
+      "forks": 44208,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "anthropic",
+        "chatgpt",
+        "claude",
+        "claude-code",
+        "clawdbot",
+        "codex",
+        "hermes",
+        "hermes-agent",
+        "llm",
+        "moltbot",
+        "nous-research",
+        "openai",
+        "openclaw"
+      ],
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "created_at": "2025-07-22T22:22:28Z",
+      "updated_at": "2026-08-06T23:58:33Z"
+    },
+    {
+      "full_name": "TheAlgorithms/Python",
+      "description": "All Algorithms implemented in Python",
+      "stars": 223541,
+      "forks": 50939,
+      "language": "Python",
+      "topics": [
+        "algorithm",
+        "algorithm-competitions",
+        "algorithms-implemented",
+        "algos",
+        "community-driven",
+        "education",
+        "hacktoberfest",
+        "interview",
+        "learn",
+        "practice",
+        "python",
+        "searches",
+        "sorting-algorithms",
+        "sorts"
+      ],
+      "url": "https://github.com/TheAlgorithms/Python",
+      "created_at": "2016-07-16T09:44:01Z",
+      "updated_at": "2026-08-06T23:51:06Z"
+    },
+    {
+      "full_name": "vuejs/vue",
+      "description": "This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core",
+      "stars": 210231,
+      "forks": 33780,
+      "language": "TypeScript",
+      "topics": [
+        "framework",
+        "frontend",
+        "javascript",
+        "vue"
+      ],
+      "url": "https://github.com/vuejs/vue",
+      "created_at": "2013-07-29T03:24:51Z",
+      "updated_at": "2026-08-06T22:57:24Z"
+    },
+    {
+      "full_name": "ossu/computer-science",
+      "description": "🎓 Path to a free self-taught education in Computer Science!",
+      "stars": 207707,
+      "forks": 25743,
+      "language": "HTML",
+      "topics": [
+        "awesome-list",
+        "computer-science",
+        "courses",
+        "curriculum"
+      ],
+      "url": "https://github.com/ossu/computer-science",
+      "created_at": "2014-05-04T00:18:39Z",
+      "updated_at": "2026-08-06T23:51:00Z"
+    },
+    {
+      "full_name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 206971,
+      "forks": 17874,
+      "language": "Shell",
+      "topics": [],
+      "url": "https://github.com/mattpocock/skills",
+      "created_at": "2026-02-03T11:15:53Z",
+      "updated_at": "2026-08-07T00:00:05Z"
+    },
+    {
+      "full_name": "multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 200249,
+      "forks": 20596,
+      "language": null,
+      "topics": [],
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "created_at": "2026-01-27T03:53:13Z",
+      "updated_at": "2026-08-06T23:44:12Z"
+    },
+    {
+      "full_name": "n8n-io/n8n",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "stars": 199623,
+      "forks": 59965,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "apis",
+        "automation",
+        "cli",
+        "data-flow",
+        "development",
+        "integration-framework",
+        "integrations",
+        "ipaas",
+        "low-code",
+        "low-code-platform",
+        "mcp",
+        "mcp-client",
+        "mcp-server",
+        "n8n",
+        "no-code",
+        "self-hosted",
+        "typescript",
+        "workflow",
+        "workflow-automation"
+      ],
+      "url": "https://github.com/n8n-io/n8n",
+      "created_at": "2019-06-22T09:24:21Z",
+      "updated_at": "2026-08-06T23:53:54Z"
+    },
+    {
+      "full_name": "tensorflow/tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "stars": 196895,
+      "forks": 75901,
+      "language": "C++",
+      "topics": [
+        "deep-learning",
+        "deep-neural-networks",
+        "distributed",
+        "machine-learning",
+        "ml",
+        "neural-network",
+        "python",
+        "tensorflow"
+      ],
+      "url": "https://github.com/tensorflow/tensorflow",
+      "created_at": "2015-11-07T01:19:20Z",
+      "updated_at": "2026-08-06T22:33:29Z"
+    },
+    {
+      "full_name": "trekhleb/javascript-algorithms",
+      "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+      "stars": 196405,
+      "forks": 31038,
+      "language": "JavaScript",
+      "topics": [
+        "algorithm",
+        "algorithms",
+        "computer-science",
+        "data-structures",
+        "interview",
+        "interview-preparation",
+        "javascript",
+        "javascript-algorithms"
+      ],
+      "url": "https://github.com/trekhleb/javascript-algorithms",
+      "created_at": "2018-03-24T07:47:04Z",
+      "updated_at": "2026-08-06T23:54:48Z"
+    },
+    {
+      "full_name": "ultraworkers/claw-code",
+      "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+      "stars": 194995,
+      "forks": 109273,
+      "language": "Rust",
+      "topics": [],
+      "url": "https://github.com/ultraworkers/claw-code",
+      "created_at": "2026-03-31T08:58:08Z",
+      "updated_at": "2026-08-06T23:53:01Z"
+    },
+    {
+      "full_name": "anomalyco/opencode",
+      "description": "The open source coding agent.",
+      "stars": 194312,
+      "forks": 24850,
+      "language": "TypeScript",
+      "topics": [],
+      "url": "https://github.com/anomalyco/opencode",
+      "created_at": "2025-04-30T20:08:00Z",
+      "updated_at": "2026-08-06T23:47:09Z"
+    },
+    {
+      "full_name": "DigitalPlatDev/FreeDomain",
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
+      "stars": 191291,
+      "forks": 4073,
+      "language": null,
+      "topics": [
+        "digitalplat",
+        "domain",
+        "domain-platform",
+        "domainname",
+        "domains",
+        "free",
+        "freedomain"
+      ],
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "created_at": "2024-05-30T13:23:00Z",
+      "updated_at": "2026-08-06T23:59:33Z"
+    }
+  ],
+  "github_new_stars": [
+    {
+      "full_name": "firecrawl/anydoc",
+      "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+      "stars": 8277,
+      "language": "Rust",
+      "url": "https://github.com/firecrawl/anydoc"
+    },
+    {
+      "full_name": "trycompai/crm",
+      "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
+      "stars": 7182,
+      "language": "TypeScript",
+      "url": "https://github.com/trycompai/crm"
+    },
+    {
+      "full_name": "FareedKhan-dev/kimi-k3-in-c",
+      "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+      "stars": 2822,
+      "language": "C",
+      "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c"
+    },
+    {
+      "full_name": "imsai-sh/zhuzhiliao",
+      "description": "竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。",
+      "stars": 2291,
+      "language": "HTML",
+      "url": "https://github.com/imsai-sh/zhuzhiliao"
+    },
+    {
+      "full_name": "genspark-ai/genoffice",
+      "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
+      "stars": 2037,
+      "language": "TypeScript",
+      "url": "https://github.com/genspark-ai/genoffice"
+    },
+    {
+      "full_name": "thebuggeddev/anatomy",
+      "description": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
+      "stars": 1857,
+      "language": "TypeScript",
+      "url": "https://github.com/thebuggeddev/anatomy"
+    },
+    {
+      "full_name": "DannyMac180/sol-advisor",
+      "description": "Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.",
+      "stars": 1700,
+      "language": "Shell",
+      "url": "https://github.com/DannyMac180/sol-advisor"
+    },
+    {
+      "full_name": "KKKKhazix/human-writing",
+      "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
+      "stars": 1559,
+      "language": "Python",
+      "url": "https://github.com/KKKKhazix/human-writing"
+    },
+    {
+      "full_name": "Binaryify/open-kimi-ppt-skill",
+      "description": "非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
+      "stars": 1311,
+      "language": "Python",
+      "url": "https://github.com/Binaryify/open-kimi-ppt-skill"
+    },
+    {
+      "full_name": "Accio-org/RealReplicaBench",
+      "description": "RealReplicaBench: Benchmarking Long-Horizon Agents in High-Fidelity, Stateful, and Reproducible Replicas of Real Online Services",
+      "stars": 1036,
+      "language": "HTML",
+      "url": "https://github.com/Accio-org/RealReplicaBench"
+    }
+  ],
+  "hacker_news": [
+    {
+      "id": 49201970,
+      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+      "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+      "score": 295,
+      "by": "itvision",
+      "comments": 230,
+      "time": "2026-08-06T20:23:11.000Z"
+    },
+    {
+      "id": 49184355,
+      "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
+      "url": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
+      "score": 115,
+      "by": "neversaydie",
+      "comments": 19,
+      "time": "2026-08-05T15:33:23.000Z"
+    },
+    {
+      "id": 49203105,
+      "title": "Welcoming the Nepalese Government to Have I Been Pwned",
+      "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
+      "score": 51,
+      "by": "gnabgib",
+      "comments": 12,
+      "time": "2026-08-06T21:52:16.000Z"
+    },
+    {
+      "id": 49195231,
+      "title": "Mario Meets Pareto",
+      "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
+      "score": 843,
+      "by": "theanonymousone",
+      "comments": 147,
+      "time": "2026-08-06T11:24:53.000Z"
+    },
+    {
+      "id": 49201003,
+      "title": "Herdr is joining Y Combinator. The runtime stays open",
+      "url": "https://herdr.dev/blog/herdr-is-joining-y-combinator/",
+      "score": 122,
+      "by": "collinmanderson",
+      "comments": 81,
+      "time": "2026-08-06T19:14:21.000Z"
+    },
+    {
+      "id": 49199346,
+      "title": "Taste Is All That's Left",
+      "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
+      "score": 162,
+      "by": "tsak",
+      "comments": 121,
+      "time": "2026-08-06T17:01:33.000Z"
+    },
+    {
+      "id": 49202852,
+      "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
+      "url": "https://www.aleksagordic.com/blog/vllm",
+      "score": 36,
+      "by": "sebg",
+      "comments": 2,
+      "time": "2026-08-06T21:30:21.000Z"
+    },
+    {
+      "id": 49203059,
+      "title": "Show HN: Pokémon Emerald Ported to Raspberry Pi Pico 2",
+      "url": "https://github.com/mattdeeds/pokeemerald-rp2350",
+      "score": 33,
+      "by": "mdeeds",
+      "comments": 13,
+      "time": "2026-08-06T21:49:07.000Z"
+    },
+    {
+      "id": 49198464,
+      "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
+      "url": "https://provenmetal.com",
+      "score": 180,
+      "by": "willcarkner",
+      "comments": 127,
+      "time": "2026-08-06T15:59:15.000Z"
+    },
+    {
+      "id": 49152255,
+      "title": "I stopped trusting USB-C cable labels and started testing them",
+      "url": "https://www.makeuseof.com/i-stopped-trusting-usb-c-cable-labels-started-testing-with-meter-instead/",
+      "score": 39,
+      "by": "baranul",
+      "comments": 26,
+      "time": "2026-08-03T07:12:57.000Z"
+    },
+    {
+      "id": 49198069,
+      "title": "Almost no skill required to cook a steak",
+      "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
+      "score": 259,
+      "by": "yusyd",
+      "comments": 300,
+      "time": "2026-08-06T15:30:48.000Z"
+    },
+    {
+      "id": 49198302,
+      "title": "GitHub Actions and Pages are experiencing degraded availability",
+      "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
+      "score": 300,
+      "by": "Footkerchief",
+      "comments": 254,
+      "time": "2026-08-06T15:49:38.000Z"
+    },
+    {
+      "id": 49199357,
+      "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+      "score": 132,
+      "by": "tedsanders",
+      "comments": 89,
+      "time": "2026-08-06T17:02:04.000Z"
+    },
+    {
+      "id": 49200439,
+      "title": "My phone detects going on a run as “someone snatching my phone and running off”",
+      "url": "https://mastodon.gamedev.place/@rygorous/117047697255584965",
+      "score": 74,
+      "by": "luu",
+      "comments": 131,
+      "time": "2026-08-06T18:26:08.000Z"
+    },
+    {
+      "id": 49113256,
+      "title": "STV: A full-motion video codec for the Atari ST",
+      "url": "https://medium.com/@jonas.eschenburg/stv-a-video-codec-for-the-atari-st-6e46355c50e4",
+      "score": 11,
+      "by": "indyjo",
+      "comments": 0,
+      "time": "2026-07-30T17:46:32.000Z"
+    },
+    {
+      "id": 49201930,
+      "title": "Quake – 30th Anniversary Update",
+      "url": "https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update",
+      "score": 189,
+      "by": "dsubburam",
+      "comments": 87,
+      "time": "2026-08-06T20:21:19.000Z"
+    },
+    {
+      "id": 49200933,
+      "title": "Can you reverse engineer an ASIC?",
+      "url": "https://blog.janestreet.com/can-you-reverse-engineer-an-asic/",
+      "score": 50,
+      "by": "bschne",
+      "comments": 29,
+      "time": "2026-08-06T19:07:33.000Z"
+    },
+    {
+      "id": 49195468,
+      "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+      "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
+      "score": 239,
+      "by": "Wirbelwind",
+      "comments": 186,
+      "time": "2026-08-06T11:58:07.000Z"
+    },
+    {
+      "id": 49120149,
+      "title": "Learn how chips are made with this Rollercoaster Tycoon-inspired animation",
+      "url": "https://laurentiugabriel.github.io/ChipTycoon/",
+      "score": 100,
+      "by": "laurentiurad",
+      "comments": 17,
+      "time": "2026-07-31T07:37:13.000Z"
+    },
+    {
+      "id": 49198583,
+      "title": "Show HN: The Channels SDK – Bring Any Agent to Any Channel (Slack, MS Teams)",
+      "url": "https://github.com/CopilotKit/channels-sdk",
+      "score": 82,
+      "by": "davidmckayv",
+      "comments": 20,
+      "time": "2026-08-06T16:05:51.000Z"
+    }
+  ],
+  "devto": [
+    {
+      "title": "I Recreated Management With AI: 9 Things I Do Differently",
+      "url": "https://dev.to/anchildress1/i-recreated-management-with-ai-9-things-i-do-differently-3j8g",
+      "tags": "discuss, ai, writing, productivity",
+      "score": 15,
+      "user": "Ashley Childress"
+    },
+    {
+      "title": "🥁 Mâm Cơm Landing Page: I built a Vietnamese dinner tray on a 3,000-year-old bronze drum",
+      "url": "https://dev.to/minhlong2605/mam-com-landing-page-i-built-a-vietnamese-dinner-tray-on-a-3000-year-old-bronze-drum-3e6h",
+      "tags": "devchallenge, frontendchallenge, webdev, javascript",
+      "score": 15,
+      "user": "Mike"
+    },
+    {
+      "title": "I Spent a Day With Kiro Crew. Here's What It Actually Does.",
+      "url": "https://dev.to/aws-builders/i-spent-a-day-with-kiro-crew-heres-what-it-actually-does-fk0",
+      "tags": "agents, ai, showdev, discuss",
+      "score": 12,
+      "user": "Sarvar Nadaf"
+    },
+    {
+      "title": "Opus 5: Delete your CLAUDE.md?",
+      "url": "https://dev.to/reporails/opus-5-delete-your-claudemd-9ga",
+      "tags": "ai, claude, promptengineering, tooling",
+      "score": 2,
+      "user": " Gábor Mészáros"
+    },
+    {
+      "title": "This is a submission for [Frontend Challenge - Comfort Food Edition, Perfect Landing] 😊",
+      "url": "https://dev.to/edmundsparrow/this-is-a-submission-for-frontend-challenge-comfort-food-edition-perfect-landing-1p8c",
+      "tags": "devchallenge, frontendchallenge, webdev, javascript",
+      "score": 12,
+      "user": "Ekong Ikpe"
+    },
+    {
+      "title": "I Replaced kube-proxy with eBPF in Production (And Why My Monitoring Went Blind for 6 Hours)",
+      "url": "https://dev.to/le_beltagy/i-replaced-kube-proxy-with-ebpf-in-production-and-why-my-monitoring-went-blind-for-6-hours-1n18",
+      "tags": "kubernetes, ebpf, security, homelab",
+      "score": 7,
+      "user": "Le Beltagy"
+    },
+    {
+      "title": "What Developer Experience Actually Means",
+      "url": "https://dev.to/robat_das_3c6e956212f6408/what-developer-experience-actually-means-339j",
+      "tags": "devrel, dx, engineeringculture, softwaredevelopment",
+      "score": 0,
+      "user": "Orvi Das"
+    },
+    {
+      "title": "Dev log #15 Refining the Craft: A week of Neovim UI hacking and portfolio architecture",
+      "url": "https://dev.to/yashksaini/dev-log-15-refining-the-craft-a-week-of-neovim-ui-hacking-and-portfolio-architecture-45a2",
+      "tags": "webdev, weeklyui, ui",
+      "score": 6,
+      "user": "Yash Kumar Saini"
+    },
+    {
+      "title": "The Crash JavaScript Couldn't Catch: Fixing Android Native Crashes in a React Native App",
+      "url": "https://dev.to/sourav_kashyap_3239f38dcc/the-crash-javascript-couldnt-catch-fixing-android-native-crashes-in-a-react-native-app-1mfc",
+      "tags": "reactnative, android, expo, debugging",
+      "score": 2,
+      "user": "Sourav Kashyap"
+    },
+    {
+      "title": "My First Paying Customer Failed 4 Times: Quality Is Not a Final Check",
+      "url": "https://dev.to/woshiliyana/my-first-paying-customer-failed-4-times-quality-is-not-a-final-check-52l0",
+      "tags": "postmortem, startup, product, abotwrotethis",
+      "score": 4,
+      "user": "Yana Li"
+    }
+  ],
+  "reddit": [],
+  "juejin": [
+    {
+      "title": "走进 AI Agent",
+      "url": "https://juejin.cn/post/7670003108343513122",
+      "score": 36,
+      "comments": 2
+    },
+    {
+      "title": "公司不给你配 AI，你会自己掏钱吗？",
+      "url": "https://juejin.cn/post/7670011027535921202",
+      "score": 19,
+      "comments": 19
+    },
+    {
+      "title": "hvv员工家属爆料：老公22年入职的，普通员工，老是被误以为高薪多奖金，实际上还没配股，暂时钱没存多少，我倒是很心疼他工作辛苦。",
+      "url": "https://juejin.cn/post/7669710672626089994",
+      "score": 15,
+      "comments": 4
+    },
+    {
+      "title": "前端真的比后端简单吗？",
+      "url": "https://juejin.cn/post/7669696162708504630",
+      "score": 11,
+      "comments": 25
+    },
+    {
+      "title": "FFmpeg 9.0正式发布：代号“Lei”，以纪念中国开发者雷霄骅",
+      "url": "https://juejin.cn/post/7670447828808007718",
+      "score": 24,
+      "comments": 3
+    },
+    {
+      "title": "Codex 接入 DeepSeek-V4-Flash，丝滑的一批",
+      "url": "https://juejin.cn/post/7669635386160201768",
+      "score": 10,
+      "comments": 3
+    },
+    {
+      "title": "FFmpeg 9.0 发布，代号 Lei，音视频处理再升级",
+      "url": "https://juejin.cn/post/7670139135173132322",
+      "score": 15,
+      "comments": 4
+    },
+    {
+      "title": "TRAE Work 实战复盘：从 4 小时到 7 分钟，提效近 40 倍",
+      "url": "https://juejin.cn/post/7669126369356398592",
+      "score": 5,
+      "comments": 5
+    },
+    {
+      "title": "当 AI 一天写完一周的代码，我们还剩什么优势？",
+      "url": "https://juejin.cn/post/7670092136001060907",
+      "score": 5,
+      "comments": 8
+    },
+    {
+      "title": "Spring Boot 接入金仓数据库：配置分层、启动自检与常见错误",
+      "url": "https://juejin.cn/post/7669601359986262025",
+      "score": 2,
+      "comments": 0
+    }
+  ]
+}
