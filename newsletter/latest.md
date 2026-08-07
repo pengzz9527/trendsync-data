@@ -1,22 +1,23 @@
 🔥 **今日最热**
 
-**build-your-own-x** ⭐**536780** · 通过重建你喜爱的技术来精通编程，经典永不过时
-**awesome** ⭐**493034** · 有趣主题的精选清单，开发者必收藏的万能索引
-**public-apis** ⭐**454667** · 免费 API 集合，下一个项目的数据灵感源泉
+**build-your-own-x** ⭐**536,864** · 通过重造技术栈来精通编程，经典永不过时
+**awesome** ⭐**493,109** · 优质资源清单合集，开发者收藏夹必备
+**public-apis** ⭐**454,751** · 免费 API 大集合，做项目找数据一站搞定
 
 📈 **值得关注**
 
-**Crime Pays but Botany Doesn't** 👍**451** · 犯罪与植物学的反差叙事，引发 HN 热议
-**How to Make a Nintendo 64 Game in 2026** 👍**317** · 复古游戏开发指南，技术怀旧新潮流
-**Humans missed 1 in 3 threats approving AI agent commands** 👍**123** · 人类审核 AI 指令存在巨大盲区，安全隐忧凸显
-**Pareto Front** 👍**128** · 帕累托前沿在多目标优化中的实用价值再引讨论
+**Mario Meets Pareto** 👍**843** · 用帕累托法则解构游戏设计，效率思维跨界出圈
+**AMD 收购 Taalas** 👍**295** · 将模型蚀刻进硅片，推理性能暴涨的新路径
+**Taste Is All That's Left** 👍**162** · 当 AI 接管功能，品味成为人类最后壁垒
+**Herdr 加入 YC** 👍**122** · 开源运行时保持开放，商业化与社区共存新样本
 
 🏷 **语言趋势**
 
-Python(7) = TypeScript(6) > JavaScript(3) > Shell(2) > 其他(7)
-Python 与 TypeScript 并列领跑，AI 与全栈开发双轮驱动生态热度。
+Python(7) = 其他(7) > TypeScript(6) > JavaScript(3) > Shell(2)
+
+Python 与 TypeScript 双雄领跑，AI 工具链与全栈开发仍是主流叙事；Rust 新星项目值得留意。
 
 💡 **小编视角**
 
-**走进 AI Agent** · 从概念到落地，Agent 正成为开发者绕不开的新基建
-**公司不给你配 AI，你会自己掏钱吗？** · 个人 AI 投资回报率正在加速超过企业供给，工具平权时代已至
+**OpenClaw 异军突起** · 个人 AI 助理跨平台爆发，385k star 背后是「本地优先」的隐私诉求
+**FFmpeg 9.0 致敬雷霄骅** · 开源社区用「Lei」纪念中国开发者，技术传承的温度比版本号更动人
