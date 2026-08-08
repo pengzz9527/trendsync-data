@@ -1,39 +1,23 @@
 🔥 **今日最热**
 
-**build-your-own-x** ⭐**537641** · 通过重造技术栈学编程，经典永不过时
-
-**awesome** ⭐**493537** · 全品类精选清单，开发者收藏夹的起点
-
-**public-apis** ⭐**455002** · 免费 API 集合，灵感与效率的宝库
+**build-your-own-x** ⭐**537763** · 通过重造你喜欢的工具来精通编程，经典永不过时  
+**awesome** ⭐**493643** · 全品类精选清单，GitHub 上的“百科全书”  
+**public-apis** ⭐**455049** · 免费 API 集合，开发者灵感库，实用到爆  
+**freeCodeCamp** ⭐**453670** · 开源编程课程与代码库，零成本学编程首选  
 
 📈 **值得关注**
 
-**DeepSeek V4 Flash 0731** 👍**592** · 新一代模型发布，社区热议性能与开源策略
-
-**What happens if an entire class of workers loses faith in their careers** 👍**592** · 职业信仰崩塌，技术人集体焦虑的深层讨论
-
-**Assembly Hall of Shame** 👍**326** · 汇编代码的“耻辱堂”，笑中带泪的优化反面教材
-
-**U.S. Department of Energy Launches the Genesis Open Models Initiative** 👍**210** · 美国能源部推开源模型，政府入局 AI 竞赛
+**硬件后门潜伏于部分 x86 CPU** 👍**244** · 芯片级安全隐患，比软件漏洞更棘手  
+**物理学家把仓鼠轮改造成 Strava 上传器** 👍**343** · 硬核幽默，科学家的脑洞你永远猜不到  
+**DeepMind WeatherNext 突破性预测气旋** 👍**216** · AI 气象模型再升级，防灾预警更精准  
+**别在上厕所时玩手机** 👍**129** · 直肠健康警告，127 条热评吵翻了  
 
 🏷 **语言趋势**
 
-其他(7) → Python(7) → TypeScript(6) → JavaScript(3) → Shell(2)
-
-Python 与 TypeScript 并列领跑，AI 与全栈开发双轮驱动，Rust 新星项目（anydoc）值得关注。
+Python(7) = 其他(7) > TypeScript(6) > JavaScript(3) > Shell(2)  
+Python 与 TS 双雄称霸，AI 与前端需求持续拉高热度；Rust 新星频现，但总量仍小众。
 
 💡 **小编视角**
 
-**FFmpeg 9.0 致敬雷霄骅** · 开源精神跨越国界，技术人的名字值得被记住
-
-**hvv 员工家属爆料** · 大厂光环下的普通员工，薪资与付出的真实落差引发共鸣
-
-📰 **本周新星**
-
-**anydoc** ⭐**11461** · Rust 编写的文档工具，性能与简洁兼得
-
-**kimi-k3-in-c** ⭐**3431** · 用 C 语言复刻 Kimi，硬核教学项目
-
-**zhuzhiliao** ⭐**2455** · HTML 实现的“竹知了”，创意小项目引爆社区
-
-**human-writing** ⭐**1922** · Python 模拟人类写作风格，反 AI 味利器
+**DNS 可标注“出售中”** · 域名交易将更透明，但钓鱼风险也随之增加，需警惕滥用  
+**Gentoo 因 AI 爬虫关闭 Bugzilla** · 开源社区被 AI 抓取逼到关门，数据伦理该摆上台面了
