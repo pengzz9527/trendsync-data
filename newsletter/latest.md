@@ -1,23 +1,23 @@
-🔥 **今日最热**
+🔥 **今日最热** 🔥
 
-**build-your-own-x** ⭐**537763** · 通过重造你喜欢的工具来精通编程，经典永不过时  
-**awesome** ⭐**493643** · 全品类精选清单，GitHub 上的“百科全书”  
-**public-apis** ⭐**455049** · 免费 API 集合，开发者灵感库，实用到爆  
-**freeCodeCamp** ⭐**453670** · 开源编程课程与代码库，零成本学编程首选  
+**build-your-own-x** ⭐**537,833** · 通过重造你喜爱的技术来精通编程，经典永不过时
+**awesome** ⭐**493,724** · “Awesome lists”汇总一切有趣主题，GitHub 上的百科全书
+**public-apis** ⭐**455,097** · 免费 API 大合集，开发者灵感的永动机
 
-📈 **值得关注**
+📈 **值得关注** 📈
 
-**硬件后门潜伏于部分 x86 CPU** 👍**244** · 芯片级安全隐患，比软件漏洞更棘手  
-**物理学家把仓鼠轮改造成 Strava 上传器** 👍**343** · 硬核幽默，科学家的脑洞你永远猜不到  
-**DeepMind WeatherNext 突破性预测气旋** 👍**216** · AI 气象模型再升级，防灾预警更精准  
-**别在上厕所时玩手机** 👍**129** · 直肠健康警告，127 条热评吵翻了  
+**Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating** 👍**479** · 丹麦用口头答辩对抗 AI 作弊，教育界开始“人机对决”
+**A domain can now say it is for sale, in DNS** 👍**327** · DNS 新增“出售”标记，域名交易或将迎来新玩法
+**Fastmail offers EU data region** 👍**299** · Fastmail 推出欧盟数据区域，数据主权成邮件服务新卖点
+**Can Intel finally beat ARM on performance per Watt?** 👍**145** · Intel 能否在能效比上逆袭 ARM？芯片大战再起波澜
 
-🏷 **语言趋势**
+🏷 **语言趋势** 🏷
 
-Python(7) = 其他(7) > TypeScript(6) > JavaScript(3) > Shell(2)  
-Python 与 TS 双雄称霸，AI 与前端需求持续拉高热度；Rust 新星频现，但总量仍小众。
+其他(7) → Python(7) → TypeScript(6) → JavaScript(3) → Shell(2)
 
-💡 **小编视角**
+Python 和 TypeScript 并列领跑，但“其他”语言异军突起，长尾创新正在加速。
 
-**DNS 可标注“出售中”** · 域名交易将更透明，但钓鱼风险也随之增加，需警惕滥用  
-**Gentoo 因 AI 爬虫关闭 Bugzilla** · 开源社区被 AI 抓取逼到关门，数据伦理该摆上台面了
+💡 **小编视角** 💡
+
+**FFmpeg 9.0 代号“Lei”** · 以中国开发者雷霄骅命名，开源世界记住了中国贡献
+**一线大厂的 Git 规范** · 代码管理不只是命令，更是团队协作的隐形契约
