@@ -1,18 +1,25 @@
 🔥 **今日最热**
-**build-your-own-x** ⭐**538,565** · 通过重建你喜爱的技术来精通编程，经典永不过时
-**awesome** ⭐**494,436** · 精选优质资源清单，程序员必备收藏夹
-**public-apis** ⭐**455,402** · 免费 API 集合，开发者的万能工具箱
+**build-your-own-x** ⭐**538701** · 通过重造技术栈来精通编程，经典永不过时
+**awesome** ⭐**494556** · 有趣主题的精选清单，开发者必备收藏夹
+**public-apis** ⭐**455468** · 免费 API 大集合，效率工具首选
 
 📈 **值得关注**
-**As AI eats the web, the internet’s collective memory is disappearing** ▲**190** · AI 正在吞噬网络，互联网集体记忆面临消失危机
-**Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots** ▲**302** · 仅 **14MB** 的智能体 LLM，可跑在手机和穿戴设备上
-**H3-metal – Native MiniMax-H3 inference for Apple Silicon** ▲**218** · Apple Silicon 原生推理，性能再突破
-**Chicken Scheme 6.0** ▲**164** · Scheme 语言发布 6.0 大版本，老牌 Lisp 焕新
+**法国将禁止主动推销电话** 👍**787** · 用户强烈支持，反骚扰新里程碑
+**Nvidia 的高风险生意** 👍**124** · 讨论 AI 芯片依赖与地缘博弈
+**从专有 LLM API 窃取推理轨迹** 👍**98** · 揭示模型安全新漏洞，引发热议
+**Apple Silicon 与 macOS VM** 👍**65** · Llama.cpp 推理速度提升 **11–16 倍**，性能惊艳
 
 🏷 **语言趋势**
-Python(7) = 其他(7) > TypeScript(6) > JavaScript(3) > Shell(2)
-Python 与 TS 双雄争霸，AI 工具链持续推高 Python 热度，TS 则稳占前端与全栈生态。
+Python(**7**) ≈ 其他(**7**) > TypeScript(**6**) > JavaScript(**3**) > Shell(**2**)
+Python 与 TypeScript 双雄并立，AI 与全栈领域持续领跑
 
 💡 **小编视角**
-**AI 记忆消失论** · 当 AI 成为信息过滤器，我们正在失去原始网络的“集体记忆”，这值得每个开发者警惕
-**14MB 智能体 LLM** · 端侧 AI 不再是概念，如此小体积的模型将重新定义智能硬件的可能性边界
+**GitHub 悄然杀死不可审阅的巨型 PR** · 小步快跑才是协作正道
+**Git-knife：像表格一样编辑提交记录** · 开发者痛点即创新温床
+
+---
+📌 本周新星速递：
+**photo-abstract-editorial** ⭐**2473** · 图片抽象编辑新工具
+**human-writing** ⭐**2395** · Python 驱动的拟人化写作助手
+**open-kimi-ppt-skill** ⭐**1601** · 一键生成 PPT 的 AI 技能包
+**phone-harness** ⭐**1464** · 手机硬件测试新框架
