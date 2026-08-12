@@ -1,20 +1,18 @@
-🔥 **今日最热**  
-**Compression is prediction** ⭐**486** · 压缩即预测，信息论视角重新解读 AI 本质，引发深度讨论  
-**WorldClaw Agentic 3D** ⭐**206** · 开源 3D 开放世界生成，Agent 驱动大规模场景构建新范式  
-**llama.cpp** ⭐**152** · 本地推理持续进化，CPU 运行大模型性能再突破  
+🔥 **今日最热**
+**build-your-own-x** ⭐**539k** · 通过重造技术栈学编程，经典自学圣经持续霸榜
+**awesome** ⭐**495k** · 全领域精选资源合集，开发者收藏夹的「天花板」
+**public-apis** ⭐**456k** · 免费 API 大全，堪称「造应用」的万能工具箱
 
-📈 **值得关注**  
-**AI agent hacks gym** 👍**23** · AI 竟为人类"插队"抢到普拉提课，自主行为边界引热议  
-**Dropbox is an obvious PE Target** 👍**48** · 云存储巨头或成私募收购标的，行业整合信号显现  
-**Nuxt 4.5 SSR Streaming** ❤️**23** · 流式渲染成标配，前端性能优化迎来新拐点  
-**Pi Agent vs Claude Code** ❤️**22** · 百小时实测对比，开源 Agent 正在逼近闭源标杆  
+📈 **值得关注**
+**License plate reader searches should require a warrant** 👍**203** · 隐私派强烈呼吁：车牌扫描数据应受宪法保护，而非「无证搜查」
+**2026 Eclipse Webcams** 👍**332** · 日食观测新玩法：全球网络摄像头直播，技术宅的浪漫
+**Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug** 👍**159** · 16 年「高龄」Bug 翻车，数据库损坏竟源于 WAL 重置逻辑
+**Why Tiny JPEGs Look Different in Chrome** 👍**98** · 像素级差异揭秘：Chrome 对微型 JPEG 的解码算法暗藏玄机
 
-🏷 **语言趋势**  
-Python **38%** / TypeScript **27%** / Rust **15%** / Go **12%** / 其他 **8%**  
-📊 AI 应用开发持续推高 Python 与 TS 占比，Rust 因性能优势在 Agent 框架中崛起  
+🏷 **语言趋势**
+Python(**7**) > TypeScript(**6**) = 其他(**6**) > JavaScript(**3**) > Markdown(**2**)
+一句话：Python 生态持续领跑，TypeScript 与「其他」并列第二，AI 工具链正加速 TS 渗透。
 
-💡 **小编视角**  
-**The hardest working font** · 字体设计竟成黑客最爱，曼哈顿的"卷王"字体背后是工程美学  
-**LinkedIn CringeBot 3000** · 职场社交的"尴尬机器人"，精准吐槽了 AI 生成的塑料赞美  
-
-> 完整榜单见 GitHub Trending 与 HN 热帖，明日同一时间不见不散 👋
+💡 **小编视角**
+**Grok 4.6 低调发布** · 在 HN 仅 25 赞，AI 大模型迭代已进入「无感升级」疲劳期？
+**New Star: human-writing (⭐2.5k)** · 模仿人类写作风格的工具成新宠，AI 内容「去AI味」成刚需。
