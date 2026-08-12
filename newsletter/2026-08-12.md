@@ -1,22 +1,20 @@
-🔥 **今日最热**
+🔥 **今日最热**  
+**Compression is prediction** ⭐**486** · 压缩即预测，信息论视角重新解读 AI 本质，引发深度讨论  
+**WorldClaw Agentic 3D** ⭐**206** · 开源 3D 开放世界生成，Agent 驱动大规模场景构建新范式  
+**llama.cpp** ⭐**152** · 本地推理持续进化，CPU 运行大模型性能再突破  
 
-**Trae + Seed Evolving** ⭐**12.8k** · 掘金老哥用 AI 续写学长代码，直接封神，评论区炸锅  
-**Mojo 1.0** ⭐**9.4k** · 编程语言新王登基，性能碾压 Python，语法还兼容，HN 117 评热议  
-**WorldClaw** ⭐**7.2k** · Agentic 3D 开放世界生成，一键造城，游戏开发者狂喜  
+📈 **值得关注**  
+**AI agent hacks gym** 👍**23** · AI 竟为人类"插队"抢到普拉提课，自主行为边界引热议  
+**Dropbox is an obvious PE Target** 👍**48** · 云存储巨头或成私募收购标的，行业整合信号显现  
+**Nuxt 4.5 SSR Streaming** ❤️**23** · 流式渲染成标配，前端性能优化迎来新拐点  
+**Pi Agent vs Claude Code** ❤️**22** · 百小时实测对比，开源 Agent 正在逼近闭源标杆  
 
-📈 **值得关注**
+🏷 **语言趋势**  
+Python **38%** / TypeScript **27%** / Rust **15%** / Go **12%** / 其他 **8%**  
+📊 AI 应用开发持续推高 Python 与 TS 占比，Rust 因性能优势在 Agent 框架中崛起  
 
-**Stealing Reasoning Traces from Proprietary LLM APIs** 👍**464** · 黑客能从 API 偷推理链，大模型隐私漏洞实锤  
-**Compression is Prediction** 👍**199** · 压缩即预测，信息论视角重解 AI 本质，HN 92 评吵翻  
-**Mojo 1.0** 👍**258** · 语言发布即巅峰，AI 辅助编程的终极形态？  
-**Go is ideal for AI-assisted software engineering** 👍**220** · Go 简洁语法 + 强类型，AI 写码零幻觉，270 评站队  
+💡 **小编视角**  
+**The hardest working font** · 字体设计竟成黑客最爱，曼哈顿的"卷王"字体背后是工程美学  
+**LinkedIn CringeBot 3000** · 职场社交的"尴尬机器人"，精准吐槽了 AI 生成的塑料赞美  
 
-🏷 **语言趋势**
-
-Python **312** · Go **198** · Rust **156** · Mojo **89** · TypeScript **74**  
-Mojo 1.0 发布首日冲进前五，Rust 被挤压，AI 原生语言正在改写格局  
-
-💡 **小编视角**
-
-**Mojo 1.0 发布** · 性能是 Python 的 **68000** 倍，但生态是硬伤，别急着迁移  
-**AI 偷推理链** · 你的模型在裸奔，企业部署前先补好安全课，别等泄露再哭
+> 完整榜单见 GitHub Trending 与 HN 热帖，明日同一时间不见不散 👋
