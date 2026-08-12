@@ -1,25 +1,22 @@
 🔥 **今日最热**
-**build-your-own-x** ⭐**538701** · 通过重造技术栈来精通编程，经典永不过时
-**awesome** ⭐**494556** · 有趣主题的精选清单，开发者必备收藏夹
-**public-apis** ⭐**455468** · 免费 API 大集合，效率工具首选
+
+**Trae + Seed Evolving** ⭐**12.8k** · 掘金老哥用 AI 续写学长代码，直接封神，评论区炸锅  
+**Mojo 1.0** ⭐**9.4k** · 编程语言新王登基，性能碾压 Python，语法还兼容，HN 117 评热议  
+**WorldClaw** ⭐**7.2k** · Agentic 3D 开放世界生成，一键造城，游戏开发者狂喜  
 
 📈 **值得关注**
-**法国将禁止主动推销电话** 👍**787** · 用户强烈支持，反骚扰新里程碑
-**Nvidia 的高风险生意** 👍**124** · 讨论 AI 芯片依赖与地缘博弈
-**从专有 LLM API 窃取推理轨迹** 👍**98** · 揭示模型安全新漏洞，引发热议
-**Apple Silicon 与 macOS VM** 👍**65** · Llama.cpp 推理速度提升 **11–16 倍**，性能惊艳
+
+**Stealing Reasoning Traces from Proprietary LLM APIs** 👍**464** · 黑客能从 API 偷推理链，大模型隐私漏洞实锤  
+**Compression is Prediction** 👍**199** · 压缩即预测，信息论视角重解 AI 本质，HN 92 评吵翻  
+**Mojo 1.0** 👍**258** · 语言发布即巅峰，AI 辅助编程的终极形态？  
+**Go is ideal for AI-assisted software engineering** 👍**220** · Go 简洁语法 + 强类型，AI 写码零幻觉，270 评站队  
 
 🏷 **语言趋势**
-Python(**7**) ≈ 其他(**7**) > TypeScript(**6**) > JavaScript(**3**) > Shell(**2**)
-Python 与 TypeScript 双雄并立，AI 与全栈领域持续领跑
+
+Python **312** · Go **198** · Rust **156** · Mojo **89** · TypeScript **74**  
+Mojo 1.0 发布首日冲进前五，Rust 被挤压，AI 原生语言正在改写格局  
 
 💡 **小编视角**
-**GitHub 悄然杀死不可审阅的巨型 PR** · 小步快跑才是协作正道
-**Git-knife：像表格一样编辑提交记录** · 开发者痛点即创新温床
 
----
-📌 本周新星速递：
-**photo-abstract-editorial** ⭐**2473** · 图片抽象编辑新工具
-**human-writing** ⭐**2395** · Python 驱动的拟人化写作助手
-**open-kimi-ppt-skill** ⭐**1601** · 一键生成 PPT 的 AI 技能包
-**phone-harness** ⭐**1464** · 手机硬件测试新框架
+**Mojo 1.0 发布** · 性能是 Python 的 **68000** 倍，但生态是硬伤，别急着迁移  
+**AI 偷推理链** · 你的模型在裸奔，企业部署前先补好安全课，别等泄露再哭
