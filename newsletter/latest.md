@@ -1,18 +1,18 @@
 🔥 **今日最热**
-**build-your-own-x** ⭐**539659** · 从零复刻核心技术，程序员永恒的练功房。
-**awesome** ⭐**495670** · 精选清单百科全书，收藏从未停止，学习从未开始？
-**public-apis** ⭐**457785** · 免费 API 大全，一个仓库搞定所有接口需求。
+**build-your-own-x** ⭐**539K** · 手搓一切技术栈，GitHub 永恒顶流
+**awesome** ⭐**496K** · 万能清单仓库，开发者收藏夹的尽头
+**public-apis** ⭐**459K** · 免费 API 大合集，摸鱼造轮子必备
 
 📈 **值得关注**
-**GLM-5.3：前沿编码与网络能力** 👍**854** · 国产模型秀肌肉，编码能力再突破，评论区吵翻了。
-**Qwen3.8-27B** 👍**179** · 开源大模型又卷新尺寸，性价比或成关键词。
-**Every Fucking Website (2020)** 👍**372** · 经典吐槽贴重浮水面，网页体验之殇至今无解。
-**Don't classify, hallucinate!** 👍**142** · 反共识观点：别分类了，直接让模型“幻觉”出答案？
+**Why does Opus 5 feel worse to work with?** ▲**747** · 大模型迭代引发体验倒退，社区质疑声浪高涨
+**Qwen 3.8 27B** ▲**833** · 开源模型再进化，性能直逼闭源旗舰
+**Google is making private AI practical with homomorphic encryption** ▲**252** · 同态加密落地，隐私计算迎来转折点
+**RustDesk supports true unattended remote access on Wayland** ▲**205** · 远程控制跨平台，Wayland 用户终于解脱
 
 🏷 **语言趋势**
-Python(**7**) > TypeScript(**6**) = 其他(**6**) > JavaScript(**3**) > Markdown(**2**)
-一句话：Python 稳固基本盘，TypeScript 持续侵蚀前端领地，AI 工具链仍是主力战场。
+Python(**7**) = TypeScript(**6**) > 其他(**6**) > JavaScript(**3**) > Markdown(**2**)
+一句话：AI 生态持续推高 Python，TypeScript 借全栈框架紧咬不放，前端格局暗流涌动。
 
 💡 **小编视角**
-**DeepSeek Harness 开源** · 万赞教程加持，AI 应用开发门槛再降，但别只会“抄作业”。
-**尤雨溪新公司 + Pinia 4** · 前端圈顶流再创业，生态迭代加速，Vue 系开发者有福了。
+**DeepSeek Harness 开源** · 一周新星狂揽 **95K** ⭐，AI 基建赛道正式进入白热化
+**尤雨溪新公司 + Pinia 4** · 框架作者创业潮再起，生态商业化按下加速键
